@@ -312,7 +312,7 @@ Fritters, pineapple or banana, with cayenne sugar (MagGrill);fruitd
 Tangerine-basil sorbet (binder);fruitd;icecream
 Raspberry sherbet (binder);fruitd;icecream
 Strawberry freeze (binder);fruitd;icecream
-Pomegranate panna cotta (binder);fruitd
+Pomegranate panna cotta (binder);fruitd;custards
 Apple-cheddar hand pies (binder);fruitd;pies
 Thumbprint cookies;fruitd;cookies
 Ice cream with mango and lime (binder);fruitd;icecream
@@ -330,92 +330,81 @@ Mango crumble (based on KA apple crumble);fruitd
 Apricot-walnut crisp (binder);fruitd
 Peach cream tart (binder);fruitd;pies
 Peach pie with cardamom (binder);fruitd;pies
-
-Chocolate desserts
-Chocolate-covered cherry cookies (book)
-"Faux-reo" cookies, regular or mint (KA)
-Ian's triple chocolate crunchy sandwich cookies (binder)
-Cherry chocolate cake, Grandma Rose’s (book)
-Devil's food cake with peanut butter icing (KA)
-Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
-Puppy Chow
-Peanut butter-honey tart with ganache glaze - Snickers tart (binder)
-Chocolate truffle tart (ACC)
-Chocolate chip sandwich bread (binder)
-Chocolate scones (binder)
-Mommy Cookies (binder)
-Fruit and chocolate pizza (binder)
-Easy chocolate peanut butter chip bars (binder)
-Jeanne's peanut butter fudge
-Triple-chocolate mousse cake
-Chocolate pudding pie, Jean Greene (binder)
-Bittersweet chocolate pudding (BLR)
-Pots de crème (USL, Cooks)
-Chocolate-chile cream pots (binder)
-Chocolate-mint pudding cakes (binder)
-Jeanne's molten chocolate cakes (binder)
-Chocolate souffles with peanut butter centers (binder)
-Dark chocolate-lime souffles (binder)
-Chocolate, caramel, and walnut tart (binder)
-Midnight crackle cookies (binder)
-Chocolate cheesecake (binder)
-Chocolate fondue
-Chocolate pecan pie (binder, ACC)
-Mexican chocolate cake with ganache frosting (PQ)
-Buche de Noel / Yule log (ACC)
-Other desserts
-Pate a choux / Cream puffs / Eclairs (KA)
-	Eclairs with peanut butter pastry cream (ACC, KA)
-Ice cream (Jeni)
-Cheerwine ice cream (binder)
-Mexican ice cream (with honey, cinnamon, and cornflakes) (binder)
-Pudding, vanilla (bean) (USL/BC)
-Butterscotch pudding (binder)
-Buttermilk panna cotta (MagGrill)
-Buttermilk vanilla bean pie (MagGrill)
-Pomegranate panna cotta (binder)
-Lime-vanilla creme brulee (Mesa)
-Ginger creme brulee (MagGrill)
-Ginger mousse (binder)
-Dulce de leche cheesecake bars (binder)
-Rice pudding (plain or chocolate orange; binder, ACC)
-Caramel pie, Grandma Rose’s (book)
-Crepes (w/ Nutella, etc)
-Churros (ACC)
-Yeast doughnuts (KA)
-Mom's meringues (ACC, binder)
-Macaroons (binder)
-Marshmallows (binder, ACC)
-Molasses spice cookies (binder)
-Carrot cake with cream cheese frosting (BLR)
-Carrot cake with crystalized ginger (KA)
-Oatmeal raisin cookies (BLR)
-Thin and crispy oatmeal cookies (binder)
-Apple butter walnut thumbprints (binder)
-Pink lemonade pie (BC?)
-Honeybun cake (USL)
-Paula Deen's gooey butter cakes (binder)
-Peanut butter and jelly bars (binder)
-Peanut butter pie (binder)
-Texas pecan pie bars (PQ)
-Chiffon cake (KA)
-Jellyroll cake (KA)
-Pound cake, vanilla (KA)
-Pound cake, chocolate (KA)
-Boston cream pie (KA)
-White cake with Jack Daniels buttercream (PQ)
-Basic yellow cake (KA)
-Sweet sauces and components
-Wild huckleberry (blueberry) sauce (ACC)
-Strawberries in red wine and balsamic syrup (ACC)
-Cream cheese mousse (binder)
-Food processor pie crust (MagGrill, ACC)
-Chocolate buttercream (USL)
-Ganache frosting (PQ)
-Rolled "buttercream" fondant (binder)
-Italian meringue / 7-minute frosting (binder, from KA website)
-Ethereal buttercream frosting (binder)
-Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min)
-Crystallized ginger (ACC)
-Pastry cream (APPC/ACC [easier], KA [flavored])
-Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper)
+Chocolate-covered cherry cookies (book);chocd;cookies
+"Faux-reo" cookies, regular or mint (KA);chocd;cookies
+Ian's triple chocolate crunchy sandwich cookies (binder);chocd;cookies
+Cherry chocolate cake, Grandma Rose’s (book);chocd;cakes
+Devil's food cake with peanut butter icing (KA);chocd;cakes
+Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder);chocd;cakes
+Puppy Chow;chocd
+Peanut butter-honey tart with ganache glaze - Snickers tart (binder);chocd;pies
+Chocolate truffle tart (ACC);chocd;pies
+Mommy Cookies (binder);chocd;cookies
+Easy chocolate peanut butter chip bars (binder);chocd;bars
+Jeanne's peanut butter fudge;chocd
+Triple-chocolate mousse cake;chocd
+Chocolate pudding pie, Jean Greene (binder);chocd;pies;custards
+Bittersweet chocolate pudding (BLR);chocd;custards
+Pots de crème (USL, Cooks);chocd;custards
+Chocolate-chile cream pots (binder);chocd;custards
+Chocolate-mint pudding cakes (binder);chocd;cakes
+Jeanne's molten chocolate cakes (binder);chocd;cakes
+Chocolate souffles with peanut butter centers (binder);chocd
+Dark chocolate-lime souffles (binder);chocd
+Chocolate cheesecake (binder);chocd
+Chocolate fondue;chocd
+Chocolate pecan pie (binder, ACC);chocd;pies
+Mexican chocolate cake with ganache frosting (PQ);chocd;cakes
+Buche de Noel / Yule log (ACC);chocd;cakes
+Pate a choux / Cream puffs / Eclairs (KA);otherd;custards
+Eclairs with peanut butter pastry cream (ACC, KA);otherd;custards
+Ice cream (Jeni);otherd;icecream
+Mexican ice cream (with honey, cinnamon, and cornflakes) (binder);otherd;icecream
+Pudding, vanilla (bean) (USL/BC);otherd;custards
+Butterscotch pudding (binder);otherd;custards
+Buttermilk panna cotta (MagGrill);otherd;custards
+Buttermilk vanilla bean pie (MagGrill);otherd;pies
+Lime-vanilla creme brulee (Mesa);otherd;custards
+Ginger creme brulee (MagGrill);otherd;custards
+Ginger mousse (binder);otherd
+Dulce de leche cheesecake bars (binder);otherd
+Rice pudding (plain or chocolate orange; binder, ACC);otherd
+Caramel pie, Grandma Rose’s (book);otherd;pies
+Crepes (w/ Nutella, etc);otherd
+Churros (ACC);otherd
+Yeast doughnuts (KA);otherd
+Mom's meringues (ACC, binder);otherd;cookies
+Macaroons (binder);otherd;cookies
+Marshmallows (binder, ACC);otherd
+Molasses spice cookies (binder);otherd;cookies
+Carrot cake with cream cheese frosting (BLR);otherd;cakes
+Carrot cake with crystalized ginger (KA);otherd;cakes
+Oatmeal raisin cookies (BLR);otherd;cookies
+Thin and crispy oatmeal cookies, salted (binder);otherd;cookies
+Pink lemonade pie (BC?);otherd;cakes;icecream
+Paula Deen's gooey butter cakes (binder);otherd;bars
+Peanut butter and jelly bars (binder);otherd;bars
+Peanut butter pie (binder);otherd;pies
+Texas pecan pie bars (PQ);otherd;bars
+Chiffon cake (KA);otherd;cakes
+Jellyroll cake (KA);otherd;cakes
+Pound cake, vanilla (KA);otherd;cakes
+Pound cake, chocolate (KA);otherd;cakes
+Boston cream pie (KA);otherd;cakes
+White cake with Jack Daniels buttercream (PQ);otherd;cakes
+Basic yellow cake (KA);otherd;cakes
+Wild huckleberry (blueberry) sauce (ACC);sauced
+Strawberries in red wine and balsamic syrup (ACC);sauced
+Cream cheese mousse (binder);sauced
+Whipped cream, gelatin-stabilized (binder);sauced
+Food processor pie crust (MagGrill, ACC);sauced
+Chocolate buttercream (USL);sauced
+Ganache frosting (PQ);sauced
+Rolled "buttercream" fondant (binder);sauced
+Italian meringue / 7-minute frosting (binder, from KA website);sauced
+Ethereal buttercream frosting (binder);sauced
+Jack Daniels buttercream (PQ);sauced
+Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min);sauced
+Crystallized ginger (ACC);sauced
+Pastry cream (APPC/ACC - easier, KA - flavored);sauced
+Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper);sauced
