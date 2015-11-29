@@ -95,7 +95,7 @@ Parmesean crusted chicken (binder);poultry
 Chicken fajitas & raja con crema (binder);poultry
 Chicken with onions and mustard-cream sauce (just wine, Dijon, cream);poultry
 Faux Chick-Fil-A sandwich (binder);poultry;sandwich
-Stir fry;chicken;pork
+Stir fry;poultry;pork
 Peach-mustard pork (book);pork
 Pork chops with bacon-cornbread stuffing (BC);pork
 Pork chops with port wine apple sauce (ACC);pork
@@ -174,13 +174,14 @@ Cinnamon rolls (Jailhouse potato - PQ), Alton's - binder, BLR);flour;breakfast
 Scones, cheddar and bacon (PQ);flour;breakfast
 Scones, British (binder);flour;breakfast
 Yeast doughnuts (KA);flour;breakfast
+Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ);flour;breakfast
 “Moomie’s” Beautiful Burger Buns (KA);flour;sandwich
 Potato burger buns (binder);flour;sandwich
 Potato-flake white bread 101, dinner rolls or monkey bread (KA);flour
 Sesame Italian bread (KA, ACC);flour
 "Crostini" for sandwiches (KA);flour
 No-knead Dutch oven bread (binder);flour
-KA 36-hour ciabatta (KA, ACC; flat for sandwiches);flour
+KA 36-hour ciabatta (KA, ACC, flat for sandwiches);flour
 Battered & fried sandwiches (???);flour;sandwich
 Refrigerator flatbread (Flay, ACC);flour
 Crusty rolls (fresh or frozen, $);flour
@@ -368,7 +369,7 @@ Lime-vanilla creme brulee (Mesa);otherd;custards
 Ginger creme brulee (MagGrill);otherd;custards
 Ginger mousse (binder);otherd
 Dulce de leche cheesecake bars (binder);otherd
-Rice pudding (plain or chocolate orange; binder, ACC);otherd
+Rice pudding (plain or chocolate orange, binder, ACC);otherd
 Caramel pie, Grandma Rose’s (book);otherd;pies
 Crepes (w/ Nutella, etc);otherd
 Churros (ACC);otherd
