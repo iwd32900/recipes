@@ -1,0 +1,421 @@
+Smoothies, yogurt-fruit (binder);drinks
+Ginger ale, homemade (ACC, binder);drinks
+Bacon bites;appetizers
+Vidalia onion dip (ACC, book);appetizers
+Red pepper cheddar dip (binder);appetizers
+Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime);appetizers
+Guacamole (binder, ACC);appetizers
+Seven layer dip (BCITW);appetizers
+Cheez-Its, homemade (binder);appetizers
+Oyster crackers, Bitler (binder);appetizers
+Cheese log, Bitler;appetizers
+Mixed nuts, "Union Square Cafe" (binder);appetizers
+Pecans, sweet and spicy (ACC);appetizers
+Chewy granola bars (binder, ACC);breakfast
+Granola (binder);breakfast
+Tomato soup (SCR);soups
+Baked potato soup (USL);soups;potatoes
+Potato-leek soup (binder);soups;potatoes
+French onion soup (Puck);soups
+Tortilla soup (binder);soups
+Thai curry chicken soup (binder);soups;poultry
+Corn chowder, "Cafe" (binder);soups
+Corn and crab chowder (binder);soups;shrimpetc
+Chicken corn soup (Mom);soups;poultry
+Chicken pot pie (ACC);soups;poultry
+Black bean soup with chorizo and chicken (binder);soups;beans;poultry;sausage
+Pork and mustard greens soup (binder);soups;pork
+Eggs over medium;eggs;vegetarian;breakfast
+Scrambled eggs;eggs;vegetarian;breakfast
+Omelet;eggs;vegetarian;breakfast
+Eggs Benedict;eggs;breakfast
+Mexican brunch pie (USL);eggs;vegetarian
+Deep-dish Quiche Lorraine (binder);eggs
+Tortilla española;eggs;potatoes;vegetarian
+Strata, sausage and Swiss (BTMR);eggs;sausage
+Sausage, red pepper, and spinach torta rustica (binder);eggs;sausage
+Cheese soufflé (binder);eggs;vegetarian
+Hard-boiled eggs;eggs
+Deviled eggs, Bitler (book);eggs
+Deviled eggs, with basil aioli and capers (binder);eggs
+[Deviled eggs, with bacon](http://allrecipes.com/recipe/214059/garlic-basil-and-bacon-deviled-eggs/);eggs
+Smoked cheddar fondue;cheese;vegetarian
+(other cheese fondues);cheese;vegetarian
+Quesadillas;cheese;vegetarian
+Corn, sweet onion, and thyme quesadillas (Flay);cheese;vegetarian
+Black beans;beans
+Black beans, Caribbean (book);beans
+Black beans with Rotel tomatoes [Mary Beth];beans
+Baked beans;beans
+Baked beans, creamy (book);beans
+Baked beans, Bruce's five-bean (USL);beans
+Mexican pinto beans (binder);beans
+Refried beans with bacon grease (ACC);beans
+Drunken (boracho) beans (binder);beans
+[Slow-cooked dried beans](http://orangette.blogspot.com/2015/10/while-youre-not-looking.html);beans
+Black-eyed pea and kale salad with bacon vinaigrette (binder);beans;bacon
+Black bean salad with corn, red pepper, and avocado (binder);beans
+Kielbasa, lentils, and spinach (binder);beans;sausage
+Lentil "chili" (binder, ACC);beans;vegetarian
+Calabacitas in masa crepes (PV);vegetarian
+Fried avocado tacos (binder);vegetarian
+Pizza;vegetarian
+Sweet and sour chicken, baked (binder);poultry
+Honey chicken (CT);poultry
+Teriyaki chicken (BTMR);poultry
+White barbeque chicken (USL, ACC);poultry;grill
+Mom’s Dijon marinated chicken (book);poultry;grill
+Green chile chicken enchildadas (binder);poultry;casserole
+Chicken tetrazzini (BC);poultry;pasta;casserole
+Creamy chicken-apple crepes (book);poultry
+Chicken and waffles;poultry
+Buffalo quinoa bites (binder);poultry;altgrains
+White bean and chicken chili (binder);poultry;beans
+Rosemary grilled chicken thighs (binder);poultry;grill
+Peach-mustard chicken (book);poultry
+Barbecue chicken;poultry;grill
+Chicken Cordon Bleu (book);poultry
+Chicken Cordon Bleu casserole (Pinterest, binder);poultry;casserole
+Chicken in sun-dried tomato cream (book);poultry;pasta
+Turkey salad with egg (ACC);poultry
+Allen's chicken salad (binder);poultry
+Asian chicken salad (Besh MFT);poultry;salad
+Turkey burgers;poultry;grill;sandwich
+Indonesian peanut chicken (BC, ACC);poultry
+Indonesian peanut glazed chicken (binder);poultry
+Pecan-crusted chicken fingers (binder);poultry
+Chicken piccata (USL);poultry
+Chicken parmigiana;poultry
+Roast salted turkey (binder);poultry
+Butterflied roast chicken with smoked paprika and thyme (binder);poultry
+Chicken and vegetables en papillote (BLR);poultry
+Chicken pot pie with biscuit topping (BTMR);poultry;casserole
+Chicken-bacon pot pie (binder);poultry;casserole
+Parmesean crusted chicken (binder);poultry
+Chicken fajitas & raja con crema (binder);poultry
+Chicken with onions and mustard-cream sauce (just wine, Dijon, cream);poultry
+Faux Chick-Fil-A sandwich (binder);poultry;sandwich
+Stir fry;chicken;pork
+Peach-mustard pork (book);pork
+Pork chops with bacon-cornbread stuffing (BC);pork
+Pork chops with port wine apple sauce (ACC);pork
+Thai-spiced pork burgers (binder);pork;sandwich
+Smoked pork butt BBQ (amazingribs.com);pork;grill;sandwich
+Carnitas (Mexican-style pulled pork) (binder);pork
+Chipotle pork tacos with pineapple salsa (binder);pork
+Bitler Beef Stroganoff (book);beef
+Black pepper steak with red onion chutney (binder, ACC);beef
+Beef with three-herb chimichurri (binder);beef
+Steaks (filet mignon, ...);beef
+Short rib sloppy joes (Besh MFT);beef;sandwich
+Chicken-fried steak (?);beef
+Italian sausages;sausage;grill;sandwich
+Hotdogs;sausage;grill;sandwich
+Bratwurst;sausage;grill;sandwich
+Corn dogs (binder);sausage
+Hamburgers;groundbeef;grill;sandwich
+Gyro loaf (FoodTV/Alton, binder);groundbeef;sandwich
+Mini-meatloaves, Southwestern (BTMR);groundbeef
+Chili (w/ corn);groundbeef
+Southern Living beef-and-bean chili (binder);groundbeef
+Hotdog chili (binder);groundbeef
+"Franks and beans" (binder);sausage;beans
+Taco salad;groundbeef;poultry;beans
+Taco bake (book);groundbeef;casserole
+Cheesy beef enchiladas (book);groundbeef;casserole
+Sausage and pepper casserole with grits (Emeril);sausage;altgrains
+Sausage lasagna (binder);sausage;pasta
+Potato-sausage Christmas casserole (book);sausage;potatoes;casserole
+Pork meatball bahn mi (binder, Brooke’s email);pork;sandwich
+Biscuits with sausage gravy (USL);sausage;breakfast
+Fettuccine with creamy tomato & sausage sauce (book);sausage;pasta
+Lettuce wraps (binder);groundbeef;salad
+Sweet mustard salmon (book);fish
+Pineapple salmon (book);fish
+Orange-soy sauce salmon (5/15);fish
+Lime and honey glazed salmon (binder);fish
+Salmon with dill cream over greens (USL);fish
+Salmon with red onion marmalade (binder);fish
+Salmon with leek cream (binder);fish
+Salmon with peach and pink grapefruit relish (binder);fish
+Salmon with pineapple salsa and chipotle mayo (binder);fish
+Salmon en papillote (BLR);fish
+French Caribbean creole sauce for whitefish;fish
+Salmon-spinach pot pie with mashed potato crust (binder);fish;casserole
+Fish tacos (?, Flay);fish
+Stuffed sole with egg sauce (Omaha Steaks);fish
+Shrimp and grits (binder, ACC);shrimpetc;altgrains
+Shrimp risotto (binder);shrimpetc
+Wendy’s marinated shrimp (book);shrimpetc
+Coconut fried shrimp (ACC);shrimpetc
+Shrimp with jalepeno-apricot glaze (binder);shrimpetc
+Creamy Gruyere scallops (USL);shrimpetc
+Shrimp paella (binder);shrimpetc;rice
+Fake-crab cakes with chipotle aioli (CT);shrimpetc
+Crepes (book);flour
+Masa harina crepes (PV);flour
+Roti -- great for wraps, etc. (KA);flour
+Tortillas ($);flour;altgrains
+Waffles (USL, BC);flour;breakfast
+French toast, from croissants (ACC);flour;breakfast
+Pancakes (BC);flour;breakfast
+Biscuits (ACC);flour;breakfast
+Sour cream cornbread (CW);altgrains
+Buttermilk cornbread (USL);altgrains
+Blue and yellow corn muffins with peppers (Mesa);altgrains
+Cook's savory corn muffins (binder);altgrains
+Hushpuppies (binder);altgrains
+Muffins, blueberry jam (binder);flour;breakfast
+Doughnut muffins (binder);flour;breakfast
+Banana bread (USL fewer ingredients, BC better taste);flour;breakfast
+Pumpkin bread, Really Good (binder);flour;breakfast
+Chocolate-chip coffee cake (Bitler);flour;breakfast
+Cinnamon rolls (Jailhouse potato - PQ), Alton's - binder, BLR);flour;breakfast
+Scones, cheddar and bacon (PQ);flour;breakfast
+Scones, British (binder);flour;breakfast
+Yeast doughnuts (KA);flour;breakfast
+“Moomie’s” Beautiful Burger Buns (KA);flour;sandwich
+Potato burger buns (binder);flour;sandwich
+Potato-flake white bread 101, dinner rolls or monkey bread (KA);flour
+Sesame Italian bread (KA, ACC);flour
+"Crostini" for sandwiches (KA);flour
+No-knead Dutch oven bread (binder);flour
+KA 36-hour ciabatta (KA, ACC; flat for sandwiches);flour
+Battered & fried sandwiches (???);flour;sandwich
+Refrigerator flatbread (Flay, ACC);flour
+Crusty rolls (fresh or frozen, $);flour
+Crescent rolls ($, binder);flour
+Popovers / Yorkshire puddings (ask Bruce?);flour
+Grits with cheese (ACC);altgrains
+Magnolia Grill cheese grits souffle (binder, ACC);altgrains;eggs;vegetarian
+Couscous with shallots and almonds (Cook's, binder);pasta
+Quinoa;altgrains
+Quinoa pilaf (binder);altgrains
+Orzo;pasta
+Penne, bowties, spirals, etc.;pasta
+Penne alla vodka (binder);pasta;vegetarian
+American macaroni salad (binder);pasta
+Macaroni and cheese, smoky (binder);pasta;vegetarian
+Macaroni and cheese, Mom's (CWC);pasta;vegetarian
+Macaroni and cheese, nacho (binder);pasta;vegetarian
+Macaroni and cheese, Ranch (binder);pasta;vegetarian
+Macaroni and cheese, Panera (binder);pasta;vegetarian
+Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried);pasta
+Straw and hay (BC, ACC);pasta
+Spaghetti-ham pie (BC? USL?);pasta
+Tortellini, etc. (homemade - Puck, refrigerated, or frozen);pasta
+Thai rice noodles;pasta
+Pad Thai (binder);pasta;vegetarian
+Egg noodles (homemade - binder);pasta
+Rice pilaf (?);rice
+White rice;rice
+Southern “red” rice (Lee Bros);rice
+Jambalaya / dirty rice (Zatarain's);rice
+Wild rice;altgrains
+Pineapple rice (book);rice
+Shrimp risotto (binder);rice;shrimpetc
+Hands-free risotto (Cook's, binder);rice
+Brown rice;rice
+Black rice;rice
+Saffron rice (?);rice
+Same-day fried rice (binder);rice
+Sushi rice (sushi book);rice
+Sushi rolls;rice
+Hash browns (fresh or frozen, don’t grate potatoes);potatoes;breakfast
+Patatas al pobre / grill cook's medley;potatoes;breakfast
+Potato roesti (binder, Cook’s);potatoes
+Lorraine’s creamy potatoes (book);potatoes
+French fries / tater tots (frozen);potatoes
+One-fry French fries (Steingarten);potatoes
+Boiled or steamed new potatoes;potatoes
+Pan-braised red potatoes;potatoes
+Mashed potatoes (steam dry, fat before milk);potatoes
+Baked Russet potatoes;potatoes
+Twice-baked potatoes, Bitler (book);potatoes
+Twice-baked potatoes, horseradish (Mesa);potatoes
+Herb-roasted potatoes Poupon (book);potatoes
+Potato salad, with vinaigrette (book);potatoes
+Potato salad, French tarragon (binder);potatoes
+Potato salad, with mayo/mustard/egg (Besh MFT);potatoes
+Potato salad, Austrian (binder);potatoes
+Patatas alioli (CW under “mayonnaise”);potatoes
+Potato casserole with bacon and caramelized onion (binder);potatoes;casserole
+Home fries (binder);potatoes;breakfast
+Gnocchi, potato (binder);potatoes;pasta
+Homemade berry jam (binder);fruit;canning
+Glazed carrots (BTMR, binder);veggies
+Corn (on the cob, frozen, or canned);veggies
+Corn with Asian glaze (binder);veggies
+Creamed corn (USL);veggies
+Fresh corn salad (binder);veggies
+Grandma Zale’s corn casserole;veggies
+Yellow squash;veggies
+Zucchini;veggies
+Bruce's eggplant parmesean (binder);vegetarian
+Broccoli;veggies
+Chili-garlic roasted broccoli (binder);veggies
+Broccoli salad, Aunt Carolsue’s (book);veggies
+Cauliflower, roasted with goat cheese (binder);veggies
+Green beans (fresh or canned);veggies
+Green beans with bacon and brown sugar (book);veggies
+Green beans with lemon and thyme (binder);veggies
+Green beans with feta and Italian dressing (binder);veggies
+Sugar snap peas;veggies
+Snow peas;veggies
+Fried tempura okra (binder);veggies
+Creamed spinach (ACC, $, USL);veggies
+Spinach fritters (binder);veggies
+Stewed kale (binder);veggies
+Sauteed kale with garlic and capers (binder);veggies
+Bitler cucumbers and onions (BCITW);veggies;salad
+Bread & butter pickles, Coggins' recipe (binder);veggies;canning
+Coleslaw with vinaigrette (spicy, USL);salad
+Coleslaw with sweet mayo (ACC);salad
+Wendy's "zesty salad" with crumbled Ramen (book);salad
+Green apple slaw;salad
+Port wine apple sauce (ACC);fruit
+Green salad;salad
+Kale salad with apple and cheddar (binder);salad
+Spinach salad;salad
+Caesar salad;salad
+Fuji apple salad;salad
+Hollandaise (binder - Cook's);sauces
+Béarnaise (CW);sauces
+Mayonnaise (CW);sauces
+Milk mayonnaise (binder);sauces
+Remoulade (binder);sauces
+Classic vinaigrette with a touch of mayo (binder);dressings
+Roasted garlic & buttermilk dressing (binder);dressings
+Gravy, turkey (ACC);sauces
+Indonesian peanut glaze (binder);sauces
+Pad Thai sauce (binder);sauces
+Apricot-ginger-jalepeño sauce (ACC);sauces
+Port wine apple sauce (ACC);sauces
+Yogurt honey poppyseed dressing for fruit (book);sauces;fruit
+White sauce with egg for stuffed fish (book);sauces
+Creole honey mustard (binder);sauces
+Three-herb chimichurri (binder);sauces
+Tzatziki (Flay);sauces
+Three-ingredient summertime salsa (Smitten Kitchen, binder);sauces;appetizers
+NC barbecue sauce (LeeBros, amazingribs.com, binder);sauces
+SC barbecue sauce (binder, amazingribs.com);sauces
+Memphis dust rub (binder, amazingribs.com);sauces
+Hot sauce (ACC, binder);sauces
+Chili seasoning mix (binder);sauces
+Taco seasoning mix (binder);sauces
+Strawberry cake, Grandma Rose's (book);fruitd;cakes
+Tarte Tatin (ACC);fruitd;pies
+Banana upside down cake (MagGrill, ACC);fruitd;cakes
+Upside-down butterscotch apple sour cream cake (ACC);fruitd;cakes
+Pineapple upside-down cake (KA);fruitd;cakes
+Fritters, pineapple or banana, with cayenne sugar (MagGrill);fruitd
+Tangerine-basil sorbet (binder);fruitd;icecream
+Raspberry sherbet (binder);fruitd;icecream
+Strawberry freeze (binder);fruitd;icecream
+Pomegranate panna cotta (binder);fruitd
+Apple-cheddar hand pies (binder);fruitd;pies
+Thumbprint cookies;fruitd;cookies
+Ice cream with mango and lime (binder);fruitd;icecream
+Grilled peaches with brown sugar and white chocolate (binder);fruitd
+Bananas Foster (binder);fruitd
+Strawberry shortcake (MagGrill);fruitd
+Strawberry shortcake with balsamic and black pepper (binder);fruitd
+Blueberry-blackberry pie (MagGrill);fruitd;pies
+Mom's strawberry pie (binder, w/ white lasagna);fruitd;pies
+Apple Brown Betty (binder);fruitd
+Cranberry Nantucket (Liz & Bob, binder);fruitd;pies
+2-crust baked fruit pies e.g. strawberry-rhubarb (KA);fruitd;pies
+1-crust stirred fruit pies e.g. frutas del bosque (KA);fruitd;pies
+Mango crumble (based on KA apple crumble);fruitd
+Apricot-walnut crisp (binder);fruitd
+Peach cream tart (binder);fruitd;pies
+Peach pie with cardamom (binder);fruitd;pies
+
+Chocolate desserts
+Chocolate-covered cherry cookies (book)
+"Faux-reo" cookies, regular or mint (KA)
+Ian's triple chocolate crunchy sandwich cookies (binder)
+Cherry chocolate cake, Grandma Rose’s (book)
+Devil's food cake with peanut butter icing (KA)
+Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
+Puppy Chow
+Peanut butter-honey tart with ganache glaze - Snickers tart (binder)
+Chocolate truffle tart (ACC)
+Chocolate chip sandwich bread (binder)
+Chocolate scones (binder)
+Mommy Cookies (binder)
+Fruit and chocolate pizza (binder)
+Easy chocolate peanut butter chip bars (binder)
+Jeanne's peanut butter fudge
+Triple-chocolate mousse cake
+Chocolate pudding pie, Jean Greene (binder)
+Bittersweet chocolate pudding (BLR)
+Pots de crème (USL, Cooks)
+Chocolate-chile cream pots (binder)
+Chocolate-mint pudding cakes (binder)
+Jeanne's molten chocolate cakes (binder)
+Chocolate souffles with peanut butter centers (binder)
+Dark chocolate-lime souffles (binder)
+Chocolate, caramel, and walnut tart (binder)
+Midnight crackle cookies (binder)
+Chocolate cheesecake (binder)
+Chocolate fondue
+Chocolate pecan pie (binder, ACC)
+Mexican chocolate cake with ganache frosting (PQ)
+Buche de Noel / Yule log (ACC)
+Other desserts
+Pate a choux / Cream puffs / Eclairs (KA)
+	Eclairs with peanut butter pastry cream (ACC, KA)
+Ice cream (Jeni)
+Cheerwine ice cream (binder)
+Mexican ice cream (with honey, cinnamon, and cornflakes) (binder)
+Pudding, vanilla (bean) (USL/BC)
+Butterscotch pudding (binder)
+Buttermilk panna cotta (MagGrill)
+Buttermilk vanilla bean pie (MagGrill)
+Pomegranate panna cotta (binder)
+Lime-vanilla creme brulee (Mesa)
+Ginger creme brulee (MagGrill)
+Ginger mousse (binder)
+Dulce de leche cheesecake bars (binder)
+Rice pudding (plain or chocolate orange; binder, ACC)
+Caramel pie, Grandma Rose’s (book)
+Crepes (w/ Nutella, etc)
+Churros (ACC)
+Yeast doughnuts (KA)
+Mom's meringues (ACC, binder)
+Macaroons (binder)
+Marshmallows (binder, ACC)
+Molasses spice cookies (binder)
+Carrot cake with cream cheese frosting (BLR)
+Carrot cake with crystalized ginger (KA)
+Oatmeal raisin cookies (BLR)
+Thin and crispy oatmeal cookies (binder)
+Apple butter walnut thumbprints (binder)
+Pink lemonade pie (BC?)
+Honeybun cake (USL)
+Paula Deen's gooey butter cakes (binder)
+Peanut butter and jelly bars (binder)
+Peanut butter pie (binder)
+Texas pecan pie bars (PQ)
+Chiffon cake (KA)
+Jellyroll cake (KA)
+Pound cake, vanilla (KA)
+Pound cake, chocolate (KA)
+Boston cream pie (KA)
+White cake with Jack Daniels buttercream (PQ)
+Basic yellow cake (KA)
+Sweet sauces and components
+Wild huckleberry (blueberry) sauce (ACC)
+Strawberries in red wine and balsamic syrup (ACC)
+Cream cheese mousse (binder)
+Food processor pie crust (MagGrill, ACC)
+Chocolate buttercream (USL)
+Ganache frosting (PQ)
+Rolled "buttercream" fondant (binder)
+Italian meringue / 7-minute frosting (binder, from KA website)
+Ethereal buttercream frosting (binder)
+Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min)
+Crystallized ginger (ACC)
+Pastry cream (APPC/ACC [easier], KA [flavored])
+Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper)
