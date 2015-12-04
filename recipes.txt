@@ -1,11 +1,11 @@
 Smoothies, yogurt-fruit (binder);drinks
 Ginger ale, homemade (ACC, binder);drinks
-Bacon bites;appetizers
+Bacon bites;appetizers;bacon
 Vidalia onion dip (ACC, book);appetizers
 Red pepper cheddar dip (binder);appetizers
-Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime);appetizers
-Guacamole (binder, ACC);appetizers
-Seven layer dip (BCITW);appetizers
+Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime);appetizers;mexican
+Guacamole (binder, ACC);appetizers;mexican
+Seven layer dip (BCITW);appetizers;mexican
 Cheez-Its, homemade (binder);appetizers
 Oyster crackers, Bitler (binder);appetizers
 Cheese log, Bitler;appetizers
@@ -16,9 +16,9 @@ Granola (binder);breakfast
 Tomato soup (SCR);soups
 Baked potato soup (USL);soups;potatoes
 Potato-leek soup (binder);soups;potatoes
-French onion soup (Puck);soups
-Tortilla soup (binder);soups
-Thai curry chicken soup (binder);soups;poultry
+French onion soup (Puck);soups;french
+Tortilla soup (binder);soups;mexican
+Thai curry chicken soup (binder);soups;poultry;asian
 Corn chowder, "Cafe" (binder);soups
 Corn and crab chowder (binder);soups;shrimpetc
 Chicken corn soup (Mom);soups;poultry
@@ -26,49 +26,49 @@ Chicken pot pie (ACC);soups;poultry
 Black bean soup with chorizo and chicken (binder);soups;beans;poultry;sausage
 Pork and mustard greens soup (binder);soups;pork
 Eggs over medium;eggs;vegetarian;breakfast
-Scrambled eggs;eggs;vegetarian;breakfast
-Omelet;eggs;vegetarian;breakfast
+Scrambled eggs;eggs;vegetarian;breakfast;kids
+Omelet;eggs;vegetarian;breakfast;kids;french
 Eggs Benedict;eggs;breakfast
-Mexican brunch pie (USL);eggs;vegetarian
-Deep-dish Quiche Lorraine (binder);eggs
+Mexican brunch pie (USL);eggs;vegetarian;mexican
+Deep-dish Quiche Lorraine (binder);eggs;bacon;french
 Tortilla española;eggs;potatoes;vegetarian
 Strata, sausage and Swiss (BTMR);eggs;sausage
 Sausage, red pepper, and spinach torta rustica (binder);eggs;sausage
-Cheese soufflé (binder);eggs;vegetarian
+Cheese soufflé (binder);eggs;vegetarian;french
 Hard-boiled eggs;eggs
 Deviled eggs, Bitler (book);eggs
 Deviled eggs, with basil aioli and capers (binder);eggs
-[Deviled eggs, with bacon](http://allrecipes.com/recipe/214059/garlic-basil-and-bacon-deviled-eggs/);eggs
+Deviled eggs, with bacon ([web](http://allrecipes.com/recipe/214059/garlic-basil-and-bacon-deviled-eggs/));eggs
 Smoked cheddar fondue;cheese;vegetarian
 (other cheese fondues);cheese;vegetarian
-Quesadillas;cheese;vegetarian
+Quesadillas;cheese;vegetarian;kids;mexican
 Corn, sweet onion, and thyme quesadillas (Flay);cheese;vegetarian
-Black beans;beans
+Black beans;beans;mexican
 Black beans, Caribbean (book);beans
-Black beans with Rotel tomatoes [Mary Beth];beans
+Black beans with Rotel tomatoes [Mary Beth];beans;mexican
 Baked beans;beans
 Baked beans, creamy (book);beans
 Baked beans, Bruce's five-bean (USL);beans
-Mexican pinto beans (binder);beans
-Refried beans with bacon grease (ACC);beans
-Drunken (boracho) beans (binder);beans
+Mexican pinto beans (binder);beans;mexican
+Refried beans with bacon grease (ACC);beans;mexican
+Drunken (boracho) beans (binder);beans;mexican
 [Slow-cooked dried beans](http://orangette.blogspot.com/2015/10/while-youre-not-looking.html);beans
 Black-eyed pea and kale salad with bacon vinaigrette (binder);beans;bacon
 Black bean salad with corn, red pepper, and avocado (binder);beans
 Kielbasa, lentils, and spinach (binder);beans;sausage
 Lentil "chili" (binder, ACC);beans;vegetarian
 Calabacitas in masa crepes (PV);vegetarian
-Fried avocado tacos (binder);vegetarian
-Pizza;vegetarian
-Sweet and sour chicken, baked (binder);poultry
-Honey chicken (CT);poultry
-Teriyaki chicken (BTMR);poultry
+Fried avocado tacos (binder);vegetarian;mexican
+Pizza;vegetarian;kids
+Sweet and sour chicken (binder);poultry;kids;asian
+Honey chicken (CT);poultry;asian
+Teriyaki chicken (BTMR);poultry;kids;asian
 White barbeque chicken (USL, ACC);poultry;grill
 Mom’s Dijon marinated chicken (book);poultry;grill
-Green chile chicken enchildadas (binder);poultry;casserole
-Chicken tetrazzini (BC);poultry;pasta;casserole
-Creamy chicken-apple crepes (book);poultry
-Chicken and waffles;poultry
+Green chile chicken enchildadas (binder);poultry;casserole;mexican
+Chicken tetrazzini (BC);poultry;pasta;casserole;kids
+Creamy chicken-apple crepes (book);poultry;french
+Chicken and waffles;poultry;kids
 Buffalo quinoa bites (binder);poultry;altgrains
 White bean and chicken chili (binder);poultry;beans
 Rosemary grilled chicken thighs (binder);poultry;grill
@@ -76,60 +76,60 @@ Peach-mustard chicken (book);poultry
 Barbecue chicken;poultry;grill
 Chicken Cordon Bleu (book);poultry
 Chicken Cordon Bleu casserole (Pinterest, binder);poultry;casserole
-Chicken in sun-dried tomato cream (book);poultry;pasta
+Chicken in sun-dried tomato cream (book);poultry;pasta;italian
 Turkey salad with egg (ACC);poultry
 Allen's chicken salad (binder);poultry
-Asian chicken salad (Besh MFT);poultry;salad
+Asian chicken salad (Besh MFT);poultry;salad;asian
 Turkey burgers;poultry;grill;sandwich
-Indonesian peanut chicken (BC, ACC);poultry
-Indonesian peanut glazed chicken (binder);poultry
-Pecan-crusted chicken fingers (binder);poultry
-Chicken piccata (USL);poultry
-Chicken parmigiana;poultry
+Indonesian peanut chicken (BC, ACC);poultry;asian
+Indonesian peanut glazed chicken (binder);poultry;asian
+Pecan-crusted chicken fingers (binder);poultry;kids
+Chicken piccata (USL);poultry;italian
+Chicken parmigiana;poultry;kids;italian
 Roast salted turkey (binder);poultry
-Butterflied roast chicken with smoked paprika and thyme (binder);poultry
+Butterflied roast chicken with smoked paprika and thyme (binder);poultry;kids
 Chicken and vegetables en papillote (BLR);poultry
 Chicken pot pie with biscuit topping (BTMR);poultry;casserole
-Chicken-bacon pot pie (binder);poultry;casserole
-Parmesean crusted chicken (binder);poultry
-Chicken fajitas & raja con crema (binder);poultry
-Chicken with onions and mustard-cream sauce (just wine, Dijon, cream);poultry
-Faux Chick-Fil-A sandwich (binder);poultry;sandwich
-Stir fry;poultry;pork
+Chicken-bacon pot pie (binder);poultry;casserole;bacon
+Parmesean crusted chicken (binder);poultry;kids;italian
+Chicken fajitas & raja con crema (binder);poultry;mexican
+Chicken with onions and mustard-cream sauce (just wine, Dijon, cream);poultry;french
+Faux Chick-Fil-A sandwich (binder);poultry;sandwich;kids
+Stir fry;poultry;pork;asian
 Peach-mustard pork (book);pork
 Pork chops with bacon-cornbread stuffing (BC);pork
 Pork chops with port wine apple sauce (ACC);pork
-Thai-spiced pork burgers (binder);pork;sandwich
+Thai-spiced pork burgers (binder);pork;sandwich;asian
 Smoked pork butt BBQ (amazingribs.com);pork;grill;sandwich
-Carnitas (Mexican-style pulled pork) (binder);pork
-Chipotle pork tacos with pineapple salsa (binder);pork
+Carnitas (Mexican-style pulled pork) (binder);pork;mexican
+Chipotle pork tacos with pineapple salsa (binder);pork;mexican
 Bitler Beef Stroganoff (book);beef
 Black pepper steak with red onion chutney (binder, ACC);beef
-Beef with three-herb chimichurri (binder);beef
-Steaks (filet mignon, ...);beef
+Beef with three-herb chimichurri (binder);beef;mexican
+Steaks (filet mignon, ...);beef;kids
 Short rib sloppy joes (Besh MFT);beef;sandwich
 Chicken-fried steak (?);beef
 Italian sausages;sausage;grill;sandwich
-Hotdogs;sausage;grill;sandwich
-Bratwurst;sausage;grill;sandwich
-Corn dogs (binder);sausage
-Hamburgers;groundbeef;grill;sandwich
+Hotdogs;sausage;grill;sandwich;kids
+Bratwurst;sausage;grill;sandwich;kids
+Corn dogs (binder);sausage;kids
+Hamburgers;groundbeef;grill;sandwich;kids
 Gyro loaf (FoodTV/Alton, binder);groundbeef;sandwich
 Mini-meatloaves, Southwestern (BTMR);groundbeef
 Chili (w/ corn);groundbeef
 Southern Living beef-and-bean chili (binder);groundbeef
 Hotdog chili (binder);groundbeef
 "Franks and beans" (binder);sausage;beans
-Taco salad;groundbeef;poultry;beans
+Taco salad;groundbeef;poultry;beans;mexican
 Taco bake (book);groundbeef;casserole
-Cheesy beef enchiladas (book);groundbeef;casserole
+Cheesy beef enchiladas (book);groundbeef;casserole;mexican
 Sausage and pepper casserole with grits (Emeril);sausage;altgrains
-Sausage lasagna (binder);sausage;pasta
+Sausage lasagna (binder);sausage;pasta;kids;italian
 Potato-sausage Christmas casserole (book);sausage;potatoes;casserole
-Pork meatball bahn mi (binder, Brooke’s email);pork;sandwich
+Pork meatball bahn mi (binder, Brooke’s email);pork;sandwich;asian
 Biscuits with sausage gravy (USL);sausage;breakfast
-Fettuccine with creamy tomato & sausage sauce (book);sausage;pasta
-Lettuce wraps (binder);groundbeef;salad
+Fettuccine with creamy tomato & sausage sauce (book);sausage;pasta;italian
+Lettuce wraps (binder);groundbeef;salad;asian
 Sweet mustard salmon (book);fish
 Pineapple salmon (book);fish
 Orange-soy sauce salmon (5/15);fish
@@ -142,10 +142,11 @@ Salmon with pineapple salsa and chipotle mayo (binder);fish
 Salmon en papillote (BLR);fish
 French Caribbean creole sauce for whitefish;fish
 Salmon-spinach pot pie with mashed potato crust (binder);fish;casserole
-Fish tacos (?, Flay);fish
+Fish tacos (?, Flay);fish;mexican
+Fish sticks;kids;fish
 Stuffed sole with egg sauce (Omaha Steaks);fish
 Shrimp and grits (binder, ACC);shrimpetc;altgrains
-Shrimp risotto (binder);shrimpetc
+Shrimp risotto (binder);shrimpetc;italian
 Wendy’s marinated shrimp (book);shrimpetc
 Coconut fried shrimp (ACC);shrimpetc
 Shrimp with jalepeno-apricot glaze (binder);shrimpetc
@@ -200,7 +201,7 @@ Macaroni and cheese, smoky (binder);pasta;vegetarian
 Macaroni and cheese, Mom's (CWC);pasta;vegetarian
 Macaroni and cheese, nacho (binder);pasta;vegetarian
 Macaroni and cheese, Ranch (binder);pasta;vegetarian
-Macaroni and cheese, Panera (binder);pasta;vegetarian
+Macaroni and cheese, Panera (binder);pasta;vegetarian;kids
 Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried);pasta
 Straw and hay (BC, ACC);pasta
 Spaghetti-ham pie (BC? USL?);pasta
@@ -210,7 +211,7 @@ Pad Thai (binder);pasta;vegetarian
 Egg noodles (homemade - binder);pasta
 Rice pilaf (?);rice
 White rice;rice
-Southern “red” rice (Lee Bros);rice
+Southern "red" rice (Lee Bros);rice
 Jambalaya / dirty rice (Zatarain's);rice
 Wild rice;altgrains
 Pineapple rice (book);rice
@@ -280,9 +281,9 @@ Kale salad with apple and cheddar (binder);salad
 Spinach salad;salad
 Caesar salad;salad
 Fuji apple salad;salad
-Hollandaise (binder - Cook's);sauces
-Béarnaise (CW);sauces
-Mayonnaise (CW);sauces
+Hollandaise (binder - Cook's);sauces;yolks
+Béarnaise (CW);sauces;yolks
+Mayonnaise (CW);sauces;yolks
 Milk mayonnaise (binder);sauces
 Remoulade (binder);sauces
 Classic vinaigrette with a touch of mayo (binder);dressings
@@ -374,7 +375,7 @@ Caramel pie, Grandma Rose’s (book);otherd;pies
 Crepes (w/ Nutella, etc);otherd
 Churros (ACC);otherd
 Yeast doughnuts (KA);otherd
-Mom's meringues (ACC, binder);otherd;cookies
+Mom's meringues (ACC, binder);otherd;cookies;whites
 Macaroons (binder);otherd;cookies
 Marshmallows (binder, ACC);otherd
 Molasses spice cookies (binder);otherd;cookies
@@ -402,10 +403,25 @@ Food processor pie crust (MagGrill, ACC);sauced
 Chocolate buttercream (USL);sauced
 Ganache frosting (PQ);sauced
 Rolled "buttercream" fondant (binder);sauced
-Italian meringue / 7-minute frosting (binder, from KA website);sauced
-Ethereal buttercream frosting (binder);sauced
+Italian meringue / 7-minute frosting (binder, from KA website);sauced;whites
+Ethereal buttercream frosting (binder);sauced;whites
 Jack Daniels buttercream (PQ);sauced
 Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min);sauced
 Crystallized ginger (ACC);sauced
 Pastry cream (APPC/ACC - easier, KA - flavored);sauced
 Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper);sauced
+Cheesy creamed corn with cilantro (binder);veggies;mexican
+Sauteed cabbage with chile and peanutes (binder);veggies
+Ground beef chile, Cook's Illustrated (binder);groundbeef;beans;soups
+Tres leches cake (Pioneer Woman, binder);cakes;otherd
+Salted caramel pot de creme (web, binder);otherd;custards
+General Tso's chicken (ACC, binder);poultry;sauces;asian
+Orange chicken (ACC, binder);poultry;sauces;asian
+Meringue and chocolate pudding pie, Jean Green (ACC, binder);chocd;custards;pies
+Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder);poultry;french;casserole
+Caesar salad dressing (Orangette, binder);dressings;salad
+Hanger steak with cucumber salad, Jujube (Bon Appetit, binder);beef;grill;asian
+Black bean burgers (Pioneer Woman, binder);vegetarian;beans;sandwich
+Pinto bean and corn dip (binder);appetizers;beans;mexican
+Pasta with prosciutto and peas (binder);pasta
+Fruit & booze smoothies;drinks

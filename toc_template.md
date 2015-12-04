@@ -36,7 +36,7 @@
 
 ;shrimpetc
 
-## Soups ##
+## Soups & Stews ##
 
 ;soups
 
@@ -111,6 +111,7 @@
 
 
 # Breakfast #
+
 ;breakfast
 
 
@@ -192,3 +193,23 @@
 ## Uses whites ##
 
 ;whites
+
+
+
+# By Cuisine #
+
+## Asian ##
+
+;asian
+
+## French ##
+
+;french
+
+## Italian ##
+
+;italian
+
+## Mexican and Latin ##
+
+;mexican
