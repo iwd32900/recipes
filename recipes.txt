@@ -345,7 +345,7 @@ Mommy Cookies (binder);chocd;cookies
 Easy chocolate peanut butter chip bars (binder);chocd;bars
 Jeanne's peanut butter fudge;chocd
 Triple-chocolate mousse cake;chocd
-Chocolate pudding pie, Jean Greene (binder);chocd;pies;custards
+Chocolate pudding pie, Jean Greene (ACC, binder);chocd;pies;custards
 Bittersweet chocolate pudding (BLR);chocd;custards
 Pots de crème (USL, Cooks);chocd;custards
 Chocolate-chile cream pots (binder);chocd;custards
@@ -417,7 +417,6 @@ Tres leches cake (Pioneer Woman, binder);cakes;otherd
 Salted caramel pot de creme (web, binder);otherd;custards
 General Tso's chicken (ACC, binder);poultry;sauces;asian
 Orange chicken (ACC, binder);poultry;sauces;asian
-Meringue and chocolate pudding pie, Jean Green (ACC, binder);chocd;custards;pies
 Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder);poultry;french;casserole
 Caesar salad dressing (Orangette, binder);dressings;salad
 Hanger steak with cucumber salad, Jujube (Bon Appetit, binder);beef;grill;asian
