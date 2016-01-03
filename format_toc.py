@@ -63,4 +63,4 @@ with open("toc.md", "wt") as outfile:
         for recipe in sorted(recipes[section]):
             outfile.write("* %s\n" % recipe)
 
-# pandoc -f markdown_github -t html -o toc.html toc.md
+# pandoc -f markdown_github -t html --ascii -o toc.html toc.md

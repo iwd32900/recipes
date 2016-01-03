@@ -13,7 +13,7 @@ Mixed nuts, "Union Square Cafe" (binder);appetizers
 Pecans, sweet and spicy (ACC);appetizers
 Chewy granola bars (binder, ACC);breakfast
 Granola (binder);breakfast
-Tomato soup (SCR);soups
+Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitchen-creamy-tomato.html), SCR);soups
 Baked potato soup (USL);soups;potatoes
 Potato-leek soup (binder);soups;potatoes
 French onion soup (Puck);soups;french
@@ -58,13 +58,13 @@ Black bean salad with corn, red pepper, and avocado (binder);beans
 Kielbasa, lentils, and spinach (binder);beans;sausage
 Lentil "chili" (binder, ACC);beans;vegetarian
 Calabacitas in masa crepes (PV);vegetarian
-Fried avocado tacos (binder);vegetarian;mexican
+Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder);vegetarian;mexican
 Pizza;vegetarian;kids
 Sweet and sour chicken (binder);poultry;kids;asian
 Honey chicken (CT);poultry;asian
 Teriyaki chicken (BTMR);poultry;kids;asian
 White barbeque chicken (USL, ACC);poultry;grill
-Mom’s Dijon marinated chicken (book);poultry;grill
+Mom's Dijon marinated chicken (book);poultry;grill
 Green chile chicken enchildadas (binder);poultry;casserole;mexican
 Chicken tetrazzini (BC);poultry;pasta;casserole;kids
 Creamy chicken-apple crepes (book);poultry;french
@@ -75,7 +75,6 @@ Rosemary grilled chicken thighs (binder);poultry;grill
 Peach-mustard chicken (book);poultry
 Barbecue chicken;poultry;grill
 Chicken Cordon Bleu (book);poultry
-Chicken Cordon Bleu casserole (Pinterest, binder);poultry;casserole
 Chicken in sun-dried tomato cream (book);poultry;pasta;italian
 Turkey salad with egg (ACC);poultry
 Allen's chicken salad (binder);poultry
@@ -126,7 +125,7 @@ Cheesy beef enchiladas (book);groundbeef;casserole;mexican
 Sausage and pepper casserole with grits (Emeril);sausage;altgrains
 Sausage lasagna (binder);sausage;pasta;kids;italian
 Potato-sausage Christmas casserole (book);sausage;potatoes;casserole
-Pork meatball bahn mi (binder, Brooke’s email);pork;sandwich;asian
+Pork meatball bahn mi (binder, Brooke's email);pork;sandwich;asian
 Biscuits with sausage gravy (USL);sausage;breakfast
 Fettuccine with creamy tomato & sausage sauce (book);sausage;pasta;italian
 Lettuce wraps (binder);groundbeef;salad;asian
@@ -147,7 +146,7 @@ Fish sticks;kids;fish
 Stuffed sole with egg sauce (Omaha Steaks);fish
 Shrimp and grits (binder, ACC);shrimpetc;altgrains
 Shrimp risotto (binder);shrimpetc;italian
-Wendy’s marinated shrimp (book);shrimpetc
+Wendy's marinated shrimp (book);shrimpetc
 Coconut fried shrimp (ACC);shrimpetc
 Shrimp with jalepeno-apricot glaze (binder);shrimpetc
 Creamy Gruyere scallops (USL);shrimpetc
@@ -176,9 +175,9 @@ Scones, cheddar and bacon (PQ);flour;breakfast
 Scones, British (binder);flour;breakfast
 Yeast doughnuts (KA);flour;breakfast
 Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ);flour;breakfast
-“Moomie’s” Beautiful Burger Buns (KA);flour;sandwich
+"Moomie's" Beautiful Burger Buns (KA);flour;sandwich
 Potato burger buns (binder);flour;sandwich
-Potato-flake white bread 101, dinner rolls or monkey bread (KA);flour
+Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe));flour;appetizers
 Sesame Italian bread (KA, ACC);flour
 "Crostini" for sandwiches (KA);flour
 No-knead Dutch oven bread (binder);flour
@@ -195,7 +194,7 @@ Quinoa;altgrains
 Quinoa pilaf (binder);altgrains
 Orzo;pasta
 Penne, bowties, spirals, etc.;pasta
-Penne alla vodka (binder);pasta;vegetarian
+Penne alla vodka ([web](http://urbandrivel.blogspot.com/2007/01/cooks-illustrated-perfecting-penne.html), binder);pasta;vegetarian
 American macaroni salad (binder);pasta
 Macaroni and cheese, smoky (binder);pasta;vegetarian
 Macaroni and cheese, Mom's (CWC);pasta;vegetarian
@@ -415,8 +414,8 @@ Sauteed cabbage with chile and peanutes (binder);veggies
 Ground beef chile, Cook's Illustrated (binder);groundbeef;beans;soups
 Tres leches cake (Pioneer Woman, binder);cakes;otherd
 Salted caramel pot de creme (web, binder);otherd;custards
-General Tso's chicken (ACC, binder);poultry;sauces;asian
-Orange chicken (ACC, binder);poultry;sauces;asian
+General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
+Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
 Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder);poultry;french;casserole
 Caesar salad dressing (Orangette, binder);dressings;salad
 Hanger steak with cucumber salad, Jujube (Bon Appetit, binder);beef;grill;asian
