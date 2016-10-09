@@ -60,6 +60,10 @@
 
 ;casserole
 
+## Slow Cooker ##
+
+;slowcooker
+
 ## Sandwiches ##
 
 ;sandwich

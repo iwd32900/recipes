@@ -13,8 +13,9 @@ Mixed nuts, "Union Square Cafe" (binder);appetizers
 Pecans, sweet and spicy (ACC);appetizers
 Chewy granola bars (binder, ACC);breakfast
 Granola (binder);breakfast
-Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitchen-creamy-tomato.html), SCR);soups
+Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitchen-creamy-tomato.html), SCR);soups;slowcooker
 Baked potato soup (USL);soups;potatoes
+Baked potato soup (SCR);soups;potatoes;slowcooker
 Potato-leek soup (binder);soups;potatoes
 French onion soup (Puck);soups;french
 Tortilla soup (binder);soups;mexican
@@ -100,7 +101,7 @@ Pork chops with bacon-cornbread stuffing (BC);pork
 Pork chops with port wine apple sauce (ACC);pork
 Thai-spiced pork burgers (binder);pork;sandwich;asian
 Smoked pork butt BBQ (amazingribs.com);pork;grill;sandwich
-Carnitas (Mexican-style pulled pork) (binder);pork;mexican
+Carnitas (Mexican-style pulled pork) (binder);pork;mexican;slowcooker
 Chipotle pork tacos with pineapple salsa (binder);pork;mexican
 Bitler Beef Stroganoff (book);beef
 Black pepper steak with red onion chutney (binder, ACC);beef
@@ -116,7 +117,7 @@ Hamburgers;groundbeef;grill;sandwich;kids
 Gyro loaf (FoodTV/Alton, binder);groundbeef;sandwich
 Mini-meatloaves, Southwestern (BTMR);groundbeef
 Chili (w/ corn);groundbeef
-Southern Living beef-and-bean chili (binder);groundbeef
+Southern Living beef-and-bean chili (binder);groundbeef;slowcooker
 Hotdog chili (binder);groundbeef
 "Franks and beans" (binder);sausage;beans
 Taco salad;groundbeef;poultry;beans;mexican
@@ -248,7 +249,7 @@ Glazed carrots (BTMR, binder);veggies
 Corn (on the cob, frozen, or canned);veggies
 Corn with Asian glaze (binder);veggies
 Creamed corn (USL);veggies
-Fresh corn salad (binder);veggies
+Fresh corn salad ([web](http://www.foodnetwork.com/recipes/ina-garten/fresh-corn-salad-recipe.html), binder);veggies
 Grandma Zale’s corn casserole;veggies
 Yellow squash;veggies
 Zucchini;veggies
@@ -411,7 +412,7 @@ Pastry cream (APPC/ACC - easier, KA - flavored);sauced
 Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper);sauced
 Cheesy creamed corn with cilantro (binder);veggies;mexican
 Sauteed cabbage with chile and peanutes (binder);veggies
-Ground beef chile, Cook's Illustrated (binder);groundbeef;beans;soups
+Ground beef chili, Cook's Illustrated (binder);groundbeef;beans;soups
 Tres leches cake (Pioneer Woman, binder);cakes;otherd
 Salted caramel pot de creme (web, binder);otherd;custards
 General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
@@ -419,7 +420,9 @@ Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chick
 Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder);poultry;french;casserole
 Caesar salad dressing (Orangette, binder);dressings;salad
 Hanger steak with cucumber salad, Jujube (Bon Appetit, binder);beef;grill;asian
-Black bean burgers (Pioneer Woman, binder);vegetarian;beans;sandwich
+Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder);vegetarian;beans;sandwich
 Pinto bean and corn dip (binder);appetizers;beans;mexican
 Pasta with prosciutto and peas (binder);pasta
 Fruit & booze smoothies;drinks
+Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-chicken-salad-2/));salad;poultry
+Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/));otherd

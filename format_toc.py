@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from __future__ import print_function
-import re
+import re, subprocess
 from collections import defaultdict
 
 # Read the table of contents template
@@ -63,4 +63,4 @@ with open("toc.md", "wt") as outfile:
         for recipe in sorted(recipes[section]):
             outfile.write("* %s\n" % recipe)
 
-# pandoc -f markdown_github -t html --ascii -o toc.html toc.md
+subprocess.run('pandoc -f markdown_github -t html --ascii -o toc.html toc.md'.split())
