@@ -17,7 +17,7 @@ Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitche
 Baked potato soup (USL);soups;potatoes
 Baked potato soup (SCR);soups;potatoes;slowcooker
 Potato-leek soup (binder);soups;potatoes
-French onion soup (Puck);soups;french
+French onion soup (FoodLab);soups;french
 Tortilla soup (binder);soups;mexican
 Thai curry chicken soup (binder);soups;poultry;asian
 Corn chowder, "Cafe" (binder);soups
@@ -47,9 +47,10 @@ Corn, sweet onion, and thyme quesadillas (Flay);cheese;vegetarian
 Black beans;beans;mexican
 Black beans, Caribbean (book);beans
 Black beans with Rotel tomatoes [Mary Beth];beans;mexican
-Baked beans;beans
+Baked beans, store-bought;beans
 Baked beans, creamy (book);beans
 Baked beans, Bruce's five-bean (USL);beans
+Baked beans, perfect ([Pioneer Woman](http://www.foodnetwork.com/recipes/ree-drummond/perfectly-baked-beans-recipe.html));beans
 Mexican pinto beans (binder);beans;mexican
 Refried beans with bacon grease (ACC);beans;mexican
 Drunken (boracho) beans (binder);beans;mexican
@@ -90,7 +91,7 @@ Roast salted turkey (binder);poultry
 Butterflied roast chicken with smoked paprika and thyme (binder);poultry;kids
 Chicken and vegetables en papillote (BLR);poultry
 Chicken pot pie with biscuit topping (BTMR);poultry;casserole
-Chicken-bacon pot pie (binder);poultry;casserole;bacon
+Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder);poultry;casserole;bacon
 Parmesean crusted chicken (binder);poultry;kids;italian
 Chicken fajitas & raja con crema (binder);poultry;mexican
 Chicken with onions and mustard-cream sauce (just wine, Dijon, cream);poultry;french
@@ -146,7 +147,7 @@ Fish tacos (?, Flay);fish;mexican
 Fish sticks;kids;fish
 Stuffed sole with egg sauce (Omaha Steaks);fish
 Shrimp and grits (binder, ACC);shrimpetc;altgrains
-Shrimp risotto (binder);shrimpetc;italian
+Shrimp risotto (binder);shrimpetc;italian;rice
 Wendy's marinated shrimp (book);shrimpetc
 Coconut fried shrimp (ACC);shrimpetc
 Shrimp with jalepeno-apricot glaze (binder);shrimpetc
@@ -215,8 +216,7 @@ Southern "red" rice (Lee Bros);rice
 Jambalaya / dirty rice (Zatarain's);rice
 Wild rice;altgrains
 Pineapple rice (book);rice
-Shrimp risotto (binder);rice;shrimpetc
-Hands-free risotto (Cook's, binder);rice
+Hands-free risotto (Cook's, binder);rice;italian
 Brown rice;rice
 Black rice;rice
 Saffron rice (?);rice
@@ -310,7 +310,7 @@ Tarte Tatin (ACC);fruitd;pies
 Banana upside down cake (MagGrill, ACC);fruitd;cakes
 Upside-down butterscotch apple sour cream cake (ACC);fruitd;cakes
 Pineapple upside-down cake (KA);fruitd;cakes
-Fritters, pineapple or banana, with cayenne sugar (MagGrill);fruitd
+Fritters, pineapple or banana, with cayenne sugar (MagGrill);fruitd;fried
 Tangerine-basil sorbet (binder);fruitd;icecream
 Raspberry sherbet (binder);fruitd;icecream
 Strawberry freeze (binder);fruitd;icecream
@@ -369,7 +369,7 @@ Buttermilk vanilla bean pie (MagGrill);otherd;pies
 Lime-vanilla creme brulee (Mesa);otherd;custards
 Ginger creme brulee (MagGrill);otherd;custards
 Ginger mousse (binder);otherd
-Dulce de leche cheesecake bars (binder);otherd
+Dulce de leche cheesecake bars ([web](http://www.epicurious.com/recipes/food/views/dulce-de-leche-cheesecake-bars-359393), binder);otherd
 Rice pudding (plain or chocolate orange, binder, ACC);otherd
 Caramel pie, Grandma Rose’s (book);otherd;pies
 Crepes (w/ Nutella, etc);otherd
@@ -407,13 +407,14 @@ Italian meringue / 7-minute frosting (binder, from KA website);sauced;whites
 Ethereal buttercream frosting (binder);sauced;whites
 Jack Daniels buttercream (PQ);sauced
 Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min);sauced
+Dulce de leche (slow-cooker water bath on low for 8 hours);sauced
 Crystallized ginger (ACC);sauced
 Pastry cream (APPC/ACC - easier, KA - flavored);sauced
 Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper);sauced
 Cheesy creamed corn with cilantro (binder);veggies;mexican
 Sauteed cabbage with chile and peanutes (binder);veggies
 Ground beef chili, Cook's Illustrated (binder);groundbeef;beans;soups
-Tres leches cake (Pioneer Woman, binder);cakes;otherd
+Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/), binder);cakes;otherd
 Salted caramel pot de creme (web, binder);otherd;custards
 General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
 Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
@@ -425,4 +426,9 @@ Pinto bean and corn dip (binder);appetizers;beans;mexican
 Pasta with prosciutto and peas (binder);pasta
 Fruit & booze smoothies;drinks
 Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-chicken-salad-2/));salad;poultry
-Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/));otherd
+Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/));otherd;fried
+Gumbo (Cook's Country);sausage;shrimpetc;soups;rice
+Hush puppies;appetizers;fried
+Fried pickles;appetizers;fried
+Eggrolls;appetizers;fried;asian
+Sweet and spicy crock pot pork tacos (SCR);pork;slowcooker;mexican

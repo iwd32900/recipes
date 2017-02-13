@@ -174,6 +174,10 @@
 
 # By Ingredient #
 
+## Fried ##
+
+;fried
+
 ## Canning ##
 
 ;canning
