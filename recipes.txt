@@ -414,7 +414,7 @@ Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, 
 Cheesy creamed corn with cilantro (binder);veggies;mexican
 Sauteed cabbage with chile and peanutes (binder);veggies
 Ground beef chili, Cook's Illustrated (binder);groundbeef;beans;soups
-Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/), binder);cakes;otherd
+Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder);cakes;otherd
 Salted caramel pot de creme (web, binder);otherd;custards
 General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
 Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
@@ -429,6 +429,6 @@ Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-
 Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/));otherd;fried
 Gumbo (Cook's Country);sausage;shrimpetc;soups;rice
 Hush puppies;appetizers;fried
-Fried pickles;appetizers;fried
-Eggrolls;appetizers;fried;asian
+Fried pickles, Almost Famous (binder, [web](http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-fried-pickles-recipe));appetizers;fried
+Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html));appetizers;fried;asian
 Sweet and spicy crock pot pork tacos (SCR);pork;slowcooker;mexican
