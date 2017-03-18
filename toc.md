@@ -405,6 +405,7 @@
 * Battered & fried sandwiches (???)
 * Biscuits (ACC)
 * Chocolate-chip coffee cake (Bitler)
+* Ciabatta, Cook's Illustrated (binder)
 * Cinnamon rolls (Jailhouse potato - PQ), Alton's - binder, BLR)
 * Crepes (book)
 * Crescent rolls ($, binder)
@@ -429,6 +430,7 @@
 * Tortillas ($)
 * Waffles (USL, BC)
 * Yeast doughnuts (KA)
+* Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
 <a name='pasta'></a>
 ## Pasta ##
@@ -441,6 +443,7 @@
 * Fettuccine with creamy tomato & sausage sauce (book)
 * Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried)
 * Gnocchi, potato (binder)
+* Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.foodnetwork.com/recipes/giada-de-laurentiis/israeli-couscous-with-apples-cranberries-and-herbs-recipe))
 * Macaroni and cheese, Mom's (CWC)
 * Macaroni and cheese, Panera (binder)
 * Macaroni and cheese, Ranch (binder)
@@ -483,6 +486,7 @@
 * Buffalo quinoa bites (binder)
 * Buttermilk cornbread (USL)
 * Cook's savory corn muffins (binder)
+* Corn tortillas (binder)
 * Grits with cheese (ACC)
 * Hushpuppies (binder)
 * Magnolia Grill cheese grits souffle (binder, ACC)
@@ -542,6 +546,7 @@
 * Fuji apple salad
 * Green apple slaw
 * Green salad
+* Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.foodnetwork.com/recipes/giada-de-laurentiis/israeli-couscous-with-apples-cranberries-and-herbs-recipe))
 * Kale salad with apple and cheddar (binder)
 * Lettuce wraps (binder)
 * Spinach salad
@@ -614,6 +619,7 @@
 * Scrambled eggs
 * Waffles (USL, BC)
 * Yeast doughnuts (KA)
+* Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
 
 
@@ -697,6 +703,7 @@
 * Crepes (w/ Nutella, etc)
 * Dulce de leche cheesecake bars ([web](http://www.epicurious.com/recipes/food/views/dulce-de-leche-cheesecake-bars-359393), binder)
 * Eclairs with peanut butter pastry cream (ACC, KA)
+* Fried Twinkies ([web]())
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
 * Ginger creme brulee (MagGrill)
 * Ginger mousse (binder)
@@ -724,6 +731,7 @@
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
 * White cake with Jack Daniels buttercream (PQ)
 * Yeast doughnuts (KA)
+* Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
 <a name='custards-and-puddings'></a>
 ## Custards and Puddings ##
@@ -850,6 +858,7 @@
 <a name='drinks'></a>
 ## Drinks ##
 
+* Frozen Assets - fruit and booze smoothies (binder)
 * Fruit & booze smoothies
 * Ginger ale, homemade (ACC, binder)
 * Smoothies, yogurt-fruit (binder)
@@ -862,11 +871,15 @@
 <a name='fried'></a>
 ## Fried ##
 
+* Crispy rice-flour tempura batter (binder, [web](http://www.food.com/recipe/fantastic-crispy-tempura-batter-162190))
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
+* Fried Twinkies ([web]())
 * Fried pickles, Almost Famous (binder, [web](http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-fried-pickles-recipe))
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
 * Hush puppies
+* Yeast doughnuts (KA)
+* Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
 <a name='canning'></a>
 ## Canning ##
@@ -920,6 +933,7 @@
 * Ethereal buttercream frosting (binder)
 * Food processor pie crust (MagGrill, ACC)
 * Ganache frosting (PQ)
+* Homemade "GOOP" pan release (binder, [web](http://iambaker.net/homemade-pan-release-baking-spray/))
 * Italian meringue / 7-minute frosting (binder, from KA website)
 * Jack Daniels buttercream (PQ)
 * Pastry cream (APPC/ACC - easier, KA - flavored)
@@ -1001,6 +1015,7 @@
 * Cheesy creamed corn with cilantro (binder)
 * Chicken fajitas & raja con crema (binder)
 * Chipotle pork tacos with pineapple salsa (binder)
+* Corn tortillas (binder)
 * Drunken (boracho) beans (binder)
 * Fish tacos (?, Flay)
 * Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime)
