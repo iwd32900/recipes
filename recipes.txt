@@ -88,7 +88,7 @@ Pecan-crusted chicken fingers (binder);poultry;kids
 Chicken piccata (USL);poultry;italian
 Chicken parmigiana;poultry;kids;italian
 Roast salted turkey (binder);poultry
-Butterflied roast chicken with smoked paprika and thyme (binder);poultry;kids
+Butterflied roast chicken with smoked paprika and thyme ([web](http://www.epicurious.com/recipes/food/views/roast-chicken-with-spanish-paprika-and-herb-roasted-smashed-potatoes-237033), binder);poultry;kids
 Chicken and vegetables en papillote (BLR);poultry
 Chicken pot pie with biscuit topping (BTMR);poultry;casserole
 Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder);poultry;casserole;bacon
@@ -115,7 +115,7 @@ Hotdogs;sausage;grill;sandwich;kids
 Bratwurst;sausage;grill;sandwich;kids
 Corn dogs (binder);sausage;kids
 Hamburgers;groundbeef;grill;sandwich;kids
-Gyro loaf (FoodTV/Alton, binder);groundbeef;sandwich
+Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder);groundbeef;sandwich
 Mini-meatloaves, Southwestern (BTMR);groundbeef
 Chili (w/ corn);groundbeef
 Southern Living beef-and-bean chili (binder);groundbeef;slowcooker
@@ -141,7 +141,7 @@ Salmon with leek cream (binder);fish
 Salmon with peach and pink grapefruit relish (binder);fish
 Salmon with pineapple salsa and chipotle mayo (binder);fish
 Salmon en papillote (BLR);fish
-French Caribbean creole sauce for whitefish;fish
+French Caribbean creole sauce for whitefish (binder, [web](http://caribbeanpot.com/french-caribbean-creole-sauce-for-fish-and-grilled-meats/));fish
 Salmon-spinach pot pie with mashed potato crust (binder);fish;casserole
 Fish tacos (?, Flay);fish;mexican
 Fish sticks;kids;fish
@@ -439,3 +439,8 @@ Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.f
 Ciabatta, Cook's Illustrated (binder);flour
 Corn tortillas (binder);mexican;altgrains
 Frozen Assets - fruit and booze smoothies (binder);drinks
+Meatballs, with spaghetti (purchased);kids;groundbeef;pasta;italian
+Chocolate glaze ([web](http://allrecipes.com/recipe/8236/satiny-chocolate-glaze/));sauced
+American buttercream frosting, "Perfect Vanilla" ([web](http://beyondfrosting.com/2014/08/11/perfect-vanilla-frosting/));sauced
+Pulled pork nachos;pork;beans
+Pulled pork sandwiches;pork;sandwich

@@ -64,7 +64,7 @@
 ## Kid-Approved ##
 
 * Bratwurst
-* Butterflied roast chicken with smoked paprika and thyme (binder)
+* Butterflied roast chicken with smoked paprika and thyme ([web](http://www.epicurious.com/recipes/food/views/roast-chicken-with-spanish-paprika-and-herb-roasted-smashed-potatoes-237033), binder)
 * Chicken and waffles
 * Chicken parmigiana
 * Chicken tetrazzini (BC)
@@ -74,6 +74,7 @@
 * Hamburgers
 * Hotdogs
 * Macaroni and cheese, Panera (binder)
+* Meatballs, with spaghetti (purchased)
 * Omelet
 * Parmesean crusted chicken (binder)
 * Pecan-crusted chicken fingers (binder)
@@ -93,7 +94,7 @@
 * Barbecue chicken
 * Black bean soup with chorizo and chicken (binder)
 * Buffalo quinoa bites (binder)
-* Butterflied roast chicken with smoked paprika and thyme (binder)
+* Butterflied roast chicken with smoked paprika and thyme ([web](http://www.epicurious.com/recipes/food/views/roast-chicken-with-spanish-paprika-and-herb-roasted-smashed-potatoes-237033), binder)
 * Chicken Cordon Bleu (book)
 * Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder)
 * Chicken and vegetables en papillote (BLR)
@@ -143,6 +144,8 @@
 * Pork chops with bacon-cornbread stuffing (BC)
 * Pork chops with port wine apple sauce (ACC)
 * Pork meatball bahn mi (binder, Brooke's email)
+* Pulled pork nachos
+* Pulled pork sandwiches
 * Smoked pork butt BBQ (amazingribs.com)
 * Stir fry
 * Sweet and spicy crock pot pork tacos (SCR)
@@ -192,10 +195,11 @@
 * Cheesy beef enchiladas (book)
 * Chili (w/ corn)
 * Ground beef chili, Cook's Illustrated (binder)
-* Gyro loaf (FoodTV/Alton, binder)
+* Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder)
 * Hamburgers
 * Hotdog chili (binder)
 * Lettuce wraps (binder)
+* Meatballs, with spaghetti (purchased)
 * Mini-meatloaves, Southwestern (BTMR)
 * Southern Living beef-and-bean chili (binder)
 * Taco bake (book)
@@ -206,7 +210,7 @@
 
 * Fish sticks
 * Fish tacos (?, Flay)
-* French Caribbean creole sauce for whitefish
+* French Caribbean creole sauce for whitefish (binder, [web](http://caribbeanpot.com/french-caribbean-creole-sauce-for-fish-and-grilled-meats/))
 * Lime and honey glazed salmon (binder)
 * Orange-soy sauce salmon (5/15)
 * Pineapple salmon (book)
@@ -329,6 +333,7 @@
 * Lentil "chili" (binder, ACC)
 * Mexican pinto beans (binder)
 * Pinto bean and corn dip (binder)
+* Pulled pork nachos
 * Refried beans with bacon grease (ACC)
 * Taco salad
 * White bean and chicken chili (binder)
@@ -365,12 +370,13 @@
 * Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder)
 * Bratwurst
 * Faux Chick-Fil-A sandwich (binder)
-* Gyro loaf (FoodTV/Alton, binder)
+* Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder)
 * Hamburgers
 * Hotdogs
 * Italian sausages
 * Pork meatball bahn mi (binder, Brooke's email)
 * Potato burger buns (binder)
+* Pulled pork sandwiches
 * Short rib sloppy joes (Besh MFT)
 * Smoked pork butt BBQ (amazingribs.com)
 * Thai-spiced pork burgers (binder)
@@ -449,6 +455,7 @@
 * Macaroni and cheese, Ranch (binder)
 * Macaroni and cheese, nacho (binder)
 * Macaroni and cheese, smoky (binder)
+* Meatballs, with spaghetti (purchased)
 * Orzo
 * Pad Thai (binder)
 * Pasta with prosciutto and peas (binder)
@@ -925,7 +932,9 @@
 <a name='dessert-sauces-frostings-and-components'></a>
 ## Dessert Sauces, Frostings, and Components ##
 
+* American buttercream frosting, "Perfect Vanilla" ([web](http://beyondfrosting.com/2014/08/11/perfect-vanilla-frosting/))
 * Chocolate buttercream (USL)
+* Chocolate glaze ([web](http://allrecipes.com/recipe/8236/satiny-chocolate-glaze/))
 * Cream cheese mousse (binder)
 * Crystallized ginger (ACC)
 * Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min)
@@ -1000,6 +1009,7 @@
 * Chicken piccata (USL)
 * Fettuccine with creamy tomato & sausage sauce (book)
 * Hands-free risotto (Cook's, binder)
+* Meatballs, with spaghetti (purchased)
 * Parmesean crusted chicken (binder)
 * Sausage lasagna (binder)
 * Shrimp risotto (binder)
