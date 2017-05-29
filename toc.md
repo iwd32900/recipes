@@ -328,6 +328,7 @@
 * Black beans, Caribbean (book)
 * Black-eyed pea and kale salad with bacon vinaigrette (binder)
 * Drunken (boracho) beans (binder)
+* Drunken (boracho) beans, slow cooker (SCR)
 * Ground beef chili, Cook's Illustrated (binder)
 * Kielbasa, lentils, and spinach (binder)
 * Lentil "chili" (binder, ACC)
@@ -358,6 +359,7 @@
 
 * Baked potato soup (SCR)
 * Carnitas (Mexican-style pulled pork) (binder)
+* Drunken (boracho) beans, slow cooker (SCR)
 * Southern Living beef-and-bean chili (binder)
 * Sweet and spicy crock pot pork tacos (SCR)
 * Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitchen-creamy-tomato.html), SCR)
@@ -550,7 +552,6 @@
 * Coleslaw with sweet mayo (ACC)
 * Coleslaw with vinaigrette (spicy, USL)
 * Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-chicken-salad-2/))
-* Fuji apple salad
 * Green apple slaw
 * Green salad
 * Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.foodnetwork.com/recipes/giada-de-laurentiis/israeli-couscous-with-apples-cranberries-and-herbs-recipe))
@@ -1027,6 +1028,7 @@
 * Chipotle pork tacos with pineapple salsa (binder)
 * Corn tortillas (binder)
 * Drunken (boracho) beans (binder)
+* Drunken (boracho) beans, slow cooker (SCR)
 * Fish tacos (?, Flay)
 * Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime)
 * Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder)
