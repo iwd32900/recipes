@@ -54,6 +54,7 @@ Baked beans, perfect ([Pioneer Woman](http://www.foodnetwork.com/recipes/ree-dru
 Mexican pinto beans (binder);beans;mexican
 Refried beans with bacon grease (ACC);beans;mexican
 Drunken (boracho) beans (binder);beans;mexican
+Drunken (boracho) beans, slow cooker (SCR);beans;mexican;slowcooker
 [Slow-cooked dried beans](http://orangette.blogspot.com/2015/10/while-youre-not-looking.html);beans
 Black-eyed pea and kale salad with bacon vinaigrette (binder);beans;bacon
 Black bean salad with corn, red pepper, and avocado (binder);beans
@@ -281,7 +282,6 @@ Green salad;salad
 Kale salad with apple and cheddar (binder);salad
 Spinach salad;salad
 Caesar salad;salad
-Fuji apple salad;salad
 Hollandaise (binder - Cook's);sauces;yolks
 Béarnaise (CW);sauces;yolks
 Mayonnaise (CW);sauces;yolks
