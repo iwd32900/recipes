@@ -128,9 +128,9 @@ Cheesy beef enchiladas (book);groundbeef;casserole;mexican
 Sausage and pepper casserole with grits (Emeril);sausage;altgrains
 Sausage lasagna (binder);sausage;pasta;kids;italian
 Potato-sausage Christmas casserole (book);sausage;potatoes;casserole
-Pork meatball bahn mi (binder, Brooke's email);pork;sandwich;asian
+Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi));pork;sandwich;asian
 Biscuits with sausage gravy (USL);sausage;breakfast
-Fettuccine with creamy tomato & sausage sauce (book);sausage;pasta;italian
+Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book);sausage;pasta;italian
 Lettuce wraps (binder);groundbeef;salad;asian
 Sweet mustard salmon (book);fish
 Pineapple salmon (book);fish
@@ -444,3 +444,9 @@ Chocolate glaze ([web](http://allrecipes.com/recipe/8236/satiny-chocolate-glaze/
 American buttercream frosting, "Perfect Vanilla" ([web](http://beyondfrosting.com/2014/08/11/perfect-vanilla-frosting/));sauced
 Pulled pork nachos;pork;beans
 Pulled pork sandwiches;pork;sandwich
+S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars));otherd;bars
+Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307));salad;asian
+Canoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720));otherd;italian
+Mascarpone-stabilized whipped cream frosting ([web](http://stressbaking.com/2015/07/stabilized-mascarpone-whipped-cream.html/));sauced
+Pimiento cheese (Lee Bros);cheese;appetizers;southern
+Cheese straws (Lee Bros);cheese;appetizers;southern

@@ -54,6 +54,7 @@
     * [French](#french)
     * [Italian](#italian)
     * [Mexican and Latin](#mexican-and-latin)
+    * [Southern US](#southern-us)
 
 
 
@@ -143,7 +144,7 @@
 * Pork and mustard greens soup (binder)
 * Pork chops with bacon-cornbread stuffing (BC)
 * Pork chops with port wine apple sauce (ACC)
-* Pork meatball bahn mi (binder, Brooke's email)
+* Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Pulled pork nachos
 * Pulled pork sandwiches
 * Smoked pork butt BBQ (amazingribs.com)
@@ -159,7 +160,7 @@
 * Black bean soup with chorizo and chicken (binder)
 * Bratwurst
 * Corn dogs (binder)
-* Fettuccine with creamy tomato & sausage sauce (book)
+* Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Gumbo (Cook's Country)
 * Hotdogs
 * Italian sausages
@@ -308,7 +309,9 @@
 ## Cheese ##
 
 * (other cheese fondues)
+* Cheese straws (Lee Bros)
 * Corn, sweet onion, and thyme quesadillas (Flay)
+* Pimiento cheese (Lee Bros)
 * Quesadillas
 * Smoked cheddar fondue
 
@@ -376,7 +379,7 @@
 * Hamburgers
 * Hotdogs
 * Italian sausages
-* Pork meatball bahn mi (binder, Brooke's email)
+* Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Potato burger buns (binder)
 * Pulled pork sandwiches
 * Short rib sloppy joes (Besh MFT)
@@ -448,7 +451,7 @@
 * Chicken tetrazzini (BC)
 * Couscous with shallots and almonds (Cook's, binder)
 * Egg noodles (homemade - binder)
-* Fettuccine with creamy tomato & sausage sauce (book)
+* Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried)
 * Gnocchi, potato (binder)
 * Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.foodnetwork.com/recipes/giada-de-laurentiis/israeli-couscous-with-apples-cranberries-and-herbs-recipe))
@@ -546,6 +549,7 @@
 ## Salads ##
 
 * Asian chicken salad (Besh MFT)
+* Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307))
 * Bitler cucumbers and onions (BCITW)
 * Caesar salad
 * Caesar salad dressing (Orangette, binder)
@@ -703,6 +707,7 @@
 * Buttermilk panna cotta (MagGrill)
 * Buttermilk vanilla bean pie (MagGrill)
 * Butterscotch pudding (binder)
+* Canoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
 * Caramel pie, Grandma Rose’s (book)
 * Carrot cake with cream cheese frosting (BLR)
 * Carrot cake with crystalized ginger (KA)
@@ -733,6 +738,7 @@
 * Pound cake, vanilla (KA)
 * Pudding, vanilla (bean) (USL/BC)
 * Rice pudding (plain or chocolate orange, binder, ACC)
+* S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Salted caramel pot de creme (web, binder)
 * Texas pecan pie bars (PQ)
 * Thin and crispy oatmeal cookies, salted (binder)
@@ -835,6 +841,7 @@
 * Easy chocolate peanut butter chip bars (binder)
 * Paula Deen's gooey butter cakes (binder)
 * Peanut butter and jelly bars (binder)
+* S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Texas pecan pie bars (PQ)
 
 
@@ -847,6 +854,7 @@
 
 * Bacon bites
 * Cheese log, Bitler
+* Cheese straws (Lee Bros)
 * Cheez-Its, homemade (binder)
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
 * Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime)
@@ -856,6 +864,7 @@
 * Mixed nuts, "Union Square Cafe" (binder)
 * Oyster crackers, Bitler (binder)
 * Pecans, sweet and spicy (ACC)
+* Pimiento cheese (Lee Bros)
 * Pinto bean and corn dip (binder)
 * Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe))
 * Red pepper cheddar dip (binder)
@@ -946,6 +955,7 @@
 * Homemade "GOOP" pan release (binder, [web](http://iambaker.net/homemade-pan-release-baking-spray/))
 * Italian meringue / 7-minute frosting (binder, from KA website)
 * Jack Daniels buttercream (PQ)
+* Mascarpone-stabilized whipped cream frosting ([web](http://stressbaking.com/2015/07/stabilized-mascarpone-whipped-cream.html/))
 * Pastry cream (APPC/ACC - easier, KA - flavored)
 * Rolled "buttercream" fondant (binder)
 * Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper)
@@ -976,6 +986,7 @@
 ## Asian ##
 
 * Asian chicken salad (Besh MFT)
+* Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307))
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
 * General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
@@ -984,7 +995,7 @@
 * Indonesian peanut glazed chicken (binder)
 * Lettuce wraps (binder)
 * Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
-* Pork meatball bahn mi (binder, Brooke's email)
+* Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Stir fry
 * Sweet and sour chicken (binder)
 * Teriyaki chicken (BTMR)
@@ -1005,10 +1016,11 @@
 <a name='italian'></a>
 ## Italian ##
 
+* Canoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
 * Chicken in sun-dried tomato cream (book)
 * Chicken parmigiana
 * Chicken piccata (USL)
-* Fettuccine with creamy tomato & sausage sauce (book)
+* Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Hands-free risotto (Cook's, binder)
 * Meatballs, with spaghetti (purchased)
 * Parmesean crusted chicken (binder)
@@ -1043,3 +1055,9 @@
 * Sweet and spicy crock pot pork tacos (SCR)
 * Taco salad
 * Tortilla soup (binder)
+
+<a name='southern-us'></a>
+## Southern US ##
+
+* Cheese straws (Lee Bros)
+* Pimiento cheese (Lee Bros)
