@@ -23,7 +23,7 @@ Thai curry chicken soup (binder);soups;poultry;asian
 Corn chowder, "Cafe" (binder);soups
 Corn and crab chowder (binder);soups;shrimpetc
 Chicken corn soup (Mom);soups;poultry
-Chicken pot pie (ACC);soups;poultry
+Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md));soups;poultry
 Black bean soup with chorizo and chicken (binder);soups;beans;poultry;sausage
 Pork and mustard greens soup (binder);soups;pork
 Eggs over medium;eggs;vegetarian;breakfast
