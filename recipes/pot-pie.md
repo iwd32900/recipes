@@ -43,3 +43,6 @@ New noodles should be added where broth is bubbling up between the other noodles
 Watch for noodles sticking to the bottom of the pot.
 The pot pie should end up as a thick stew.
 If it gets too thick, thin it with additional water or chicken broth.
+
+Simmer for about 20 min after adding the last noodles.
+Traditional accompaniments are cole slaw and dill pickles.
