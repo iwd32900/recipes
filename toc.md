@@ -105,8 +105,8 @@
 * Chicken in sun-dried tomato cream (book)
 * Chicken parmigiana
 * Chicken piccata (USL)
-* Chicken pot pie (ACC)
 * Chicken pot pie with biscuit topping (BTMR)
+* Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md))
 * Chicken tetrazzini (BC)
 * Chicken with onions and mustard-cream sauce (just wine, Dijon, cream)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
@@ -246,7 +246,7 @@
 * Baked potato soup (USL)
 * Black bean soup with chorizo and chicken (binder)
 * Chicken corn soup (Mom)
-* Chicken pot pie (ACC)
+* Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md))
 * Corn and crab chowder (binder)
 * Corn chowder, "Cafe" (binder)
 * French onion soup (FoodLab)
