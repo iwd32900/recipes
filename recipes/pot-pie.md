@@ -37,7 +37,7 @@ Working in 4-5 batches, remove a portion of dough and roll out as thin as possib
 The dough should be thin enough to see through faintly.
 Cut the dough into 2-inch squares using a knife or pizza wheel.
 Add the noodles to the boiling pot one at a time.
-After each batch, add a few grinds of fresh pepper, and stir.
+After each batch, add a few grinds of fresh pepper, stir, and re-cover the pot so the noodles don't dry out and toughen.
 As noodles are added, the pot pie will get thicker.
 New noodles should be added where broth is bubbling up between the other noodles.
 Watch for noodles sticking to the bottom of the pot.
