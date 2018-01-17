@@ -414,6 +414,7 @@
 * "Moomie's" Beautiful Burger Buns (KA)
 * Banana bread (USL fewer ingredients, BC better taste)
 * Battered & fried sandwiches (???)
+* Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440))
 * Biscuits (ACC)
 * Chocolate-chip coffee cake (Bitler)
 * Ciabatta, Cook's Illustrated (binder)
