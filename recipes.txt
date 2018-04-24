@@ -94,7 +94,7 @@ Chicken and vegetables en papillote (BLR);poultry
 Chicken pot pie with biscuit topping (BTMR);poultry;casserole
 Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder);poultry;casserole;bacon
 Parmesean crusted chicken (binder);poultry;kids;italian
-Chicken fajitas & raja con crema (binder);poultry;mexican
+Chicken fajitas & raja con crema (binder, [web](https://www.cooksillustrated.com/recipes/7015-skillet-chicken-fajitas));poultry;mexican
 Chicken with onions and mustard-cream sauce (just wine, Dijon, cream);poultry;french
 Faux Chick-Fil-A sandwich (binder);poultry;sandwich;kids
 Stir fry;poultry;pork;asian
@@ -179,12 +179,12 @@ Scones, British (binder);flour;breakfast
 Yeast doughnuts (KA);flour;breakfast;otherd;fried
 Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html));flour;breakfast;otherd;fried
 Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ);flour;breakfast
-"Moomie's" Beautiful Burger Buns (KA);flour;sandwich
+"Moomie's" Beautiful Burger Buns (KA, [web](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe));flour;sandwich
 Potato burger buns (binder);flour;sandwich
 Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe));flour;appetizers
 Sesame Italian bread (KA, ACC);flour
 "Crostini" for sandwiches (KA);flour
-No-knead Dutch oven bread (binder);flour
+No-knead Dutch oven bread (binder, [web](https://www.cooksillustrated.com/recipes/4028-almost-no-knead-bread));flour
 KA 36-hour ciabatta (KA, ACC, flat for sandwiches);flour
 Battered & fried sandwiches (???);flour;sandwich
 Refrigerator flatbread (Flay, ACC);flour
@@ -451,3 +451,13 @@ Mascarpone-stabilized whipped cream frosting ([web](http://stressbaking.com/2015
 Pimiento cheese (Lee Bros);cheese;appetizers;southern
 Cheese straws (Lee Bros);cheese;appetizers;southern
 Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440));flour
+"Big hair" lemon-lime meringue tarts (Pastry Queen);fruitd;pies
+Cultured butter ([web](https://www.cooksillustrated.com/recipes/9482-cultured-butter));sauces;french
+Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/));vegetarian;fruit;salad;appetizers;mexican
+Sous-vide steaks (Food Lab);beef
+Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html));casserole;pasta;italian
+Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567));sausage;rice;southern
+Burritos;kids;mexican
+Ravioli toss (So Easy);vegetarian;pasta;italian
+King cake ([git](recipes/king-cake.md));french;southern;cakes
+Pineapple stuffing ([git](recipes/pineapple-stuffing.md));flour;southern

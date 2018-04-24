@@ -65,6 +65,7 @@
 ## Kid-Approved ##
 
 * Bratwurst
+* Burritos
 * Butterflied roast chicken with smoked paprika and thyme ([web](http://www.epicurious.com/recipes/food/views/roast-chicken-with-spanish-paprika-and-herb-roasted-smashed-potatoes-237033), binder)
 * Chicken and waffles
 * Chicken parmigiana
@@ -101,7 +102,7 @@
 * Chicken and vegetables en papillote (BLR)
 * Chicken and waffles
 * Chicken corn soup (Mom)
-* Chicken fajitas & raja con crema (binder)
+* Chicken fajitas & raja con crema (binder, [web](https://www.cooksillustrated.com/recipes/7015-skillet-chicken-fajitas))
 * Chicken in sun-dried tomato cream (book)
 * Chicken parmigiana
 * Chicken piccata (USL)
@@ -160,6 +161,7 @@
 * Black bean soup with chorizo and chicken (binder)
 * Bratwurst
 * Corn dogs (binder)
+* Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Gumbo (Cook's Country)
 * Hotdogs
@@ -188,6 +190,7 @@
 * Chicken-fried steak (?)
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
 * Short rib sloppy joes (Besh MFT)
+* Sous-vide steaks (Food Lab)
 * Steaks (filet mignon, ...)
 
 <a name='ground-beef'></a>
@@ -282,9 +285,11 @@
 * Penne alla vodka ([web](http://urbandrivel.blogspot.com/2007/01/cooks-illustrated-perfecting-penne.html), binder)
 * Pizza
 * Quesadillas
+* Ravioli toss (So Easy)
 * Scrambled eggs
 * Smoked cheddar fondue
 * Tortilla española
+* Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 
 <a name='eggs'></a>
 ## Eggs ##
@@ -352,6 +357,7 @@
 * Chicken tetrazzini (BC)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
 * Green chile chicken enchildadas (binder)
+* Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
 * Potato casserole with bacon and caramelized onion (binder)
 * Potato-sausage Christmas casserole (book)
 * Salmon-spinach pot pie with mashed potato crust (binder)
@@ -370,7 +376,7 @@
 <a name='sandwiches'></a>
 ## Sandwiches ##
 
-* "Moomie's" Beautiful Burger Buns (KA)
+* "Moomie's" Beautiful Burger Buns (KA, [web](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe))
 * Battered & fried sandwiches (???)
 * Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder)
 * Bratwurst
@@ -411,7 +417,7 @@
 ## Breads / Flour ##
 
 * "Crostini" for sandwiches (KA)
-* "Moomie's" Beautiful Burger Buns (KA)
+* "Moomie's" Beautiful Burger Buns (KA, [web](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe))
 * Banana bread (USL fewer ingredients, BC better taste)
 * Battered & fried sandwiches (???)
 * Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440))
@@ -428,8 +434,9 @@
 * Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ)
 * Masa harina crepes (PV)
 * Muffins, blueberry jam (binder)
-* No-knead Dutch oven bread (binder)
+* No-knead Dutch oven bread (binder, [web](https://www.cooksillustrated.com/recipes/4028-almost-no-knead-bread))
 * Pancakes (BC)
+* Pineapple stuffing ([git](recipes/pineapple-stuffing.md))
 * Popovers / Yorkshire puddings (ask Bruce?)
 * Potato burger buns (binder)
 * Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe))
@@ -465,8 +472,10 @@
 * Orzo
 * Pad Thai (binder)
 * Pasta with prosciutto and peas (binder)
+* Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
 * Penne alla vodka ([web](http://urbandrivel.blogspot.com/2007/01/cooks-illustrated-perfecting-penne.html), binder)
 * Penne, bowties, spirals, etc.
+* Ravioli toss (So Easy)
 * Sausage lasagna (binder)
 * Spaghetti-ham pie (BC? USL?)
 * Straw and hay (BC, ACC)
@@ -478,6 +487,7 @@
 
 * Black rice
 * Brown rice
+* Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * Gumbo (Cook's Country)
 * Hands-free risotto (Cook's, binder)
 * Jambalaya / dirty rice (Zatarain's)
@@ -563,6 +573,7 @@
 * Kale salad with apple and cheddar (binder)
 * Lettuce wraps (binder)
 * Spinach salad
+* Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 * Wendy's "zesty salad" with crumbled Ramen (book)
 
 <a name='vegetables'></a>
@@ -601,6 +612,7 @@
 
 * Homemade berry jam (binder)
 * Port wine apple sauce (ACC)
+* Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 * Yogurt honey poppyseed dressing for fruit (book)
 
 
@@ -672,6 +684,7 @@
 <a name='fruit'></a>
 ## Fruit ##
 
+* "Big hair" lemon-lime meringue tarts (Pastry Queen)
 * 1-crust stirred fruit pies e.g. frutas del bosque (KA)
 * 2-crust baked fruit pies e.g. strawberry-rhubarb (KA)
 * Apple Brown Betty (binder)
@@ -792,6 +805,7 @@
 * Devil's food cake with peanut butter icing (KA)
 * Jeanne's molten chocolate cakes (binder)
 * Jellyroll cake (KA)
+* King cake ([git](recipes/king-cake.md))
 * Mexican chocolate cake with ganache frosting (PQ)
 * Pineapple upside-down cake (KA)
 * Pink lemonade pie (BC?)
@@ -805,6 +819,7 @@
 <a name='pies'></a>
 ## Pies ##
 
+* "Big hair" lemon-lime meringue tarts (Pastry Queen)
 * 1-crust stirred fruit pies e.g. frutas del bosque (KA)
 * 2-crust baked fruit pies e.g. strawberry-rhubarb (KA)
 * Apple-cheddar hand pies (binder)
@@ -871,6 +886,7 @@
 * Red pepper cheddar dip (binder)
 * Seven layer dip (BCITW)
 * Three-ingredient summertime salsa (Smitten Kitchen, binder)
+* Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 * Vidalia onion dip (ACC, book)
 
 <a name='drinks'></a>
@@ -912,6 +928,7 @@
 * Béarnaise (CW)
 * Chili seasoning mix (binder)
 * Creole honey mustard (binder)
+* Cultured butter ([web](https://www.cooksillustrated.com/recipes/9482-cultured-butter))
 * General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Gravy, turkey (ACC)
 * Hollandaise (binder - Cook's)
@@ -1010,8 +1027,10 @@
 * Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder)
 * Chicken with onions and mustard-cream sauce (just wine, Dijon, cream)
 * Creamy chicken-apple crepes (book)
+* Cultured butter ([web](https://www.cooksillustrated.com/recipes/9482-cultured-butter))
 * Deep-dish Quiche Lorraine (binder)
 * French onion soup (FoodLab)
+* King cake ([git](recipes/king-cake.md))
 * Omelet
 
 <a name='italian'></a>
@@ -1025,6 +1044,8 @@
 * Hands-free risotto (Cook's, binder)
 * Meatballs, with spaghetti (purchased)
 * Parmesean crusted chicken (binder)
+* Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
+* Ravioli toss (So Easy)
 * Sausage lasagna (binder)
 * Shrimp risotto (binder)
 
@@ -1034,10 +1055,11 @@
 * Beef with three-herb chimichurri (binder)
 * Black beans
 * Black beans with Rotel tomatoes [Mary Beth]
+* Burritos
 * Carnitas (Mexican-style pulled pork) (binder)
 * Cheesy beef enchiladas (book)
 * Cheesy creamed corn with cilantro (binder)
-* Chicken fajitas & raja con crema (binder)
+* Chicken fajitas & raja con crema (binder, [web](https://www.cooksillustrated.com/recipes/7015-skillet-chicken-fajitas))
 * Chipotle pork tacos with pineapple salsa (binder)
 * Corn tortillas (binder)
 * Drunken (boracho) beans (binder)
@@ -1056,9 +1078,13 @@
 * Sweet and spicy crock pot pork tacos (SCR)
 * Taco salad
 * Tortilla soup (binder)
+* Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 
 <a name='southern-us'></a>
 ## Southern US ##
 
 * Cheese straws (Lee Bros)
+* Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
+* King cake ([git](recipes/king-cake.md))
 * Pimiento cheese (Lee Bros)
+* Pineapple stuffing ([git](recipes/pineapple-stuffing.md))
