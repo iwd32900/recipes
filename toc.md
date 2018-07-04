@@ -85,7 +85,7 @@
 * Sausage lasagna (binder)
 * Scrambled eggs
 * Steaks (filet mignon, ...)
-* Sweet and sour chicken (binder)
+* Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Teriyaki chicken (BTMR)
 
 <a name='chicken-turkey'></a>
@@ -127,7 +127,7 @@
 * Roast salted turkey (binder)
 * Rosemary grilled chicken thighs (binder)
 * Stir fry
-* Sweet and sour chicken (binder)
+* Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Taco salad
 * Teriyaki chicken (BTMR)
 * Thai curry chicken soup (binder)
@@ -704,7 +704,7 @@
 * Pineapple upside-down cake (KA)
 * Pomegranate panna cotta (binder)
 * Raspberry sherbet (binder)
-* Strawberry cake, Grandma Rose's (book)
+* Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.foodnetwork.com/recipes/paula-deen/simply-delicious-strawberry-cake-recipe-2012034))
 * Strawberry freeze (binder)
 * Strawberry shortcake (MagGrill)
 * Strawberry shortcake with balsamic and black pepper (binder)
@@ -717,7 +717,7 @@
 ## Other Sweets ##
 
 * Basic yellow cake (KA)
-* Boston cream pie (KA)
+* Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA)
 * Buttermilk panna cotta (MagGrill)
 * Buttermilk vanilla bean pie (MagGrill)
 * Butterscotch pudding (binder)
@@ -755,7 +755,7 @@
 * S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Salted caramel pot de creme (web, binder)
 * Texas pecan pie bars (PQ)
-* Thin and crispy oatmeal cookies, salted (binder)
+* Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
 * White cake with Jack Daniels buttercream (PQ)
 * Yeast doughnuts (KA)
@@ -794,7 +794,7 @@
 
 * Banana upside down cake (MagGrill, ACC)
 * Basic yellow cake (KA)
-* Boston cream pie (KA)
+* Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA)
 * Buche de Noel / Yule log (ACC)
 * Carrot cake with cream cheese frosting (BLR)
 * Carrot cake with crystalized ginger (KA)
@@ -802,16 +802,16 @@
 * Chiffon cake (KA)
 * Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
 * Chocolate-mint pudding cakes (binder)
+* Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
 * Devil's food cake with peanut butter icing (KA)
 * Jeanne's molten chocolate cakes (binder)
 * Jellyroll cake (KA)
 * King cake ([git](recipes/king-cake.md))
 * Mexican chocolate cake with ganache frosting (PQ)
 * Pineapple upside-down cake (KA)
-* Pink lemonade pie (BC?)
 * Pound cake, chocolate (KA)
 * Pound cake, vanilla (KA)
-* Strawberry cake, Grandma Rose's (book)
+* Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.foodnetwork.com/recipes/paula-deen/simply-delicious-strawberry-cake-recipe-2012034))
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
 * Upside-down butterscotch apple sour cream cake (ACC)
 * White cake with Jack Daniels buttercream (PQ)
@@ -835,6 +835,7 @@
 * Peach pie with cardamom (binder)
 * Peanut butter pie (binder)
 * Peanut butter-honey tart with ganache glaze - Snickers tart (binder)
+* Pink lemonade pie (BC?)
 * Tarte Tatin (ACC)
 
 <a name='cookies'></a>
@@ -848,7 +849,7 @@
 * Mom's meringues (ACC, binder)
 * Mommy Cookies (binder)
 * Oatmeal raisin cookies (BLR)
-* Thin and crispy oatmeal cookies, salted (binder)
+* Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Thumbprint cookies
 
 <a name='bars'></a>
@@ -893,8 +894,8 @@
 ## Drinks ##
 
 * Frozen Assets - fruit and booze smoothies (binder)
-* Fruit & booze smoothies
 * Ginger ale, homemade (ACC, binder)
+* Mojitos ([web](https://www.allrecipes.com/recipe/147363/the-real-mojito/))
 * Smoothies, yogurt-fruit (binder)
 
 
@@ -967,6 +968,7 @@
 * Crystallized ginger (ACC)
 * Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min)
 * Dulce de leche (slow-cooker water bath on low for 8 hours)
+* Ermine frosting / flour buttercream ([web](http://thepioneerwoman.com/cooking/devil-dogs/?printable_recipe=11406))
 * Ethereal buttercream frosting (binder)
 * Food processor pie crust (MagGrill, ACC)
 * Ganache frosting (PQ)
@@ -1015,7 +1017,7 @@
 * Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Stir fry
-* Sweet and sour chicken (binder)
+* Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Teriyaki chicken (BTMR)
 * Thai curry chicken soup (binder)
 * Thai-spiced pork burgers (binder)
@@ -1084,6 +1086,7 @@
 ## Southern US ##
 
 * Cheese straws (Lee Bros)
+* Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
 * Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * King cake ([git](recipes/king-cake.md))
 * Pimiento cheese (Lee Bros)

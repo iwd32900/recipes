@@ -63,7 +63,7 @@ Lentil "chili" (binder, ACC);beans;vegetarian
 Calabacitas in masa crepes (PV);vegetarian
 Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder);vegetarian;mexican
 Pizza;vegetarian;kids
-Sweet and sour chicken (binder);poultry;kids;asian
+Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/));poultry;kids;asian
 Honey chicken (CT);poultry;asian
 Teriyaki chicken (BTMR);poultry;kids;asian
 White barbeque chicken (USL, ACC);poultry;grill
@@ -306,7 +306,7 @@ Memphis dust rub (binder, amazingribs.com);sauces
 Hot sauce (ACC, binder);sauces
 Chili seasoning mix (binder);sauces
 Taco seasoning mix (binder);sauces
-Strawberry cake, Grandma Rose's (book);fruitd;cakes
+Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.foodnetwork.com/recipes/paula-deen/simply-delicious-strawberry-cake-recipe-2012034));fruitd;cakes
 Tarte Tatin (ACC);fruitd;pies
 Banana upside down cake (MagGrill, ACC);fruitd;cakes
 Upside-down butterscotch apple sour cream cake (ACC);fruitd;cakes
@@ -382,8 +382,8 @@ Molasses spice cookies (binder);otherd;cookies
 Carrot cake with cream cheese frosting (BLR);otherd;cakes
 Carrot cake with crystalized ginger (KA);otherd;cakes
 Oatmeal raisin cookies (BLR);otherd;cookies
-Thin and crispy oatmeal cookies, salted (binder);otherd;cookies
-Pink lemonade pie (BC?);otherd;cakes;icecream
+Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies));otherd;cookies
+Pink lemonade pie (BC?);otherd;pies;icecream
 Paula Deen's gooey butter cakes (binder);otherd;bars
 Peanut butter and jelly bars (binder);otherd;bars
 Peanut butter pie (binder);otherd;pies
@@ -392,7 +392,7 @@ Chiffon cake (KA);otherd;cakes
 Jellyroll cake (KA);otherd;cakes
 Pound cake, vanilla (KA);otherd;cakes
 Pound cake, chocolate (KA);otherd;cakes
-Boston cream pie (KA);otherd;cakes
+Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA);otherd;cakes
 White cake with Jack Daniels buttercream (PQ);otherd;cakes
 Basic yellow cake (KA);otherd;cakes
 Wild huckleberry (blueberry) sauce (ACC);sauced
@@ -424,7 +424,6 @@ Hanger steak with cucumber salad, Jujube (Bon Appetit, binder);beef;grill;asian
 Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder);vegetarian;beans;sandwich
 Pinto bean and corn dip (binder);appetizers;beans;mexican
 Pasta with prosciutto and peas (binder);pasta
-Fruit & booze smoothies;drinks
 Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-chicken-salad-2/));salad;poultry
 Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/));otherd;fried
 Gumbo (Cook's Country);sausage;shrimpetc;soups;rice
@@ -461,3 +460,6 @@ Burritos;kids;mexican
 Ravioli toss (So Easy);vegetarian;pasta;italian
 King cake ([git](recipes/king-cake.md));french;southern;cakes
 Pineapple stuffing ([git](recipes/pineapple-stuffing.md));flour;southern
+Mojitos ([web](https://www.allrecipes.com/recipe/147363/the-real-mojito/));drinks
+Ermine frosting / flour buttercream ([web](http://thepioneerwoman.com/cooking/devil-dogs/?printable_recipe=11406));sauced
+Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake));southern;cakes
