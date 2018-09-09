@@ -1,5 +1,7 @@
 * [Main Dishes](#main-dishes)
     * [Kid-Approved](#kid-approved)
+    * [Quick to Prepare](#quick-to-prepare)
+    * [Healthy](#healthy)
     * [Chicken & Turkey](#chicken-turkey)
     * [Pork](#pork)
     * [Sausage](#sausage)
@@ -15,6 +17,7 @@
     * [Beans](#beans)
     * [Casseroles](#casseroles)
     * [Slow Cooker](#slow-cooker)
+    * [Sous Vide](#sous-vide)
     * [Sandwiches](#sandwiches)
     * [On The Grill](#on-the-grill)
 * [Starches](#starches)
@@ -71,6 +74,7 @@
 * Chicken parmigiana
 * Chicken tetrazzini (BC)
 * Corn dogs (binder)
+* Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Faux Chick-Fil-A sandwich (binder)
 * Fish sticks
 * Hamburgers
@@ -85,8 +89,17 @@
 * Sausage lasagna (binder)
 * Scrambled eggs
 * Steaks (filet mignon, ...)
+* Sushi, cooked (book)
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Teriyaki chicken (BTMR)
+
+<a name='quick-to-prepare'></a>
+## Quick to Prepare ##
+
+
+<a name='healthy'></a>
+## Healthy ##
+
 
 <a name='chicken-turkey'></a>
 ## Chicken & Turkey ##
@@ -189,6 +202,7 @@
 * Black pepper steak with red onion chutney (binder, ACC)
 * Chicken-fried steak (?)
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
+* Philly cheesesteaks (binder)
 * Short rib sloppy joes (Besh MFT)
 * Sous-vide steaks (Food Lab)
 * Steaks (filet mignon, ...)
@@ -198,6 +212,7 @@
 
 * Cheesy beef enchiladas (book)
 * Chili (w/ corn)
+* Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Ground beef chili, Cook's Illustrated (binder)
 * Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder)
 * Hamburgers
@@ -226,6 +241,7 @@
 * Salmon with red onion marmalade (binder)
 * Salmon-spinach pot pie with mashed potato crust (binder)
 * Stuffed sole with egg sauce (Omaha Steaks)
+* Sushi, cooked (book)
 * Sweet mustard salmon (book)
 
 <a name='shrimp-scallops-crab-etc.'></a>
@@ -290,6 +306,7 @@
 * Smoked cheddar fondue
 * Tortilla española
 * Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
+* Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/))
 
 <a name='eggs'></a>
 ## Eggs ##
@@ -346,6 +363,7 @@
 * Refried beans with bacon grease (ACC)
 * Taco salad
 * White bean and chicken chili (binder)
+* Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/))
 * [Slow-cooked dried beans](http://orangette.blogspot.com/2015/10/while-youre-not-looking.html)
 
 <a name='casseroles'></a>
@@ -356,6 +374,7 @@
 * Chicken pot pie with biscuit topping (BTMR)
 * Chicken tetrazzini (BC)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
+* Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Green chile chicken enchildadas (binder)
 * Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
 * Potato casserole with bacon and caramelized onion (binder)
@@ -373,6 +392,10 @@
 * Sweet and spicy crock pot pork tacos (SCR)
 * Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitchen-creamy-tomato.html), SCR)
 
+<a name='sous-vide'></a>
+## Sous Vide ##
+
+
 <a name='sandwiches'></a>
 ## Sandwiches ##
 
@@ -385,6 +408,7 @@
 * Hamburgers
 * Hotdogs
 * Italian sausages
+* Philly cheesesteaks (binder)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Potato burger buns (binder)
 * Pulled pork sandwiches
@@ -422,6 +446,7 @@
 * Battered & fried sandwiches (???)
 * Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440))
 * Biscuits (ACC)
+* Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/))
 * Chocolate-chip coffee cake (Bitler)
 * Ciabatta, Cook's Illustrated (binder)
 * Cinnamon rolls (Jailhouse potato - PQ), Alton's - binder, BLR)
@@ -446,6 +471,7 @@
 * Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
 * Sesame Italian bread (KA, ACC)
+* Sufganiyot (jelly doughnuts) (binder)
 * Tortillas ($)
 * Waffles (USL, BC)
 * Yeast doughnuts (KA)
@@ -500,6 +526,7 @@
 * Southern "red" rice (Lee Bros)
 * Sushi rice (sushi book)
 * Sushi rolls
+* Sushi, cooked (book)
 * White rice
 
 <a name='corn-and-other-grains'></a>
@@ -590,6 +617,7 @@
 * Corn with Asian glaze (binder)
 * Creamed corn (USL)
 * Creamed spinach (ACC, $, USL)
+* Easy fridge dill pickles ([web](https://smittenkitchen.com/2014/07/easiest-fridge-dill-pickles/))
 * Fresh corn salad ([web](http://www.foodnetwork.com/recipes/ina-garten/fresh-corn-salad-recipe.html), binder)
 * Fried tempura okra (binder)
 * Glazed carrots (BTMR, binder)
@@ -606,6 +634,7 @@
 * Sugar snap peas
 * Yellow squash
 * Zucchini
+* Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/))
 
 <a name='fruit'></a>
 ## Fruit ##
@@ -661,16 +690,19 @@
 * Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
 * Chocolate cheesecake (binder)
 * Chocolate fondue
+* Chocolate olive oil cake ([web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
 * Chocolate pecan pie (binder, ACC)
 * Chocolate pudding pie, Jean Greene (ACC, binder)
 * Chocolate souffles with peanut butter centers (binder)
 * Chocolate truffle tart (ACC)
 * Chocolate-chile cream pots (binder)
 * Chocolate-covered cherry cookies (book)
+* Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html))
 * Chocolate-mint pudding cakes (binder)
 * Dark chocolate-lime souffles (binder)
 * Devil's food cake with peanut butter icing (KA)
 * Easy chocolate peanut butter chip bars (binder)
+* Gelato, stracciatella ([web](https://www.seriouseats.com/2018/08/the-best-stracciatella-gelato-is-all-about-the-chocolate.html))
 * Ian's triple chocolate crunchy sandwich cookies (binder)
 * Jeanne's molten chocolate cakes (binder)
 * Jeanne's peanut butter fudge
@@ -695,6 +727,7 @@
 * Blueberry-blackberry pie (MagGrill)
 * Cranberry Nantucket (Liz & Bob, binder)
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
+* Gelato, grilled peaches and cream ([web](https://www.askchefdennis.com/grilled-peaches-and-cream-gelato/))
 * Grilled peaches with brown sugar and white chocolate (binder)
 * Ice cream with mango and lime (binder)
 * Mango crumble (based on KA apple crumble)
@@ -721,7 +754,7 @@
 * Buttermilk panna cotta (MagGrill)
 * Buttermilk vanilla bean pie (MagGrill)
 * Butterscotch pudding (binder)
-* Canoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
+* Cannoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
 * Caramel pie, Grandma Rose’s (book)
 * Carrot cake with cream cheese frosting (BLR)
 * Carrot cake with crystalized ginger (KA)
@@ -781,6 +814,9 @@
 <a name='ice-cream-and-frozen'></a>
 ## Ice Cream and Frozen ##
 
+* Gelato, Sicilian-style vanilla ([web](http://foodnouveau.com/recipes/desserts/frozen/sicilian-style-vanilla-bean-gelato/))
+* Gelato, grilled peaches and cream ([web](https://www.askchefdennis.com/grilled-peaches-and-cream-gelato/))
+* Gelato, stracciatella ([web](https://www.seriouseats.com/2018/08/the-best-stracciatella-gelato-is-all-about-the-chocolate.html))
 * Ice cream (Jeni)
 * Ice cream with mango and lime (binder)
 * Mexican ice cream (with honey, cinnamon, and cornflakes) (binder)
@@ -801,6 +837,8 @@
 * Cherry chocolate cake, Grandma Rose’s (book)
 * Chiffon cake (KA)
 * Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
+* Chocolate olive oil cake ([web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
+* Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html))
 * Chocolate-mint pudding cakes (binder)
 * Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
 * Devil's food cake with peanut butter icing (KA)
@@ -808,6 +846,7 @@
 * Jellyroll cake (KA)
 * King cake ([git](recipes/king-cake.md))
 * Mexican chocolate cake with ganache frosting (PQ)
+* Olive oil cake (binder)
 * Pineapple upside-down cake (KA)
 * Pound cake, chocolate (KA)
 * Pound cake, vanilla (KA)
@@ -849,6 +888,7 @@
 * Mom's meringues (ACC, binder)
 * Mommy Cookies (binder)
 * Oatmeal raisin cookies (BLR)
+* Sugar cookies (binder)
 * Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Thumbprint cookies
 
@@ -906,6 +946,7 @@
 <a name='fried'></a>
 ## Fried ##
 
+* Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/))
 * Crispy rice-flour tempura batter (binder, [web](http://www.food.com/recipe/fantastic-crispy-tempura-batter-162190))
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
 * Fried Twinkies ([web]())
@@ -913,6 +954,7 @@
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
 * Hush puppies
+* Sufganiyot (jelly doughnuts) (binder)
 * Yeast doughnuts (KA)
 * Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
@@ -920,6 +962,7 @@
 ## Canning ##
 
 * Bread & butter pickles, Coggins' recipe (binder)
+* Easy fridge dill pickles ([web](https://smittenkitchen.com/2014/07/easiest-fridge-dill-pickles/))
 * Homemade berry jam (binder)
 
 <a name='savory-sauces'></a>
@@ -980,6 +1023,7 @@
 * Rolled "buttercream" fondant (binder)
 * Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper)
 * Strawberries in red wine and balsamic syrup (ACC)
+* Swiss meringue buttercream ([web](https://www.seriouseats.com/recipes/2017/05/swiss-meringue-buttercream-frosting-recipe.html))
 * Whipped cream, gelatin-stabilized (binder)
 * Wild huckleberry (blueberry) sauce (ACC)
 
@@ -1017,6 +1061,7 @@
 * Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Stir fry
+* Sushi, cooked (book)
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Teriyaki chicken (BTMR)
 * Thai curry chicken soup (binder)
@@ -1038,7 +1083,7 @@
 <a name='italian'></a>
 ## Italian ##
 
-* Canoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
+* Cannoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
 * Chicken in sun-dried tomato cream (book)
 * Chicken parmigiana
 * Chicken piccata (USL)
@@ -1066,6 +1111,7 @@
 * Corn tortillas (binder)
 * Drunken (boracho) beans (binder)
 * Drunken (boracho) beans, slow cooker (SCR)
+* Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Fish tacos (?, Flay)
 * Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime)
 * Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder)

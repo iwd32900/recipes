@@ -4,6 +4,14 @@
 
 ;kids
 
+## Quick to Prepare ##
+
+;fast
+
+## Healthy ##
+
+;healthy
+
 ## Chicken & Turkey ##
 
 ;poultry
@@ -63,6 +71,10 @@
 ## Slow Cooker ##
 
 ;slowcooker
+
+## Sous Vide ##
+
+;sousvide
 
 ## Sandwiches ##
 
