@@ -256,6 +256,7 @@
 * Shrimp paella (binder)
 * Shrimp risotto (binder)
 * Shrimp with jalepeno-apricot glaze (binder)
+* Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html))
 * Wendy's marinated shrimp (book)
 
 <a name='soups-stews'></a>
@@ -395,6 +396,7 @@
 <a name='sous-vide'></a>
 ## Sous Vide ##
 
+* Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html))
 
 <a name='sandwiches'></a>
 ## Sandwiches ##
@@ -726,6 +728,7 @@
 * Bananas Foster (binder)
 * Blueberry-blackberry pie (MagGrill)
 * Cranberry Nantucket (Liz & Bob, binder)
+* Cranberry cake ([git](recipes/cranberry-cake.md))
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Gelato, grilled peaches and cream ([web](https://www.askchefdennis.com/grilled-peaches-and-cream-gelato/))
 * Grilled peaches with brown sugar and white chocolate (binder)
@@ -841,6 +844,7 @@
 * Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html))
 * Chocolate-mint pudding cakes (binder)
 * Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
+* Cranberry cake ([git](recipes/cranberry-cake.md))
 * Devil's food cake with peanut butter icing (KA)
 * Jeanne's molten chocolate cakes (binder)
 * Jellyroll cake (KA)
