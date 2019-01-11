@@ -2,7 +2,7 @@ Smoothies, yogurt-fruit (binder);drinks
 Ginger ale, homemade (ACC, binder);drinks
 Bacon bites;appetizers;bacon
 Vidalia onion dip (ACC, book);appetizers
-Red pepper cheddar dip (binder);appetizers
+Red pepper cheddar dip ([web](https://www.geniuskitchen.com/recipe/red-pepper-cheddar-dip-120418), binder);appetizers
 Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime);appetizers;mexican
 Guacamole (binder, ACC);appetizers;mexican
 Seven layer dip (BCITW);appetizers;mexican
@@ -55,7 +55,7 @@ Mexican pinto beans (binder);beans;mexican
 Refried beans with bacon grease (ACC);beans;mexican
 Drunken (boracho) beans (binder);beans;mexican
 Drunken (boracho) beans, slow cooker (SCR);beans;mexican;slowcooker
-[Slow-cooked dried beans](http://orangette.blogspot.com/2015/10/while-youre-not-looking.html);beans
+Slow-cooked dried beans ([web](http://orangette.net/2015/10/while-youre-not-looking/));beans
 Black-eyed pea and kale salad with bacon vinaigrette (binder);beans;bacon
 Black bean salad with corn, red pepper, and avocado (binder);beans
 Kielbasa, lentils, and spinach (binder);beans;sausage
@@ -121,7 +121,7 @@ Mini-meatloaves, Southwestern (BTMR);groundbeef
 Chili (w/ corn);groundbeef
 Southern Living beef-and-bean chili (binder);groundbeef;slowcooker
 Hotdog chili (binder);groundbeef
-"Franks and beans" (binder);sausage;beans
+"Franks and beans" ([web](https://www.bonappetit.com/recipe/franks-and-beans), binder);sausage;beans
 Taco salad;groundbeef;poultry;beans;mexican
 Taco bake (book);groundbeef;casserole
 Cheesy beef enchiladas (book);groundbeef;casserole;mexican
@@ -179,7 +179,7 @@ Scones, British (binder);flour;breakfast
 Yeast doughnuts (KA);flour;breakfast;otherd;fried
 Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html));flour;breakfast;otherd;fried
 Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ);flour;breakfast
-"Moomie's" Beautiful Burger Buns (KA, [web](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe));flour;sandwich
+"Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md));flour;sandwich
 Potato burger buns (binder);flour;sandwich
 Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe));flour;appetizers
 Sesame Italian bread (KA, ACC);flour

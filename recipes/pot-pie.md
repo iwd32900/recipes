@@ -46,3 +46,31 @@ If it gets too thick, thin it with additional water or chicken broth.
 
 Simmer for about 20 min after adding the last noodles.
 Traditional accompaniments are cole slaw and dill pickles.
+
+---
+
+Ian's first test
+
+* One whole chicken, cut up (5 lbs;  2 each bone-in breasts, thighs, legs, wings)
+* 1 t salt
+* 3 qts water
+* 1 T vinegar
+
+Cook in slow cooker on high until breasts reach 165 F inside, about 2.5 hours.
+Remove breasts and let cool enough to handle, about 30 minutes.
+De-bone breasts and cut meat into bite-sized pieces.
+Return the bones and scraps to the slow cooker for additional flavor.
+
+...
+
+To make the dough, combine
+
+* 19 oz all-purpose flour, such as King Arthur
+* 1 stick (4 oz) cold butter, cut in thin slices
+* 1 tsp salt
+
+Crumble the butter into the flour with your fingers until the butter is in pea-sized pieces.
+With a fork, mix in
+
+* 2 eggs, beaten
+* 5 oz water (by weight)

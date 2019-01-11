@@ -169,7 +169,7 @@
 <a name='sausage'></a>
 ## Sausage ##
 
-* "Franks and beans" (binder)
+* "Franks and beans" ([web](https://www.bonappetit.com/recipe/franks-and-beans), binder)
 * Biscuits with sausage gravy (USL)
 * Black bean soup with chorizo and chicken (binder)
 * Bratwurst
@@ -341,7 +341,7 @@
 <a name='beans'></a>
 ## Beans ##
 
-* "Franks and beans" (binder)
+* "Franks and beans" ([web](https://www.bonappetit.com/recipe/franks-and-beans), binder)
 * Baked beans, Bruce's five-bean (USL)
 * Baked beans, creamy (book)
 * Baked beans, perfect ([Pioneer Woman](http://www.foodnetwork.com/recipes/ree-drummond/perfectly-baked-beans-recipe.html))
@@ -362,10 +362,10 @@
 * Pinto bean and corn dip (binder)
 * Pulled pork nachos
 * Refried beans with bacon grease (ACC)
+* Slow-cooked dried beans ([web](http://orangette.net/2015/10/while-youre-not-looking/))
 * Taco salad
 * White bean and chicken chili (binder)
 * Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/))
-* [Slow-cooked dried beans](http://orangette.blogspot.com/2015/10/while-youre-not-looking.html)
 
 <a name='casseroles'></a>
 ## Casseroles ##
@@ -401,7 +401,7 @@
 <a name='sandwiches'></a>
 ## Sandwiches ##
 
-* "Moomie's" Beautiful Burger Buns (KA, [web](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe))
+* "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md))
 * Battered & fried sandwiches (???)
 * Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder)
 * Bratwurst
@@ -443,7 +443,7 @@
 ## Breads / Flour ##
 
 * "Crostini" for sandwiches (KA)
-* "Moomie's" Beautiful Burger Buns (KA, [web](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe))
+* "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md))
 * Banana bread (USL fewer ingredients, BC better taste)
 * Battered & fried sandwiches (???)
 * Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440))
@@ -928,7 +928,7 @@
 * Pimiento cheese (Lee Bros)
 * Pinto bean and corn dip (binder)
 * Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe))
-* Red pepper cheddar dip (binder)
+* Red pepper cheddar dip ([web](https://www.geniuskitchen.com/recipe/red-pepper-cheddar-dip-120418), binder)
 * Seven layer dip (BCITW)
 * Three-ingredient summertime salsa (Smitten Kitchen, binder)
 * Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
