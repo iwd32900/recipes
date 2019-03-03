@@ -480,3 +480,5 @@ Sugar cookies (binder);cookies
 Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/));vegetarian;beans;veggies
 Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html));shrimpetc;sousvide
 Cranberry cake ([git](recipes/cranberry-cake.md));cakes;fruitd
+Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/));pork;fried
+Filled doughnuts (paczki) ([git](recipes/filled-doughnuts.md));breakfast;fried;otherd

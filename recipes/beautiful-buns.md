@@ -1,4 +1,4 @@
-Beautiful Burger Buns
+# Beautiful Burger Buns
 
 An all-purpose tender, slightly sweet yeast dough.
 [The version on the King Arthur website](https://www.kingarthurflour.com/recipes/beautiful-burger-buns-recipe) differs from the one in their book.
@@ -47,4 +47,17 @@ This gives a dough with ~76% hydration.
 
 ---
 
-For 12 rolls in a 9x13 pan, bake 12-15 minutes at 375 F.
+For 12 yeast dinner rolls in a 9x13 pan or a 10" round springform pan,
+bake 12-15 minutes at 375 F.
+
+Optionally, glaze the tops before baking with 1 egg beaten with a pinch of salt.
+
+---
+
+For cinnamon rolls, use mixer to beat together filling:
+
+* 1 c (7 oz) brown sugar
+* 1 T cinnamon
+* 4 T butter, sliced or softened
+
+For 12 cinnamon rolls in a 9x13 pan, bake __ minutes at convection 350 F.

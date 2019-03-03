@@ -154,6 +154,7 @@
 
 * Carnitas (Mexican-style pulled pork) (binder)
 * Chipotle pork tacos with pineapple salsa (binder)
+* Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/))
 * Peach-mustard pork (book)
 * Pork and mustard greens soup (binder)
 * Pork chops with bacon-cornbread stuffing (BC)
@@ -660,6 +661,7 @@
 * Doughnut muffins (binder)
 * Eggs Benedict
 * Eggs over medium
+* Filled doughnuts (paczki) ([git](recipes/filled-doughnuts.md))
 * French toast, from croissants (ACC)
 * Granola (binder)
 * Hash browns (fresh or frozen, don’t grate potatoes)
@@ -766,6 +768,7 @@
 * Crepes (w/ Nutella, etc)
 * Dulce de leche cheesecake bars ([web](http://www.epicurious.com/recipes/food/views/dulce-de-leche-cheesecake-bars-359393), binder)
 * Eclairs with peanut butter pastry cream (ACC, KA)
+* Filled doughnuts (paczki) ([git](recipes/filled-doughnuts.md))
 * Fried Twinkies ([web]())
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
 * Ginger creme brulee (MagGrill)
@@ -953,10 +956,12 @@
 * Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/))
 * Crispy rice-flour tempura batter (binder, [web](http://www.food.com/recipe/fantastic-crispy-tempura-batter-162190))
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
+* Filled doughnuts (paczki) ([git](recipes/filled-doughnuts.md))
 * Fried Twinkies ([web]())
 * Fried pickles, Almost Famous (binder, [web](http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-fried-pickles-recipe))
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
+* Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/))
 * Hush puppies
 * Sufganiyot (jelly doughnuts) (binder)
 * Yeast doughnuts (KA)
