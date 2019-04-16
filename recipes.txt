@@ -467,7 +467,8 @@ Gelato, Sicilian-style vanilla ([web](http://foodnouveau.com/recipes/desserts/fr
 Gelato, grilled peaches and cream ([web](https://www.askchefdennis.com/grilled-peaches-and-cream-gelato/));fruitd;icecream
 Gelato, stracciatella ([web](https://www.seriouseats.com/2018/08/the-best-stracciatella-gelato-is-all-about-the-chocolate.html));icecream;chocd
 Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html));chocd;cakes
-Sushi, cooked (book);kids;fish;rice;asian
+Sushi, cooked (book);fish;rice;asian
+Poke, cooked (book);fish;rice;asian
 Easy fridge dill pickles ([web](https://smittenkitchen.com/2014/07/easiest-fridge-dill-pickles/));veggies;canning
 Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/));kids;groundbeef;mexican;casserole
 Olive oil cake (binder);cakes
@@ -475,10 +476,12 @@ Chocolate olive oil cake ([web](https://smittenkitchen.com/2017/10/chocolate-oli
 Swiss meringue buttercream ([web](https://www.seriouseats.com/recipes/2017/05/swiss-meringue-buttercream-frosting-recipe.html));sauced
 Philly cheesesteaks (binder);beef;sandwich
 Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/));flour;fried
-Sufganiyot (jelly doughnuts) (binder);flour;fried
 Sugar cookies (binder);cookies
 Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/));vegetarian;beans;veggies
 Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html));shrimpetc;sousvide
 Cranberry cake ([git](recipes/cranberry-cake.md));cakes;fruitd
 Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/));pork;fried
-Filled doughnuts (paczki) ([git](recipes/filled-doughnuts.md));breakfast;fried;otherd
+Filled doughnuts (paczki/sufganiyot) ([git](recipes/filled-doughnuts.md), binder);breakfast;fried;otherd
+Key lime pie with coconut (MagGrill);fruitd;otherd;custards;pies;yolks
+Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.html), cook to 255F, add baking soda);otherd
+Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder);otherd;custards;pies
