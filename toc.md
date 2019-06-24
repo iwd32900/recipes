@@ -227,13 +227,14 @@
 <a name='fish'></a>
 ## Fish ##
 
+* Baked white fish with parsley sauce ([web](http://recipes.oregonlive.com/recipes/baked-white-fish-in-parsley-sauce))
 * Fish sticks
 * Fish tacos (?, Flay)
 * French Caribbean creole sauce for whitefish (binder, [web](http://caribbeanpot.com/french-caribbean-creole-sauce-for-fish-and-grilled-meats/))
 * Lime and honey glazed salmon (binder)
 * Orange-soy sauce salmon (5/15)
 * Pineapple salmon (book)
-* Poke, cooked (book)
+* Poke, faux ([git](recipes/faux-poke.md))
 * Salmon en papillote (BLR)
 * Salmon with dill cream over greens (USL)
 * Salmon with leek cream (binder)
@@ -302,6 +303,7 @@
 * Pad Thai (binder)
 * Penne alla vodka ([web](http://urbandrivel.blogspot.com/2007/01/cooks-illustrated-perfecting-penne.html), binder)
 * Pizza
+* Poke, faux ([git](recipes/faux-poke.md))
 * Quesadillas
 * Ravioli toss (So Easy)
 * Scrambled eggs
@@ -520,7 +522,7 @@
 * Hands-free risotto (Cook's, binder)
 * Jambalaya / dirty rice (Zatarain's)
 * Pineapple rice (book)
-* Poke, cooked (book)
+* Poke, faux ([git](recipes/faux-poke.md))
 * Rice pilaf (?)
 * Saffron rice (?)
 * Same-day fried rice (binder)
@@ -1076,7 +1078,7 @@
 * Indonesian peanut glazed chicken (binder)
 * Lettuce wraps (binder)
 * Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
-* Poke, cooked (book)
+* Poke, faux ([git](recipes/faux-poke.md))
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Stir fry
 * Sushi, cooked (book)

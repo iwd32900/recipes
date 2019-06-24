@@ -468,7 +468,7 @@ Gelato, grilled peaches and cream ([web](https://www.askchefdennis.com/grilled-p
 Gelato, stracciatella ([web](https://www.seriouseats.com/2018/08/the-best-stracciatella-gelato-is-all-about-the-chocolate.html));icecream;chocd
 Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html));chocd;cakes
 Sushi, cooked (book);fish;rice;asian
-Poke, cooked (book);fish;rice;asian
+Poke, faux ([git](recipes/faux-poke.md));fish;rice;asian;vegetarian
 Easy fridge dill pickles ([web](https://smittenkitchen.com/2014/07/easiest-fridge-dill-pickles/));veggies;canning
 Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/));kids;groundbeef;mexican;casserole
 Olive oil cake (binder);cakes
@@ -485,3 +485,4 @@ Filled doughnuts (paczki/sufganiyot) ([git](recipes/filled-doughnuts.md), binder
 Key lime pie with coconut (MagGrill);fruitd;otherd;custards;pies;yolks
 Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.html), cook to 255F, add baking soda);otherd
 Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder);otherd;custards;pies
+Baked white fish with parsley sauce ([web](http://recipes.oregonlive.com/recipes/baked-white-fish-in-parsley-sauce));fish
