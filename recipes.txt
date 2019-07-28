@@ -123,7 +123,7 @@ Southern Living beef-and-bean chili (binder);groundbeef;slowcooker
 Hotdog chili (binder);groundbeef
 "Franks and beans" ([web](https://www.bonappetit.com/recipe/franks-and-beans), binder);sausage;beans
 Taco salad;groundbeef;poultry;beans;mexican
-Taco bake (book);groundbeef;casserole
+Taco bake ([git](recipes/taco-bake.md), book);groundbeef;casserole
 Cheesy beef enchiladas (book);groundbeef;casserole;mexican
 Sausage and pepper casserole with grits (Emeril);sausage;altgrains
 Sausage lasagna (binder);sausage;pasta;kids;italian

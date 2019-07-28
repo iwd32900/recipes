@@ -221,7 +221,7 @@
 * Meatballs, with spaghetti (purchased)
 * Mini-meatloaves, Southwestern (BTMR)
 * Southern Living beef-and-bean chili (binder)
-* Taco bake (book)
+* Taco bake ([git](recipes/taco-bake.md), book)
 * Taco salad
 
 <a name='fish'></a>
@@ -384,7 +384,7 @@
 * Potato casserole with bacon and caramelized onion (binder)
 * Potato-sausage Christmas casserole (book)
 * Salmon-spinach pot pie with mashed potato crust (binder)
-* Taco bake (book)
+* Taco bake ([git](recipes/taco-bake.md), book)
 
 <a name='slow-cooker'></a>
 ## Slow Cooker ##
