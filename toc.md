@@ -73,6 +73,7 @@
 * Chicken and waffles
 * Chicken parmigiana
 * Chicken tetrazzini (BC)
+* Chili, vegan
 * Corn dogs (binder)
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Faux Chick-Fil-A sandwich (binder)
@@ -211,7 +212,7 @@
 ## Ground Beef ##
 
 * Cheesy beef enchiladas (book)
-* Chili (w/ corn)
+* Chili, vegan
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Ground beef chili, Cook's Illustrated (binder)
 * Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder)
@@ -288,6 +289,7 @@
 * Bruce's eggplant parmesean (binder)
 * Calabacitas in masa crepes (PV)
 * Cheese soufflé (binder)
+* Chili, vegan
 * Corn, sweet onion, and thyme quesadillas (Flay)
 * Eggs over medium
 * Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder)
@@ -356,6 +358,7 @@
 * Black beans with Rotel tomatoes [Mary Beth]
 * Black beans, Caribbean (book)
 * Black-eyed pea and kale salad with bacon vinaigrette (binder)
+* Chili, vegan
 * Drunken (boracho) beans (binder)
 * Drunken (boracho) beans, slow cooker (SCR)
 * Ground beef chili, Cook's Illustrated (binder)
@@ -391,6 +394,7 @@
 
 * Baked potato soup (SCR)
 * Carnitas (Mexican-style pulled pork) (binder)
+* Chili, vegan
 * Drunken (boracho) beans, slow cooker (SCR)
 * Southern Living beef-and-bean chili (binder)
 * Sweet and spicy crock pot pork tacos (SCR)
@@ -604,6 +608,7 @@
 * Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.foodnetwork.com/recipes/giada-de-laurentiis/israeli-couscous-with-apples-cranberries-and-herbs-recipe))
 * Kale salad with apple and cheddar (binder)
 * Lettuce wraps (binder)
+* Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/))
 * Spinach salad
 * Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 * Wendy's "zesty salad" with crumbled Ramen (book)
@@ -617,7 +622,7 @@
 * Broccoli salad, Aunt Carolsue’s (book)
 * Cauliflower, roasted with goat cheese (binder)
 * Cheesy creamed corn with cilantro (binder)
-* Chili-garlic roasted broccoli (binder)
+* Chile-garlic roasted broccoli (binder)
 * Corn (on the cob, frozen, or canned)
 * Corn with Asian glaze (binder)
 * Creamed corn (USL)
@@ -631,6 +636,7 @@
 * Green beans with bacon and brown sugar (book)
 * Green beans with feta and Italian dressing (binder)
 * Green beans with lemon and thyme (binder)
+* Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/))
 * Sauteed cabbage with chile and peanutes (binder)
 * Sauteed kale with garlic and capers (binder)
 * Snow peas
@@ -789,7 +795,7 @@
 * Oatmeal raisin cookies (BLR)
 * Pate a choux / Cream puffs / Eclairs (KA)
 * Paula Deen's gooey butter cakes (binder)
-* Peanut butter and jelly bars (binder)
+* Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder)
 * Peanut butter pie (binder)
 * Pink lemonade pie (BC?)
 * Pound cake, chocolate (KA)
@@ -914,7 +920,7 @@
 
 * Easy chocolate peanut butter chip bars (binder)
 * Paula Deen's gooey butter cakes (binder)
-* Peanut butter and jelly bars (binder)
+* Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder)
 * S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Texas pecan pie bars (PQ)
 
@@ -1139,6 +1145,7 @@
 * Guacamole (binder, ACC)
 * Mexican brunch pie (USL)
 * Mexican pinto beans (binder)
+* Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/))
 * Pinto bean and corn dip (binder)
 * Quesadillas
 * Refried beans with bacon grease (ACC)

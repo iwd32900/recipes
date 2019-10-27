@@ -118,7 +118,7 @@ Corn dogs (binder);sausage;kids
 Hamburgers;groundbeef;grill;sandwich;kids
 Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder);groundbeef;sandwich
 Mini-meatloaves, Southwestern (BTMR);groundbeef
-Chili (w/ corn);groundbeef
+Chili, vegan;groundbeef;kids;vegetarian;beans;slowcooker
 Southern Living beef-and-bean chili (binder);groundbeef;slowcooker
 Hotdog chili (binder);groundbeef
 "Franks and beans" ([web](https://www.bonappetit.com/recipe/franks-and-beans), binder);sausage;beans
@@ -257,7 +257,7 @@ Yellow squash;veggies
 Zucchini;veggies
 Bruce's eggplant parmesean (binder);vegetarian
 Broccoli;veggies
-Chili-garlic roasted broccoli (binder);veggies
+Chile-garlic roasted broccoli (binder);veggies
 Broccoli salad, Aunt Carolsue’s (book);veggies
 Cauliflower, roasted with goat cheese (binder);veggies
 Green beans (fresh or canned);veggies
@@ -385,7 +385,7 @@ Oatmeal raisin cookies (BLR);otherd;cookies
 Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies));otherd;cookies
 Pink lemonade pie (BC?);otherd;pies;icecream
 Paula Deen's gooey butter cakes (binder);otherd;bars
-Peanut butter and jelly bars (binder);otherd;bars
+Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder);otherd;bars
 Peanut butter pie (binder);otherd;pies
 Texas pecan pie bars (PQ);otherd;bars
 Chiffon cake (KA);otherd;cakes
@@ -486,3 +486,4 @@ Key lime pie with coconut (MagGrill);fruitd;otherd;custards;pies;yolks
 Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.html), cook to 255F, add baking soda);otherd
 Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder);otherd;custards;pies
 Baked white fish with parsley sauce ([web](http://recipes.oregonlive.com/recipes/baked-white-fish-in-parsley-sauce));fish
+Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/));salad;veggies;mexican
