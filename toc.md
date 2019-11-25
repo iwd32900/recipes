@@ -55,6 +55,7 @@
 * [By Cuisine](#by-cuisine)
     * [Asian](#asian)
     * [French](#french)
+    * [Indian](#indian)
     * [Italian](#italian)
     * [Mexican and Latin](#mexican-and-latin)
     * [Southern US](#southern-us)
@@ -130,6 +131,7 @@
 * General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Green chile chicken enchildadas (binder)
 * Honey chicken (CT)
+* Indian Butter Chicken (Murgh Makhani) ([Cooks](https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani))
 * Indonesian peanut chicken (BC, ACC)
 * Indonesian peanut glazed chicken (binder)
 * Mom's Dijon marinated chicken (book)
@@ -704,7 +706,7 @@
 * Chocolate fondue
 * Chocolate olive oil cake ([web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
 * Chocolate pecan pie (binder, ACC)
-* Chocolate pudding pie, Jean Greene (ACC, binder)
+* Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder)
 * Chocolate souffles with peanut butter centers (binder)
 * Chocolate truffle tart (ACC)
 * Chocolate-chile cream pots (binder)
@@ -818,7 +820,7 @@
 * Bittersweet chocolate pudding (BLR)
 * Buttermilk panna cotta (MagGrill)
 * Butterscotch pudding (binder)
-* Chocolate pudding pie, Jean Greene (ACC, binder)
+* Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder)
 * Chocolate-chile cream pots (binder)
 * Eclairs with peanut butter pastry cream (ACC, KA)
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
@@ -887,7 +889,7 @@
 * Buttermilk vanilla bean pie (MagGrill)
 * Caramel pie, Grandma Rose’s (book)
 * Chocolate pecan pie (binder, ACC)
-* Chocolate pudding pie, Jean Greene (ACC, binder)
+* Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder)
 * Chocolate truffle tart (ACC)
 * Cranberry Nantucket (Liz & Bob, binder)
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
@@ -1105,6 +1107,12 @@
 * French onion soup (FoodLab)
 * King cake ([git](recipes/king-cake.md))
 * Omelet
+
+<a name='indian'></a>
+## Indian ##
+
+* Indian Butter Chicken (Murgh Makhani) ([Cooks](https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani))
+* Roti -- great for wraps, etc. (KA)
 
 <a name='italian'></a>
 ## Italian ##

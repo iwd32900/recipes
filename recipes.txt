@@ -157,7 +157,7 @@ Shrimp paella (binder);shrimpetc;rice
 Fake-crab cakes with chipotle aioli (CT);shrimpetc
 Crepes (book);flour
 Masa harina crepes (PV);flour
-Roti -- great for wraps, etc. (KA);flour
+Roti -- great for wraps, etc. (KA);flour;indian
 Tortillas ($);flour;altgrains
 Waffles (USL, BC);flour;breakfast
 French toast, from croissants (ACC);flour;breakfast
@@ -346,7 +346,7 @@ Mommy Cookies (binder);chocd;cookies
 Easy chocolate peanut butter chip bars (binder);chocd;bars
 Jeanne's peanut butter fudge;chocd
 Triple-chocolate mousse cake;chocd
-Chocolate pudding pie, Jean Greene (ACC, binder);chocd;pies;custards
+Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder);chocd;pies;custards
 Bittersweet chocolate pudding (BLR);chocd;custards
 Pots de crème (USL, Cooks);chocd;custards
 Chocolate-chile cream pots (binder);chocd;custards
@@ -487,3 +487,4 @@ Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.
 Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder);otherd;custards;pies
 Baked white fish with parsley sauce ([web](http://recipes.oregonlive.com/recipes/baked-white-fish-in-parsley-sauce));fish
 Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/));salad;veggies;mexican
+Indian Butter Chicken (Murgh Makhani) ([Cooks](https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani));poultry;indian
