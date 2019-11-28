@@ -19,6 +19,11 @@ Next whisk in dry ingredients to get a thick batter:
 Slowly whisk in milk to get smooth mixture:
 
 - 1 1/4 c milk
+
+Cook over medium heat until thick and bubbly, whisking constantly.
+Cook another 2 minutes, then remove from heat.
+Whisk in:
+
 - 1 t vanilla extract
 
 Whisk together:
@@ -28,7 +33,7 @@ Whisk together:
 - 9 oz sugar (1 1/4 c)
 - pinch of salt
 
-Over a double boiler, cook to 185 F.
-Whisk on high until meringue reaches full volume.
+Over a double boiler, cook to 185 F, whisking constantly.
+In a stand mixer, whisk on high until meringue reaches full volume.
 
 Put custard into pie crust, top with meringue.  Serve chilled.
