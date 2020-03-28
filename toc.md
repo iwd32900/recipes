@@ -74,7 +74,7 @@
 * Chicken and waffles
 * Chicken parmigiana
 * Chicken tetrazzini (BC)
-* Chili, vegan
+* Chili, vegan ([git](recipes/chili.md))
 * Corn dogs (binder)
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Faux Chick-Fil-A sandwich (binder)
@@ -214,7 +214,7 @@
 ## Ground Beef ##
 
 * Cheesy beef enchiladas (book)
-* Chili, vegan
+* Chili, vegan ([git](recipes/chili.md))
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Ground beef chili, Cook's Illustrated (binder)
 * Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder)
@@ -291,7 +291,7 @@
 * Bruce's eggplant parmesean (binder)
 * Calabacitas in masa crepes (PV)
 * Cheese soufflé (binder)
-* Chili, vegan
+* Chili, vegan ([git](recipes/chili.md))
 * Corn, sweet onion, and thyme quesadillas (Flay)
 * Eggs over medium
 * Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder)
@@ -339,6 +339,7 @@
 ## Cheese ##
 
 * (other cheese fondues)
+* Cauliflower cheese ([web](https://smittenkitchen.com/2014/10/cauliflower-cheese/))
 * Cheese straws (Lee Bros)
 * Corn, sweet onion, and thyme quesadillas (Flay)
 * Pimiento cheese (Lee Bros)
@@ -360,7 +361,7 @@
 * Black beans with Rotel tomatoes [Mary Beth]
 * Black beans, Caribbean (book)
 * Black-eyed pea and kale salad with bacon vinaigrette (binder)
-* Chili, vegan
+* Chili, vegan ([git](recipes/chili.md))
 * Drunken (boracho) beans (binder)
 * Drunken (boracho) beans, slow cooker (SCR)
 * Ground beef chili, Cook's Illustrated (binder)
@@ -384,11 +385,13 @@
 * Chicken tetrazzini (BC)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
+* French toast bake ([web](https://dinnerthendessert.com/easy-french-toast-bake/))
 * Green chile chicken enchildadas (binder)
 * Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
 * Potato casserole with bacon and caramelized onion (binder)
 * Potato-sausage Christmas casserole (book)
 * Salmon-spinach pot pie with mashed potato crust (binder)
+* Sausage lasagna (binder)
 * Taco bake ([git](recipes/taco-bake.md), book)
 
 <a name='slow-cooker'></a>
@@ -396,7 +399,7 @@
 
 * Baked potato soup (SCR)
 * Carnitas (Mexican-style pulled pork) (binder)
-* Chili, vegan
+* Chili, vegan ([git](recipes/chili.md))
 * Drunken (boracho) beans, slow cooker (SCR)
 * Southern Living beef-and-bean chili (binder)
 * Sweet and spicy crock pot pork tacos (SCR)
@@ -465,6 +468,7 @@
 * Crescent rolls ($, binder)
 * Crusty rolls (fresh or frozen, $)
 * Doughnut muffins (binder)
+* Flour tortillas ([web](https://www.delish.com/cooking/recipe-ideas/a27133027/homemade-flour-tortillas-recipe/))
 * French toast, from croissants (ACC)
 * KA 36-hour ciabatta (KA, ACC, flat for sandwiches)
 * Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ)
@@ -482,8 +486,8 @@
 * Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
 * Sesame Italian bread (KA, ACC)
-* Tortillas ($)
 * Waffles (USL, BC)
+* Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/))
 * Yeast doughnuts (KA)
 * Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
@@ -517,6 +521,7 @@
 * Straw and hay (BC, ACC)
 * Thai rice noodles
 * Tortellini, etc. (homemade - Puck, refrigerated, or frozen)
+* Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/))
 
 <a name='rice'></a>
 ## Rice ##
@@ -556,7 +561,6 @@
 * Sausage and pepper casserole with grits (Emeril)
 * Shrimp and grits (binder, ACC)
 * Sour cream cornbread (CW)
-* Tortillas ($)
 * Wild rice
 
 <a name='potatoes'></a>
@@ -622,6 +626,7 @@
 * Bread & butter pickles, Coggins' recipe (binder)
 * Broccoli
 * Broccoli salad, Aunt Carolsue’s (book)
+* Cauliflower cheese ([web](https://smittenkitchen.com/2014/10/cauliflower-cheese/))
 * Cauliflower, roasted with goat cheese (binder)
 * Cheesy creamed corn with cilantro (binder)
 * Chile-garlic roasted broccoli (binder)
@@ -672,6 +677,7 @@
 * Eggs Benedict
 * Eggs over medium
 * Filled doughnuts (paczki/sufganiyot) ([git](recipes/filled-doughnuts.md), binder)
+* French toast bake ([web](https://dinnerthendessert.com/easy-french-toast-bake/))
 * French toast, from croissants (ACC)
 * Granola (binder)
 * Hash browns (fresh or frozen, don’t grate potatoes)
@@ -981,6 +987,7 @@
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
 * Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/))
 * Hush puppies
+* Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/))
 * Yeast doughnuts (KA)
 * Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html))
 
@@ -1094,6 +1101,7 @@
 * Teriyaki chicken (BTMR)
 * Thai curry chicken soup (binder)
 * Thai-spiced pork burgers (binder)
+* Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/))
 
 <a name='french'></a>
 ## French ##
@@ -1147,6 +1155,7 @@
 * Drunken (boracho) beans, slow cooker (SCR)
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
 * Fish tacos (?, Flay)
+* Flour tortillas ([web](https://www.delish.com/cooking/recipe-ideas/a27133027/homemade-flour-tortillas-recipe/))
 * Fresh salsa (tomato, onion, serrano, cilantro, garlic, lime)
 * Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder)
 * Green chile chicken enchildadas (binder)

@@ -118,7 +118,7 @@ Corn dogs (binder);sausage;kids
 Hamburgers;groundbeef;grill;sandwich;kids
 Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder);groundbeef;sandwich
 Mini-meatloaves, Southwestern (BTMR);groundbeef
-Chili, vegan;groundbeef;kids;vegetarian;beans;slowcooker
+Chili, vegan ([git](recipes/chili.md));groundbeef;kids;vegetarian;beans;slowcooker
 Southern Living beef-and-bean chili (binder);groundbeef;slowcooker
 Hotdog chili (binder);groundbeef
 "Franks and beans" ([web](https://www.bonappetit.com/recipe/franks-and-beans), binder);sausage;beans
@@ -126,7 +126,7 @@ Taco salad;groundbeef;poultry;beans;mexican
 Taco bake ([git](recipes/taco-bake.md), book);groundbeef;casserole
 Cheesy beef enchiladas (book);groundbeef;casserole;mexican
 Sausage and pepper casserole with grits (Emeril);sausage;altgrains
-Sausage lasagna (binder);sausage;pasta;kids;italian
+Sausage lasagna (binder);sausage;pasta;kids;italian;casserole
 Potato-sausage Christmas casserole (book);sausage;potatoes;casserole
 Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi));pork;sandwich;asian
 Biscuits with sausage gravy (USL);sausage;breakfast
@@ -158,7 +158,7 @@ Fake-crab cakes with chipotle aioli (CT);shrimpetc
 Crepes (book);flour
 Masa harina crepes (PV);flour
 Roti -- great for wraps, etc. (KA);flour;indian
-Tortillas ($);flour;altgrains
+Flour tortillas ([web](https://www.delish.com/cooking/recipe-ideas/a27133027/homemade-flour-tortillas-recipe/));flour;mexican
 Waffles (USL, BC);flour;breakfast
 French toast, from croissants (ACC);flour;breakfast
 Pancakes (BC);flour;breakfast
@@ -488,3 +488,6 @@ Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foo
 Baked white fish with parsley sauce ([web](http://recipes.oregonlive.com/recipes/baked-white-fish-in-parsley-sauce));fish
 Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/));salad;veggies;mexican
 Indian Butter Chicken (Murgh Makhani) ([Cooks](https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani));poultry;indian
+Cauliflower cheese ([web](https://smittenkitchen.com/2014/10/cauliflower-cheese/));cheese;veggies
+French toast bake ([web](https://dinnerthendessert.com/easy-french-toast-bake/));breakfast;casserole
+Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/));asian;flour;pasta;fried
