@@ -178,7 +178,7 @@ Scones, cheddar and bacon (PQ);flour;breakfast
 Scones, British (binder);flour;breakfast
 Yeast doughnuts (KA);flour;breakfast;otherd;fried
 Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html));flour;breakfast;otherd;fried
-Kolaches ([web](http://www.homesicktexan.com/2007/03/sweet-escape-kolaches.html), PQ);flour;breakfast
+Kolaches ([git](recipes/beautiful-buns.md));flour;breakfast
 "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md));flour;sandwich
 Potato burger buns (binder);flour;sandwich
 Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe));flour;appetizers
@@ -206,6 +206,7 @@ Macaroni and cheese, nacho (binder);pasta;vegetarian
 Macaroni and cheese, Ranch (binder);pasta;vegetarian
 Macaroni and cheese, Panera (binder);pasta;vegetarian;kids
 Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried);pasta
+Fresh pasta ([web](https://www.bonappetit.com/recipe/fresh-pasta-dough));pasta
 Straw and hay (BC, ACC);pasta
 Spaghetti-ham pie (BC? USL?);pasta
 Tortellini, etc. (homemade - Puck, refrigerated, or frozen);pasta
@@ -463,9 +464,7 @@ Pineapple stuffing ([git](recipes/pineapple-stuffing.md));flour;southern
 Mojitos ([web](https://www.allrecipes.com/recipe/147363/the-real-mojito/));drinks
 Ermine frosting / flour buttercream ([web](http://thepioneerwoman.com/cooking/devil-dogs/?printable_recipe=11406));sauced
 Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake));southern;cakes
-Gelato, Sicilian-style vanilla ([web](http://foodnouveau.com/recipes/desserts/frozen/sicilian-style-vanilla-bean-gelato/));icecream
-Gelato, grilled peaches and cream ([web](https://www.askchefdennis.com/grilled-peaches-and-cream-gelato/));fruitd;icecream
-Gelato, stracciatella ([web](https://www.seriouseats.com/2018/08/the-best-stracciatella-gelato-is-all-about-the-chocolate.html));icecream;chocd
+Gelato, master recipe ([git](recipes/gelato.md));icecream
 Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html));chocd;cakes
 Sushi, cooked (book);fish;rice;asian
 Poke, faux ([git](recipes/faux-poke.md));fish;rice;asian;vegetarian
@@ -491,3 +490,5 @@ Indian Butter Chicken (Murgh Makhani) ([Cooks](https://www.cooksillustrated.com/
 Cauliflower cheese ([web](https://smittenkitchen.com/2014/10/cauliflower-cheese/));cheese;veggies
 French toast bake ([web](https://dinnerthendessert.com/easy-french-toast-bake/));breakfast;casserole
 Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/));asian;flour;pasta;fried
+No-kneed sourdough bread ([web](https://www.splendidtable.org/recipes/almost-no-knead-sourdough-bread));flour
+Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-your-own-mini-sourdough-starter-with-the-quarantinystarter-project));flour

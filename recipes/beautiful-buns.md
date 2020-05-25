@@ -61,3 +61,14 @@ For cinnamon rolls, use mixer to beat together filling:
 * 4 T butter, sliced or softened
 
 For 12 cinnamon rolls in a 9x13 pan, bake __ minutes at convection 350 F.
+
+---
+
+For Texas-style kolaches, divide dough into 24 balls.
+Flatten each ball and wrap around one mini cocktail sausage and 1/4 slice of American cheese.
+That means you'll need:
+
+* 24 mini cocktail smoked beef sausages, such as Li'l Smokies (10 oz package)
+* 6 slices American cheese
+
+Bake for 12 minutes at convection 350 F.
