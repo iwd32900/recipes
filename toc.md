@@ -287,6 +287,7 @@
 ## Vegetarian Mains ##
 
 * (other cheese fondues)
+* Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/))
 * Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder)
 * Bruce's eggplant parmesean (binder)
 * Calabacitas in masa crepes (PV)
@@ -319,6 +320,7 @@
 <a name='eggs'></a>
 ## Eggs ##
 
+* Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/))
 * Cheese soufflé (binder)
 * Deep-dish Quiche Lorraine (binder)
 * Deviled eggs, Bitler (book)
@@ -456,6 +458,7 @@
 
 * "Crostini" for sandwiches (KA)
 * "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md))
+* Bagels (Reinhart, The Bread Baker's Apprentice)
 * Banana bread (USL fewer ingredients, BC better taste)
 * Battered & fried sandwiches (???)
 * Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440))
@@ -475,7 +478,7 @@
 * Masa harina crepes (PV)
 * Muffins, blueberry jam (binder)
 * No-knead Dutch oven bread (binder, [web](https://www.cooksillustrated.com/recipes/4028-almost-no-knead-bread))
-* No-kneed sourdough bread ([web](https://www.splendidtable.org/recipes/almost-no-knead-sourdough-bread))
+* No-knead sourdough bread ([web](https://www.splendidtable.org/recipes/almost-no-knead-sourdough-bread))
 * Pancakes (BC)
 * Pineapple stuffing ([git](recipes/pineapple-stuffing.md))
 * Popovers / Yorkshire puddings (ask Bruce?)
@@ -529,6 +532,7 @@
 <a name='rice'></a>
 ## Rice ##
 
+* Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/))
 * Black rice
 * Brown rice
 * Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
@@ -642,6 +646,7 @@
 * Fried tempura okra (binder)
 * Glazed carrots (BTMR, binder)
 * Grandma Zale’s corn casserole
+* Green beanns, Southeast Asian style (binder)
 * Green beans (fresh or canned)
 * Green beans with bacon and brown sugar (book)
 * Green beans with feta and Italian dressing (binder)
@@ -670,6 +675,7 @@
 <a name='breakfast'></a>
 # Breakfast #
 
+* Bagels (Reinhart, The Bread Baker's Apprentice)
 * Banana bread (USL fewer ingredients, BC better taste)
 * Biscuits (ACC)
 * Biscuits with sausage gravy (USL)
@@ -792,6 +798,7 @@
 * Funnel cake ([web](http://smittenkitchen.com/blog/2016/06/funnel-cake/))
 * Ginger creme brulee (MagGrill)
 * Ginger mousse (binder)
+* Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/))
 * Ice cream (Jeni)
 * Jellyroll cake (KA)
 * Key lime pie with coconut (MagGrill)
@@ -803,7 +810,6 @@
 * Mom's meringues (ACC, binder)
 * Oatmeal raisin cookies (BLR)
 * Pate a choux / Cream puffs / Eclairs (KA)
-* Paula Deen's gooey butter cakes (binder)
 * Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder)
 * Peanut butter pie (binder)
 * Pink lemonade pie (BC?)
@@ -926,7 +932,7 @@
 ## Bars ##
 
 * Easy chocolate peanut butter chip bars (binder)
-* Paula Deen's gooey butter cakes (binder)
+* Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/))
 * Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder)
 * S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Texas pecan pie bars (PQ)
@@ -1084,6 +1090,7 @@
 
 * Asian chicken salad (Besh MFT)
 * Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307))
+* Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/))
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
 * General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
