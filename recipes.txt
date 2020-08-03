@@ -495,3 +495,4 @@ Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-you
 Bagels (Reinhart, The Bread Baker's Apprentice);flour;breakfast
 Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/));otherd;bars
 Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/));rice;eggs;vegetarian;asian
+Fried chicken (Food Lab);poultry;fried;sourthern
