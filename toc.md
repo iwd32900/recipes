@@ -97,6 +97,7 @@
 <a name='quick-to-prepare'></a>
 ## Quick to Prepare ##
 
+* Key lime pie with coconut (MagGrill)
 
 <a name='healthy'></a>
 ## Healthy ##
@@ -254,7 +255,6 @@
 ## Shrimp, Scallops, Crab, etc. ##
 
 * Coconut fried shrimp (ACC)
-* Corn and crab chowder (binder)
 * Creamy Gruyere scallops (USL)
 * Fake-crab cakes with chipotle aioli (CT)
 * Gumbo (Cook's Country)
@@ -273,7 +273,6 @@
 * Black bean soup with chorizo and chicken (binder)
 * Chicken corn soup (Mom)
 * Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md))
-* Corn and crab chowder (binder)
 * Corn chowder, "Cafe" (binder)
 * French onion soup (FoodLab)
 * Ground beef chili, Cook's Illustrated (binder)

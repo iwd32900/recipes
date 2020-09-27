@@ -21,7 +21,6 @@ French onion soup (FoodLab);soups;french
 Tortilla soup (binder);soups;mexican
 Thai curry chicken soup (binder);soups;poultry;asian
 Corn chowder, "Cafe" (binder);soups
-Corn and crab chowder (binder);soups;shrimpetc
 Chicken corn soup (Mom);soups;poultry
 Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md));soups;poultry
 Black bean soup with chorizo and chicken (binder);soups;beans;poultry;sausage
@@ -481,7 +480,7 @@ Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-lab
 Cranberry cake ([git](recipes/cranberry-cake.md));cakes;fruitd
 Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/));pork;fried
 Filled doughnuts (paczki/sufganiyot) ([git](recipes/filled-doughnuts.md), binder);breakfast;fried;otherd
-Key lime pie with coconut (MagGrill);fruitd;otherd;custards;pies;yolks
+Key lime pie with coconut (MagGrill);fruitd;otherd;custards;pies;yolks;fast
 Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.html), cook to 255F, add baking soda);otherd
 Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder);otherd;custards;pies
 Baked white fish with parsley sauce ([web](http://recipes.oregonlive.com/recipes/baked-white-fish-in-parsley-sauce));fish
