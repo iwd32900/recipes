@@ -495,3 +495,6 @@ Bagels (Reinhart, The Bread Baker's Apprentice);flour;breakfast
 Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/));otherd;bars
 Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/));rice;eggs;vegetarian;asian
 Fried chicken (Food Lab);poultry;fried;sourthern
+Taquitos;kids;poultry;pork;altgrains;mexican
+Palmiers ([Kitchn](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822));french;cookies
+Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry));sauced;flour

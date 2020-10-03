@@ -120,7 +120,7 @@
 
 ;veggies
 
-## Fruit ##
+## Fruit Sides ##
 
 ;fruit
 
@@ -138,7 +138,7 @@
 
 ;chocd
 
-## Fruit ##
+## Fruit Desserts ##
 
 ;fruitd
 
