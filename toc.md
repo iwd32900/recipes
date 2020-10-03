@@ -29,11 +29,11 @@
 * [Side Dishes](#side-dishes)
     * [Salads](#salads)
     * [Vegetables](#vegetables)
-    * [Fruit](#fruit)
+    * [Fruit Sides](#fruit-sides)
 * [Breakfast](#breakfast)
 * [Desserts](#desserts)
     * [Chocolate](#chocolate)
-    * [Fruit](#fruit)
+    * [Fruit Desserts](#fruit-desserts)
     * [Other Sweets](#other-sweets)
     * [Custards and Puddings](#custards-and-puddings)
     * [Ice Cream and Frozen](#ice-cream-and-frozen)
@@ -92,6 +92,7 @@
 * Scrambled eggs
 * Steaks (filet mignon, ...)
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
+* Taquitos
 * Teriyaki chicken (BTMR)
 
 <a name='quick-to-prepare'></a>
@@ -146,6 +147,7 @@
 * Stir fry
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Taco salad
+* Taquitos
 * Teriyaki chicken (BTMR)
 * Thai curry chicken soup (binder)
 * Turkey burgers
@@ -169,6 +171,7 @@
 * Smoked pork butt BBQ (amazingribs.com)
 * Stir fry
 * Sweet and spicy crock pot pork tacos (SCR)
+* Taquitos
 * Thai-spiced pork burgers (binder)
 
 <a name='sausage'></a>
@@ -487,6 +490,7 @@
 * Pumpkin bread, Really Good (binder)
 * Refrigerator flatbread (Flay, ACC)
 * Roti -- great for wraps, etc. (KA)
+* Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
 * Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
 * Sesame Italian bread (KA, ACC)
@@ -568,6 +572,7 @@
 * Sausage and pepper casserole with grits (Emeril)
 * Shrimp and grits (binder, ACC)
 * Sour cream cornbread (CW)
+* Taquitos
 * Wild rice
 
 <a name='potatoes'></a>
@@ -662,8 +667,8 @@
 * Zucchini
 * Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/))
 
-<a name='fruit'></a>
-## Fruit ##
+<a name='fruit-sides'></a>
+## Fruit Sides ##
 
 * Homemade berry jam (binder)
 * Port wine apple sauce (ACC)
@@ -741,8 +746,8 @@
 * Puppy Chow
 * Triple-chocolate mousse cake
 
-<a name='fruit'></a>
-## Fruit ##
+<a name='fruit-desserts'></a>
+## Fruit Desserts ##
 
 * "Big hair" lemon-lime meringue tarts (Pastry Queen)
 * 1-crust stirred fruit pies e.g. frutas del bosque (KA)
@@ -924,6 +929,7 @@
 * Mom's meringues (ACC, binder)
 * Mommy Cookies (binder)
 * Oatmeal raisin cookies (BLR)
+* Palmiers ([Kitchn](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822))
 * Sugar cookies (binder)
 * Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Thumbprint cookies
@@ -1060,6 +1066,7 @@
 * Mascarpone-stabilized whipped cream frosting ([web](http://stressbaking.com/2015/07/stabilized-mascarpone-whipped-cream.html/))
 * Pastry cream (APPC/ACC - easier, KA - flavored)
 * Rolled "buttercream" fondant (binder)
+* Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
 * Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper)
 * Strawberries in red wine and balsamic syrup (ACC)
 * Swiss meringue buttercream ([web](https://www.seriouseats.com/recipes/2017/05/swiss-meringue-buttercream-frosting-recipe.html))
@@ -1122,6 +1129,7 @@
 * French onion soup (FoodLab)
 * King cake ([git](recipes/king-cake.md))
 * Omelet
+* Palmiers ([Kitchn](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822))
 
 <a name='indian'></a>
 ## Indian ##
@@ -1176,6 +1184,7 @@
 * Seven layer dip (BCITW)
 * Sweet and spicy crock pot pork tacos (SCR)
 * Taco salad
+* Taquitos
 * Tortilla soup (binder)
 * Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 
