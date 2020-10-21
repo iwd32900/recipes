@@ -82,11 +82,13 @@
 * Hamburgers
 * Hotdogs
 * Macaroni and cheese, Panera (binder)
+* Meatball subs
 * Meatballs, with spaghetti (purchased)
 * Omelet
 * Parmesean crusted chicken (binder)
 * Pecan-crusted chicken fingers (binder)
 * Pizza
+* Pork ribs (Meathead's Last Meal Ribs)
 * Quesadillas
 * Sausage lasagna (binder)
 * Scrambled eggs
@@ -99,6 +101,7 @@
 ## Quick to Prepare ##
 
 * Key lime pie with coconut (MagGrill)
+* Meatball subs
 
 <a name='healthy'></a>
 ## Healthy ##
@@ -166,6 +169,7 @@
 * Pork chops with bacon-cornbread stuffing (BC)
 * Pork chops with port wine apple sauce (ACC)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
+* Pork ribs (Meathead's Last Meal Ribs)
 * Pulled pork nachos
 * Pulled pork sandwiches
 * Smoked pork butt BBQ (amazingribs.com)
@@ -427,6 +431,7 @@
 * Hamburgers
 * Hotdogs
 * Italian sausages
+* Meatball subs
 * Philly cheesesteaks (binder)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Potato burger buns (binder)
@@ -446,6 +451,7 @@
 * Hotdogs
 * Italian sausages
 * Mom's Dijon marinated chicken (book)
+* Pork ribs (Meathead's Last Meal Ribs)
 * Rosemary grilled chicken thighs (binder)
 * Smoked pork butt BBQ (amazingribs.com)
 * Turkey burgers
@@ -721,6 +727,7 @@
 * Bittersweet chocolate pudding (BLR)
 * Buche de Noel / Yule log (ACC)
 * Cherry chocolate cake, Grandma Rose’s (book)
+* Chocolate (canola) oil cake with chocolate chips (binder based on [web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
 * Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
 * Chocolate cheesecake (binder)
 * Chocolate fondue
@@ -760,6 +767,7 @@
 * Blueberry-blackberry pie (MagGrill)
 * Cranberry Nantucket (Liz & Bob, binder)
 * Cranberry cake ([git](recipes/cranberry-cake.md))
+* Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Grilled peaches with brown sugar and white chocolate (binder)
 * Ice cream with mango and lime (binder)
@@ -874,6 +882,7 @@
 * Carrot cake with crystalized ginger (KA)
 * Cherry chocolate cake, Grandma Rose’s (book)
 * Chiffon cake (KA)
+* Chocolate (canola) oil cake with chocolate chips (binder based on [web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
 * Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder)
 * Chocolate olive oil cake ([web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
 * Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html))
@@ -908,6 +917,7 @@
 * Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder)
 * Chocolate truffle tart (ACC)
 * Cranberry Nantucket (Liz & Bob, binder)
+* Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
 * Key lime pie with coconut (MagGrill)
 * Mom's strawberry pie (binder, w/ white lasagna)

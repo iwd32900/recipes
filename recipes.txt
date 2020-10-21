@@ -471,6 +471,7 @@ Easy fridge dill pickles ([web](https://smittenkitchen.com/2014/07/easiest-fridg
 Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/));kids;groundbeef;mexican;casserole
 Olive oil cake (binder);cakes
 Chocolate olive oil cake ([web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/));cakes;chocd
+Chocolate (canola) oil cake with chocolate chips (binder based on [web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/));cakes;chocd
 Swiss meringue buttercream ([web](https://www.seriouseats.com/recipes/2017/05/swiss-meringue-buttercream-frosting-recipe.html));sauced
 Philly cheesesteaks (binder);beef;sandwich
 Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/));flour;fried
@@ -498,3 +499,6 @@ Fried chicken (Food Lab);poultry;fried;sourthern
 Taquitos;kids;poultry;pork;altgrains;mexican
 Palmiers ([Kitchn](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822));french;cookies
 Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry));sauced;flour
+Meatball subs;kids;fast;sandwich
+Pork ribs (Meathead's Last Meal Ribs);pork;grill;kids
+Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/));fruitd;pies
