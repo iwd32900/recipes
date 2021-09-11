@@ -18,7 +18,7 @@ Baked potato soup (USL);soups;potatoes
 Baked potato soup (SCR);soups;potatoes;slowcooker
 Potato-leek soup (binder);soups;potatoes
 French onion soup (FoodLab);soups;french
-Tortilla soup (binder);soups;mexican
+Tortilla soup (binder, SCR);soups;mexican
 Thai curry chicken soup (binder);soups;poultry;asian
 Corn chowder, "Cafe" (binder);soups
 Chicken corn soup (Mom);soups;poultry
@@ -26,7 +26,7 @@ Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md));soups;poult
 Black bean soup with chorizo and chicken (binder);soups;beans;poultry;sausage
 Pork and mustard greens soup (binder);soups;pork
 Eggs over medium;eggs;vegetarian;breakfast
-Scrambled eggs;eggs;vegetarian;breakfast;kids
+Scrambled eggs (Gordon Ramsay);eggs;yolks;whites;vegetarian;breakfast;kids
 Omelet;eggs;vegetarian;breakfast;kids;french
 Eggs Benedict;eggs;breakfast
 Mexican brunch pie (USL);eggs;vegetarian;mexican
@@ -172,11 +172,9 @@ Doughnut muffins (binder);flour;breakfast
 Banana bread (USL fewer ingredients, BC better taste);flour;breakfast
 Pumpkin bread, Really Good (binder);flour;breakfast
 Chocolate-chip coffee cake (Bitler);flour;breakfast
-Cinnamon rolls (Jailhouse potato - PQ), Alton's - binder, BLR);flour;breakfast
+Cinnamon rolls ([git](recipes/beautiful-buns.md));flour;breakfast
 Scones, cheddar and bacon (PQ);flour;breakfast
 Scones, British (binder);flour;breakfast
-Yeast doughnuts (KA);flour;breakfast;otherd;fried
-Yeast doughnuts, "perfect" (binder, [web](http://christinascucina.com/2014/01/perfect-yeast-doughnuts-sugar-filled-jam-nutella-cream.html));flour;breakfast;otherd;fried
 Kolaches ([git](recipes/beautiful-buns.md));flour;breakfast
 "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md));flour;sandwich
 Potato burger buns (binder);flour;sandwich
@@ -189,7 +187,7 @@ Battered & fried sandwiches (???);flour;sandwich
 Refrigerator flatbread (Flay, ACC);flour
 Crusty rolls (fresh or frozen, $);flour
 Crescent rolls ($, binder);flour
-Popovers / Yorkshire puddings (ask Bruce?);flour
+Popovers / Yorkshire puddings (KA);flour
 Grits with cheese (ACC);altgrains
 Magnolia Grill cheese grits souffle (binder, ACC);altgrains;eggs;vegetarian
 Couscous with shallots and almonds (Cook's, binder);pasta
@@ -222,7 +220,7 @@ Hands-free risotto (Cook's, binder);rice;italian
 Brown rice;rice
 Black rice;rice
 Saffron rice (?);rice
-Same-day fried rice (binder);rice
+Same-day fried rice (binder);rice;yolks
 Sushi rice (sushi book);rice
 Sushi rolls;rice
 Hash browns (fresh or frozen, don’t grate potatoes);potatoes;breakfast
@@ -252,7 +250,7 @@ Corn (on the cob, frozen, or canned);veggies
 Corn with Asian glaze (binder);veggies
 Creamed corn (USL);veggies
 Fresh corn salad ([web](http://www.foodnetwork.com/recipes/ina-garten/fresh-corn-salad-recipe.html), binder);veggies
-Grandma Zale’s corn casserole;veggies
+Grandma Zale’s corn casserole ([ACC](https://chemistscookbook.blogspot.com/2006/01/holiday-traditions-i-grandma-zales.html));veggies
 Yellow squash;veggies
 Zucchini;veggies
 Bruce's eggplant parmesean (binder);vegetarian
@@ -364,7 +362,7 @@ Pate a choux / Cream puffs / Eclairs (KA);otherd;custards
 Eclairs with peanut butter pastry cream (ACC, KA);otherd;custards
 Ice cream (Jeni);otherd;icecream
 Mexican ice cream (with honey, cinnamon, and cornflakes) (binder);otherd;icecream
-Pudding, vanilla (bean) (USL/BC);otherd;custards
+Pudding, vanilla (bean) (USL/BC);otherd;custards;yolks
 Butterscotch pudding (binder);otherd;custards
 Buttermilk panna cotta (MagGrill);otherd;custards
 Buttermilk vanilla bean pie (MagGrill);otherd;pies
@@ -481,6 +479,7 @@ Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-lab
 Cranberry cake ([git](recipes/cranberry-cake.md));cakes;fruitd
 Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/));pork;fried
 Filled doughnuts (paczki/sufganiyot) ([git](recipes/filled-doughnuts.md), binder);breakfast;fried;otherd
+Apple fritters ([git](recipes/apple-fritters.md), binder);breakfast;fried;otherd
 Key lime pie with coconut (MagGrill);fruitd;otherd;custards;pies;yolks;fast
 Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.html), cook to 255F, add baking soda);otherd
 Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder);otherd;custards;pies
@@ -495,10 +494,30 @@ Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-you
 Bagels (Reinhart, The Bread Baker's Apprentice);flour;breakfast
 Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/));otherd;bars
 Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/));rice;eggs;vegetarian;asian
-Fried chicken (Food Lab);poultry;fried;sourthern
+Fried chicken (Food Lab);poultry;fried;southern
 Taquitos;kids;poultry;pork;altgrains;mexican
-Palmiers ([Kitchn](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822));french;cookies
+Palmiers ([web](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822));french;cookies
 Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry));sauced;flour
 Meatball subs;kids;fast;sandwich
 Pork ribs (Meathead's Last Meal Ribs);pork;grill;kids
 Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/));fruitd;pies
+Croissants ([git](recipes/croissants.md));flour;french;breakfast
+Kouign Amann (binder);flour;french;breakfast
+Broccoli beer cheese soup ([git](recipes/broccoli-beer-cheese-soup.md));soups;cheese
+Hot fudge sauce ([web](https://smittenkitchen.com/2017/06/best-hot-fudge-sauce/));sauced;chocd
+Salted caramel sauce ([web](https://smittenkitchen.com/2008/10/paris-a-deep-dark-salted-butter-caramel-sauce/));sauced
+Prime rib roast (Meathead);beef;grill
+Kaiser rolls or hoagies (Reinhart, The Bread Baker's Apprentice);flour
+Vanilla oil cake ([web](https://beyondfrosting.com/moist-vanilla-cake-recipe/));cakes;otherd
+Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/));fruitd;bars
+Salsa from canned tomatoes ([web](https://smittenkitchen.com/2021/04/quick-easy-salsa/));appetizers;mexican
+Oven-dried tomatoes ([git](recipes/oven-dried-tomatoes.md));sauces;canning;italian
+Lo mein (binder, [web](https://www.recipetineats.com/lo-mein-noodles/#wprm-recipe-container-40538));asian;pasta
+Cucumber relish (binder);sauces;veggies
+Crispy fried fish sandwiches (binder);fish;sandwich;fried
+Tater tot egg bake (binder);vegetarian;eggs;potatoes
+Tomato pie (binder);vegetarian;cheese;casserole
+Gnochi a la Parisienne (binder);french;pasta;vegetarian
+Massaged kale salad (binder);salad
+Rustic raspberry (or banana) tart/galette (binder);fruitd;pies
+Sugar cookie icing (binder, [web](https://www.allrecipes.com/recipe/11587/sugar-cookie-icing/));sauced
