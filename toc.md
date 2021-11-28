@@ -122,7 +122,7 @@
 * Chicken and waffles
 * Chicken corn soup (Mom)
 * Chicken fajitas & raja con crema (binder, [web](https://www.cooksillustrated.com/recipes/7015-skillet-chicken-fajitas))
-* Chicken in sun-dried tomato cream (book)
+* Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198))
 * Chicken parmigiana
 * Chicken piccata (USL)
 * Chicken pot pie with biscuit topping (BTMR)
@@ -147,6 +147,7 @@
 * Pecan-crusted chicken fingers (binder)
 * Roast salted turkey (binder)
 * Rosemary grilled chicken thighs (binder)
+* Sous-vide poached chicken ([git](recipes/sous-vide.md))
 * Stir fry
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
 * Taco salad
@@ -173,6 +174,7 @@
 * Pulled pork nachos
 * Pulled pork sandwiches
 * Smoked pork butt BBQ (amazingribs.com)
+* Sous-vide pork butt ([git](recipes/sous-vide.md))
 * Stir fry
 * Sweet and spicy crock pot pork tacos (SCR)
 * Taquitos
@@ -217,6 +219,7 @@
 * Philly cheesesteaks (binder)
 * Prime rib roast (Meathead)
 * Short rib sloppy joes (Besh MFT)
+* Sous-vide steak ([git](recipes/sous-vide.md))
 * Sous-vide steaks (Food Lab)
 * Steaks (filet mignon, ...)
 
@@ -256,6 +259,7 @@
 * Salmon with pineapple salsa and chipotle mayo (binder)
 * Salmon with red onion marmalade (binder)
 * Salmon-spinach pot pie with mashed potato crust (binder)
+* Sous-vide whitefish ([git](recipes/sous-vide.md))
 * Stuffed sole with egg sauce (Omaha Steaks)
 * Sushi, cooked (book)
 * Sweet mustard salmon (book)
@@ -271,7 +275,7 @@
 * Shrimp paella (binder)
 * Shrimp risotto (binder)
 * Shrimp with jalepeno-apricot glaze (binder)
-* Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html))
+* Sous-vide poached shrimp ([git](recipes/sous-vide.md))
 * Wendy's marinated shrimp (book)
 
 <a name='soups-stews'></a>
@@ -427,7 +431,11 @@
 <a name='sous-vide'></a>
 ## Sous Vide ##
 
-* Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html))
+* Sous-vide poached chicken ([git](recipes/sous-vide.md))
+* Sous-vide poached shrimp ([git](recipes/sous-vide.md))
+* Sous-vide pork butt ([git](recipes/sous-vide.md))
+* Sous-vide steak ([git](recipes/sous-vide.md))
+* Sous-vide whitefish ([git](recipes/sous-vide.md))
 
 <a name='sandwiches'></a>
 ## Sandwiches ##
@@ -443,6 +451,7 @@
 * Hotdogs
 * Italian sausages
 * Meatball subs
+* NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe))
 * Philly cheesesteaks (binder)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Potato burger buns (binder)
@@ -480,7 +489,7 @@
 * "Crostini" for sandwiches (KA)
 * "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md))
 * Bagels (Reinhart, The Bread Baker's Apprentice)
-* Banana bread (USL fewer ingredients, BC better taste)
+* Banana bread, Julia's best (binder, [web](https://www.bonappetit.com/recipe/julias-best-banana-bread))
 * Battered & fried sandwiches (???)
 * Beer bread ([web](http://www.geniuskitchen.com/recipe/beer-bread-73440))
 * Biscuits (ACC)
@@ -501,6 +510,7 @@
 * Kouign Amann (binder)
 * Masa harina crepes (PV)
 * Muffins, blueberry jam (binder)
+* NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe))
 * No-knead Dutch oven bread (binder, [web](https://www.cooksillustrated.com/recipes/4028-almost-no-knead-bread))
 * No-knead sourdough bread ([web](https://www.splendidtable.org/recipes/almost-no-knead-sourdough-bread))
 * Pancakes (BC)
@@ -523,7 +533,7 @@
 ## Pasta ##
 
 * American macaroni salad (binder)
-* Chicken in sun-dried tomato cream (book)
+* Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198))
 * Chicken tetrazzini (BC)
 * Couscous with shallots and almonds (Cook's, binder)
 * Egg noodles (homemade - binder)
@@ -706,7 +716,7 @@
 
 * Apple fritters ([git](recipes/apple-fritters.md), binder)
 * Bagels (Reinhart, The Bread Baker's Apprentice)
-* Banana bread (USL fewer ingredients, BC better taste)
+* Banana bread, Julia's best (binder, [web](https://www.bonappetit.com/recipe/julias-best-banana-bread))
 * Biscuits (ACC)
 * Biscuits with sausage gravy (USL)
 * Chewy granola bars (binder, ACC)
@@ -1089,6 +1099,7 @@
 ## Dessert Sauces, Frostings, and Components ##
 
 * American buttercream frosting, "Perfect Vanilla" ([web](http://beyondfrosting.com/2014/08/11/perfect-vanilla-frosting/))
+* Browned butter bourbon buttercream ([web](https://www.southernliving.com/recipes/browned-butter-frosting))
 * Chocolate buttercream (USL)
 * Chocolate glaze ([web](http://allrecipes.com/recipe/8236/satiny-chocolate-glaze/))
 * Cream cheese mousse (binder)
@@ -1191,7 +1202,7 @@
 ## Italian ##
 
 * Cannoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
-* Chicken in sun-dried tomato cream (book)
+* Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198))
 * Chicken parmigiana
 * Chicken piccata (USL)
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
@@ -1248,5 +1259,6 @@
 * Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * Fried chicken (Food Lab)
 * King cake ([git](recipes/king-cake.md))
+* NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe))
 * Pimiento cheese (Lee Bros)
 * Pineapple stuffing ([git](recipes/pineapple-stuffing.md))

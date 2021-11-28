@@ -77,7 +77,7 @@ Rosemary grilled chicken thighs (binder);poultry;grill
 Peach-mustard chicken (book);poultry
 Barbecue chicken;poultry;grill
 Chicken Cordon Bleu (book);poultry
-Chicken in sun-dried tomato cream (book);poultry;pasta;italian
+Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198));poultry;pasta;italian
 Turkey salad with egg (ACC);poultry
 Allen's chicken salad (binder);poultry
 Asian chicken salad (Besh MFT);poultry;salad;asian
@@ -169,7 +169,7 @@ Cook's savory corn muffins (binder);altgrains
 Hushpuppies (binder);altgrains
 Muffins, blueberry jam (binder);flour;breakfast
 Doughnut muffins (binder);flour;breakfast
-Banana bread (USL fewer ingredients, BC better taste);flour;breakfast
+Banana bread, Julia's best (binder, [web](https://www.bonappetit.com/recipe/julias-best-banana-bread));flour;breakfast
 Pumpkin bread, Really Good (binder);flour;breakfast
 Chocolate-chip coffee cake (Bitler);flour;breakfast
 Cinnamon rolls ([git](recipes/beautiful-buns.md));flour;breakfast
@@ -475,7 +475,6 @@ Philly cheesesteaks (binder);beef;sandwich
 Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/));flour;fried
 Sugar cookies (binder);cookies
 Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/));vegetarian;beans;veggies
-Sous vide poached shrimp ([web](https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html));shrimpetc;sousvide
 Cranberry cake ([git](recipes/cranberry-cake.md));cakes;fruitd
 Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/));pork;fried
 Filled doughnuts (paczki/sufganiyot) ([git](recipes/filled-doughnuts.md), binder);breakfast;fried;otherd
@@ -521,3 +520,10 @@ Gnochi a la Parisienne (binder);french;pasta;vegetarian
 Massaged kale salad (binder);salad
 Rustic raspberry (or banana) tart/galette (binder);fruitd;pies
 Sugar cookie icing (binder, [web](https://www.allrecipes.com/recipe/11587/sugar-cookie-icing/));sauced
+NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe));flour;sandwich;southern
+Browned butter bourbon buttercream ([web](https://www.southernliving.com/recipes/browned-butter-frosting));sauced
+Sous-vide poached chicken ([git](recipes/sous-vide.md));sousvide;poultry
+Sous-vide pork butt ([git](recipes/sous-vide.md));sousvide;pork
+Sous-vide steak ([git](recipes/sous-vide.md));sousvide;beef
+Sous-vide poached shrimp ([git](recipes/sous-vide.md));sousvide;shrimpetc
+Sous-vide whitefish ([git](recipes/sous-vide.md));sousvide;fish
