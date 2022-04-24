@@ -334,7 +334,7 @@ Peach cream tart (binder);fruitd;pies
 Peach pie with cardamom (binder);fruitd;pies
 Chocolate-covered cherry cookies (book);chocd;cookies
 "Faux-reo" cookies, regular or mint (KA);chocd;cookies
-Ian's triple chocolate crunchy sandwich cookies (binder);chocd;cookies
+Ian's triple chocolate crunchy sandwich cookies (binder);chocd;cookies;whites
 Cherry chocolate cake, Grandma Rose’s (book);chocd;cakes
 Devil's food cake with peanut butter icing (KA);chocd;cakes
 Chocolate cake, Hershey's "Perfectly Chocolate" (Candice/internet/binder);chocd;cakes
@@ -508,7 +508,7 @@ Salted caramel sauce ([web](https://smittenkitchen.com/2008/10/paris-a-deep-dark
 Prime rib roast (Meathead);beef;grill
 Kaiser rolls or hoagies (Reinhart, The Bread Baker's Apprentice);flour
 Vanilla oil cake ([web](https://beyondfrosting.com/moist-vanilla-cake-recipe/));cakes;otherd
-Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/));fruitd;bars
+Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/));fruitd;bars;yolks
 Salsa from canned tomatoes ([web](https://smittenkitchen.com/2021/04/quick-easy-salsa/));appetizers;mexican
 Oven-dried tomatoes ([git](recipes/oven-dried-tomatoes.md));sauces;canning;italian
 Lo mein (binder, [web](https://www.recipetineats.com/lo-mein-noodles/#wprm-recipe-container-40538));asian;pasta
@@ -527,3 +527,7 @@ Sous-vide pork butt ([git](recipes/sous-vide.md));sousvide;pork
 Sous-vide steak ([git](recipes/sous-vide.md));sousvide;beef
 Sous-vide poached shrimp ([git](recipes/sous-vide.md));sousvide;shrimpetc
 Sous-vide whitefish ([git](recipes/sous-vide.md));sousvide;fish
+Farmhouse chicken and corn chowder (SCR);soups;poultry;slowcooker;potatoes
+Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/));whites;french;cookies
+Dried raspberry buttercream ([web](https://sallysbakingaddiction.com/strawberry-frosting/#tasty-recipes-69523-jump-target));sauced
+Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/));bars;chocd;

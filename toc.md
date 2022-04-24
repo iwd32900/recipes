@@ -131,6 +131,7 @@
 * Chicken with onions and mustard-cream sauce (just wine, Dijon, cream)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
 * Creamy chicken-apple crepes (book)
+* Farmhouse chicken and corn chowder (SCR)
 * Faux Chick-Fil-A sandwich (binder)
 * Fried chicken (Food Lab)
 * Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-chicken-salad-2/))
@@ -288,6 +289,7 @@
 * Chicken corn soup (Mom)
 * Chicken pot pie, Pennsylvania Dutch (ACC, [git](recipes/pot-pie.md))
 * Corn chowder, "Cafe" (binder)
+* Farmhouse chicken and corn chowder (SCR)
 * French onion soup (FoodLab)
 * Ground beef chili, Cook's Illustrated (binder)
 * Gumbo (Cook's Country)
@@ -424,6 +426,7 @@
 * Carnitas (Mexican-style pulled pork) (binder)
 * Chili, vegan ([git](recipes/chili.md))
 * Drunken (boracho) beans, slow cooker (SCR)
+* Farmhouse chicken and corn chowder (SCR)
 * Southern Living beef-and-bean chili (binder)
 * Sweet and spicy crock pot pork tacos (SCR)
 * Tomato soup ([web](http://www.365daysofcrockpot.com/2011/02/americas-test-kitchen-creamy-tomato.html), SCR)
@@ -613,6 +616,7 @@
 * Baked potato soup (SCR)
 * Baked potato soup (USL)
 * Boiled or steamed new potatoes
+* Farmhouse chicken and corn chowder (SCR)
 * French fries / tater tots (frozen)
 * Gnocchi, potato (binder)
 * Hash browns (fresh or frozen, don’t grate potatoes)
@@ -778,6 +782,7 @@
 * Jeanne's peanut butter fudge
 * Mexican chocolate cake with ganache frosting (PQ)
 * Mommy Cookies (binder)
+* Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/))
 * Peanut butter-honey tart with ganache glaze - Snickers tart (binder)
 * Pots de crème (USL, Cooks)
 * Puppy Chow
@@ -968,6 +973,7 @@
 * "Faux-reo" cookies, regular or mint (KA)
 * Chocolate-covered cherry cookies (book)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
+* Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/))
 * Macaroons (binder)
 * Molasses spice cookies (binder)
 * Mom's meringues (ACC, binder)
@@ -984,6 +990,7 @@
 * Easy chocolate peanut butter chip bars (binder)
 * Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/))
 * Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder)
+* Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/))
 * Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
 * S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Texas pecan pie bars (PQ)
@@ -1104,6 +1111,7 @@
 * Chocolate glaze ([web](http://allrecipes.com/recipe/8236/satiny-chocolate-glaze/))
 * Cream cheese mousse (binder)
 * Crystallized ginger (ACC)
+* Dried raspberry buttercream ([web](https://sallysbakingaddiction.com/strawberry-frosting/#tasty-recipes-69523-jump-target))
 * Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min)
 * Dulce de leche (slow-cooker water bath on low for 8 hours)
 * Ermine frosting / flour buttercream ([web](http://thepioneerwoman.com/cooking/devil-dogs/?printable_recipe=11406))
@@ -1134,6 +1142,7 @@
 * Key lime pie with coconut (MagGrill)
 * Mayonnaise (CW)
 * Pudding, vanilla (bean) (USL/BC)
+* Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
 * Same-day fried rice (binder)
 * Scrambled eggs (Gordon Ramsay)
 
@@ -1141,7 +1150,9 @@
 ## Uses whites ##
 
 * Ethereal buttercream frosting (binder)
+* Ian's triple chocolate crunchy sandwich cookies (binder)
 * Italian meringue / 7-minute frosting (binder, from KA website)
+* Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/))
 * Mom's meringues (ACC, binder)
 * Scrambled eggs (Gordon Ramsay)
 
@@ -1189,6 +1200,7 @@
 * Gnochi a la Parisienne (binder)
 * King cake ([git](recipes/king-cake.md))
 * Kouign Amann (binder)
+* Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/))
 * Omelet
 * Palmiers ([web](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822))
 

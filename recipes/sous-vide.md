@@ -17,6 +17,11 @@ Include aromatics in the bag if desired, but not fat (which will steal the aroma
 
 130 F for 1 - 3 hours, then sear to 137-140 F for medium.  (Food Lab)
 
+## Beef chuck roast
+
+135 F for 29 hours, then sear in butter.  Costs $5.50/lb at Costco in Dec 2021.
+([Nerd Chefs](https://www.nerdchefs.com/sous-vide-chuck-roast-recipe/))
+
 ## Shrimp
 
 <https://www.seriouseats.com/2017/01/the-food-labs-complete-guide-to-sous-vide-shrimp.html>
