@@ -305,7 +305,7 @@ Memphis dust rub (binder, amazingribs.com);sauces
 Hot sauce (ACC, binder);sauces
 Chili seasoning mix (binder);sauces
 Taco seasoning mix (binder);sauces
-Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.foodnetwork.com/recipes/paula-deen/simply-delicious-strawberry-cake-recipe-2012034));fruitd;cakes
+Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/));fruitd;cakes
 Tarte Tatin (ACC);fruitd;pies
 Banana upside down cake (MagGrill, ACC);fruitd;cakes
 Upside-down butterscotch apple sour cream cake (ACC);fruitd;cakes
@@ -527,7 +527,13 @@ Sous-vide pork butt ([git](recipes/sous-vide.md));sousvide;pork
 Sous-vide steak ([git](recipes/sous-vide.md));sousvide;beef
 Sous-vide poached shrimp ([git](recipes/sous-vide.md));sousvide;shrimpetc
 Sous-vide whitefish ([git](recipes/sous-vide.md));sousvide;fish
+Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md));sousvide;beef
 Farmhouse chicken and corn chowder (SCR);soups;poultry;slowcooker;potatoes
 Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/));whites;french;cookies
 Dried raspberry buttercream ([web](https://sallysbakingaddiction.com/strawberry-frosting/#tasty-recipes-69523-jump-target));sauced
 Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/));bars;chocd;
+Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/));flour;breakfast
+Pork tenderloin with tart cherry glaze (BTMR);pork
+Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions);sandwich;poultry;kids;fast
+Jam and oat bars ([Stella Parks](https://www.seriouseats.com/jammy-fruit-bars));fruitd;bars
+Horseradish sauce ([git](recipes/horseradish-sauce.md));sauces;beef

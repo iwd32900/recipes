@@ -77,6 +77,7 @@
 * Chili, vegan ([git](recipes/chili.md))
 * Corn dogs (binder)
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
+* Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions)
 * Faux Chick-Fil-A sandwich (binder)
 * Fish sticks
 * Hamburgers
@@ -100,6 +101,7 @@
 <a name='quick-to-prepare'></a>
 ## Quick to Prepare ##
 
+* Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions)
 * Key lime pie with coconut (MagGrill)
 * Meatball subs
 
@@ -131,6 +133,7 @@
 * Chicken with onions and mustard-cream sauce (just wine, Dijon, cream)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
 * Creamy chicken-apple crepes (book)
+* Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions)
 * Farmhouse chicken and corn chowder (SCR)
 * Faux Chick-Fil-A sandwich (binder)
 * Fried chicken (Food Lab)
@@ -172,6 +175,7 @@
 * Pork chops with port wine apple sauce (ACC)
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Pork ribs (Meathead's Last Meal Ribs)
+* Pork tenderloin with tart cherry glaze (BTMR)
 * Pulled pork nachos
 * Pulled pork sandwiches
 * Smoked pork butt BBQ (amazingribs.com)
@@ -217,9 +221,11 @@
 * Black pepper steak with red onion chutney (binder, ACC)
 * Chicken-fried steak (?)
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
+* Horseradish sauce ([git](recipes/horseradish-sauce.md))
 * Philly cheesesteaks (binder)
 * Prime rib roast (Meathead)
 * Short rib sloppy joes (Besh MFT)
+* Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md))
 * Sous-vide steak ([git](recipes/sous-vide.md))
 * Sous-vide steaks (Food Lab)
 * Steaks (filet mignon, ...)
@@ -434,6 +440,7 @@
 <a name='sous-vide'></a>
 ## Sous Vide ##
 
+* Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md))
 * Sous-vide poached chicken ([git](recipes/sous-vide.md))
 * Sous-vide poached shrimp ([git](recipes/sous-vide.md))
 * Sous-vide pork butt ([git](recipes/sous-vide.md))
@@ -448,6 +455,7 @@
 * Black bean burgers ([Pioneer Woman](http://thepioneerwoman.com/cooking/black-bean-burger/), binder)
 * Bratwurst
 * Crispy fried fish sandwiches (binder)
+* Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions)
 * Faux Chick-Fil-A sandwich (binder)
 * Gyro loaf ([FoodTV/Alton](http://www.foodnetwork.com/recipes/alton-brown/gyro-meat-with-tzatziki-sauce-recipe), binder)
 * Hamburgers
@@ -527,6 +535,7 @@
 * Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
 * Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
+* Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Sesame Italian bread (KA, ACC)
 * Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-your-own-mini-sourdough-starter-with-the-quarantinystarter-project))
 * Waffles (USL, BC)
@@ -745,6 +754,7 @@
 * Pumpkin bread, Really Good (binder)
 * Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
+* Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Scrambled eggs (Gordon Ramsay)
 * Waffles (USL, BC)
 
@@ -806,6 +816,7 @@
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Grilled peaches with brown sugar and white chocolate (binder)
 * Ice cream with mango and lime (binder)
+* Jam and oat bars ([Stella Parks](https://www.seriouseats.com/jammy-fruit-bars))
 * Key lime pie with coconut (MagGrill)
 * Mango crumble (based on KA apple crumble)
 * Mom's strawberry pie (binder, w/ white lasagna)
@@ -816,7 +827,7 @@
 * Raspberry sherbet (binder)
 * Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
 * Rustic raspberry (or banana) tart/galette (binder)
-* Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.foodnetwork.com/recipes/paula-deen/simply-delicious-strawberry-cake-recipe-2012034))
+* Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/))
 * Strawberry freeze (binder)
 * Strawberry shortcake (MagGrill)
 * Strawberry shortcake with balsamic and black pepper (binder)
@@ -935,7 +946,7 @@
 * Pineapple upside-down cake (KA)
 * Pound cake, chocolate (KA)
 * Pound cake, vanilla (KA)
-* Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.foodnetwork.com/recipes/paula-deen/simply-delicious-strawberry-cake-recipe-2012034))
+* Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/))
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
 * Upside-down butterscotch apple sour cream cake (ACC)
 * Vanilla oil cake ([web](https://beyondfrosting.com/moist-vanilla-cake-recipe/))
@@ -989,6 +1000,7 @@
 
 * Easy chocolate peanut butter chip bars (binder)
 * Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/))
+* Jam and oat bars ([Stella Parks](https://www.seriouseats.com/jammy-fruit-bars))
 * Peanut butter and jelly bars ([web](https://www.bonappetit.com/recipe/peanut-butter-and-jelly-bars), binder)
 * Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/))
 * Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
@@ -1076,6 +1088,7 @@
 * General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Gravy, turkey (ACC)
 * Hollandaise (binder - Cook's)
+* Horseradish sauce ([git](recipes/horseradish-sauce.md))
 * Hot sauce (ACC, binder)
 * Indonesian peanut glaze (binder)
 * Mayonnaise (CW)

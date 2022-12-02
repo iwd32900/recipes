@@ -2,6 +2,8 @@
 
 Include aromatics in the bag if desired, but not fat (which will steal the aromatics' flavor).
 
+[Reference on time/temp for food safety](https://douglasbaldwin.com/sous-vide.html)
+
 ## Chicken
 
 155 F for ...
