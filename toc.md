@@ -108,6 +108,7 @@
 <a name='healthy'></a>
 ## Healthy ##
 
+* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)])
 
 <a name='chicken-turkey'></a>
 ## Chicken & Turkey ##
@@ -120,11 +121,12 @@
 * Butterflied roast chicken with smoked paprika and thyme ([web](http://www.epicurious.com/recipes/food/views/roast-chicken-with-spanish-paprika-and-herb-roasted-smashed-potatoes-237033), binder)
 * Chicken Cordon Bleu (book)
 * Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder)
+* Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Chicken and vegetables en papillote (BLR)
 * Chicken and waffles
 * Chicken corn soup (Mom)
 * Chicken fajitas & raja con crema (binder, [web](https://www.cooksillustrated.com/recipes/7015-skillet-chicken-fajitas))
-* Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198))
+* Chicken in sun-dried tomato cream (book)
 * Chicken parmigiana
 * Chicken piccata (USL)
 * Chicken pot pie with biscuit topping (BTMR)
@@ -192,6 +194,7 @@
 * Biscuits with sausage gravy (USL)
 * Black bean soup with chorizo and chicken (binder)
 * Bratwurst
+* Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Corn dogs (binder)
 * Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
@@ -506,6 +509,7 @@
 * Biscuits (ACC)
 * Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/))
 * Chocolate-chip coffee cake (Bitler)
+* Ciabatta ([git](recipes/ciabatta.md))
 * Ciabatta, Cook's Illustrated (binder)
 * Cinnamon rolls ([git](recipes/beautiful-buns.md))
 * Crepes (book)
@@ -545,7 +549,7 @@
 ## Pasta ##
 
 * American macaroni salad (binder)
-* Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198))
+* Chicken in sun-dried tomato cream (book)
 * Chicken tetrazzini (BC)
 * Couscous with shallots and almonds (Cook's, binder)
 * Egg noodles (homemade - binder)
@@ -582,6 +586,7 @@
 * Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/))
 * Black rice
 * Brown rice
+* Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * Gumbo (Cook's Country)
 * Hands-free risotto (Cook's, binder)
@@ -661,6 +666,7 @@
 * Asian chicken salad (Besh MFT)
 * Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307))
 * Bitler cucumbers and onions (BCITW)
+* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)])
 * Caesar salad
 * Caesar salad dressing (Orangette, binder)
 * Coleslaw with sweet mayo (ACC)
@@ -882,6 +888,7 @@
 * S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
 * Salted caramel pot de creme (web, binder)
 * Saltwater taffy ([web](https://www.exploratorium.edu/cooking/candy/recipe-taffy.html), cook to 255F, add baking soda)
+* Shortbread ([web](https://www.kingarthurbaking.com/recipes/shortbread-recipe))
 * Texas pecan pie bars (PQ)
 * Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
@@ -991,6 +998,7 @@
 * Mommy Cookies (binder)
 * Oatmeal raisin cookies (BLR)
 * Palmiers ([web](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822))
+* Shortbread ([web](https://www.kingarthurbaking.com/recipes/shortbread-recipe))
 * Sugar cookies (binder)
 * Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Thumbprint cookies
@@ -1111,6 +1119,7 @@
 <a name='salad-dressings'></a>
 ## Salad Dressings ##
 
+* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)])
 * Caesar salad dressing (Orangette, binder)
 * Classic vinaigrette with a touch of mayo (binder)
 * Roasted garlic & buttermilk dressing (binder)
@@ -1227,9 +1236,10 @@
 ## Italian ##
 
 * Cannoli with ricotta or mascarpone cream filling (binder, [web](http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/homemade-cannoli-recipe-2042720))
-* Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198))
+* Chicken in sun-dried tomato cream (book)
 * Chicken parmigiana
 * Chicken piccata (USL)
+* Ciabatta ([git](recipes/ciabatta.md))
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Hands-free risotto (Cook's, binder)
 * Meatballs, with spaghetti (purchased)
@@ -1280,6 +1290,7 @@
 ## Southern US ##
 
 * Cheese straws (Lee Bros)
+* Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
 * Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
 * Fried chicken (Food Lab)

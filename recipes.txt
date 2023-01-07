@@ -77,7 +77,7 @@ Rosemary grilled chicken thighs (binder);poultry;grill
 Peach-mustard chicken (book);poultry
 Barbecue chicken;poultry;grill
 Chicken Cordon Bleu (book);poultry
-Chicken in sun-dried tomato cream (book, [web](https://www.epicurious.com/recipes/food/views/chicken-with-sun-dried-tomato-cream-sauce-107198));poultry;pasta;italian
+Chicken in sun-dried tomato cream (book);poultry;pasta;italian
 Turkey salad with egg (ACC);poultry
 Allen's chicken salad (binder);poultry
 Asian chicken salad (Besh MFT);poultry;salad;asian
@@ -537,3 +537,7 @@ Pork tenderloin with tart cherry glaze (BTMR);pork
 Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions);sandwich;poultry;kids;fast
 Jam and oat bars ([Stella Parks](https://www.seriouseats.com/jammy-fruit-bars));fruitd;bars
 Horseradish sauce ([git](recipes/horseradish-sauce.md));sauces;beef
+Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)]);healthy;salad;dressings
+Ciabatta ([git](recipes/ciabatta.md));flour;italian
+Shortbread ([web](https://www.kingarthurbaking.com/recipes/shortbread-recipe));cookies;otherd
+Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe));poultry;sausage;rice;southern
