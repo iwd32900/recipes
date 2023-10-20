@@ -541,3 +541,6 @@ Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)]);healthy;salad;dres
 Ciabatta ([git](recipes/ciabatta.md));flour;italian
 Shortbread ([web](https://www.kingarthurbaking.com/recipes/shortbread-recipe));cookies;otherd
 Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe));poultry;sausage;rice;southern
+Air-fryer chicken wings ([git](recipes/wings.md));appetizers;poultry
+Yellow cake (CI Desserts);yolks;cakes
+Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/));pork;flour;asian

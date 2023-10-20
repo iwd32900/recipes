@@ -113,4 +113,4 @@ Mix in:
 
 This gives a dough with ~76% hydration.
 
-Tangzhong conversion was made according to the formula on [King Arthur Flour](https://blog.kingarthurflour.com/2018/07/23/how-to-convert-a-bread-recipe-to-tangzhong/).
+Tangzhong conversion was made according to the formula on [King Arthur Flour](https://blog.kingarthurflour.com/2018/07/23/how-to-convert-a-bread-recipe-to-tangzhong).
