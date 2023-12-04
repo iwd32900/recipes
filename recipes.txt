@@ -222,7 +222,7 @@ Black rice;rice
 Saffron rice (?);rice
 Same-day fried rice (binder);rice;yolks
 Sushi rice (sushi book);rice
-Sushi rolls;rice
+Sushi rolls (binder);rice
 Hash browns (fresh or frozen, don’t grate potatoes);potatoes;breakfast
 Patatas al pobre / grill cook's medley;potatoes;breakfast
 Potato roesti (binder, Cook’s);potatoes
@@ -416,6 +416,7 @@ Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches
 Salted caramel pot de creme (web, binder);otherd;custards
 General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
 Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder);poultry;sauces;asian
+Sesame chicken (Serious Eats);poultry;sauces;asian
 Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder);poultry;french;casserole
 Caesar salad dressing (Orangette, binder);dressings;salad
 Hanger steak with cucumber salad, Jujube (Bon Appetit, binder);beef;grill;asian
@@ -453,7 +454,7 @@ Cultured butter ([web](https://www.cooksillustrated.com/recipes/9482-cultured-bu
 Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/));vegetarian;fruit;salad;appetizers;mexican
 Sous-vide steaks (Food Lab);beef
 Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html));casserole;pasta;italian
-Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567));sausage;rice;southern
+Dirty rice ([web](https://www.pauladeen.com/recipe/dirty-rice/));sausage;rice;southern
 Burritos;kids;mexican
 Ravioli toss (So Easy);vegetarian;pasta;italian
 King cake ([git](recipes/king-cake.md));french;southern;cakes
@@ -474,6 +475,7 @@ Swiss meringue buttercream ([web](https://www.seriouseats.com/recipes/2017/05/sw
 Philly cheesesteaks (binder);beef;sandwich
 Blueberry doughnuts (binder, [web](https://thebakermama.com/recipes/blueberry-donuts/));flour;fried
 Sugar cookies (binder);cookies
+Brown sugar cookies (binder);cookies
 Zucchini ribbons with pesto and white beans ([web](https://smittenkitchen.com/2018/07/grilled-zucchini-ribbons-with-pesto-and-white-beans/));vegetarian;beans;veggies
 Cranberry cake ([git](recipes/cranberry-cake.md));cakes;fruitd
 Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/));pork;fried
@@ -529,7 +531,7 @@ Sous-vide poached shrimp ([git](recipes/sous-vide.md));sousvide;shrimpetc
 Sous-vide whitefish ([git](recipes/sous-vide.md));sousvide;fish
 Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md));sousvide;beef
 Farmhouse chicken and corn chowder (SCR);soups;poultry;slowcooker;potatoes
-Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/));whites;french;cookies
+Macarons (binder - Noemie);whites;french;cookies
 Dried raspberry buttercream ([web](https://sallysbakingaddiction.com/strawberry-frosting/#tasty-recipes-69523-jump-target));sauced
 Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/));bars;chocd;
 Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/));flour;breakfast
@@ -544,3 +546,9 @@ Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chic
 Air-fryer chicken wings ([git](recipes/wings.md));appetizers;poultry
 Yellow cake (CI Desserts);yolks;cakes
 Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/));pork;flour;asian
+Cranberry curd tart with almond crust (Cook's Desserts);yolks;pies;fruitd
+Lace cookies ([web](https://sallysbakingaddiction.com/lace-cookies/));cookies
+Apricot-almond meringue cake (sub. strawberries) (CI Desserts);french;whites;cakes
+Fisherman's pie (binder);fish;casserole
+Savory oatmeal (binder);altgrains
+Banoffee pie (binder);pies

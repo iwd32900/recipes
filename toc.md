@@ -113,6 +113,7 @@
 <a name='chicken-turkey'></a>
 ## Chicken & Turkey ##
 
+* Air-fryer chicken wings ([git](recipes/wings.md))
 * Allen's chicken salad (binder)
 * Asian chicken salad (Besh MFT)
 * Barbecue chicken
@@ -153,6 +154,7 @@
 * Pecan-crusted chicken fingers (binder)
 * Roast salted turkey (binder)
 * Rosemary grilled chicken thighs (binder)
+* Sesame chicken (Serious Eats)
 * Sous-vide poached chicken ([git](recipes/sous-vide.md))
 * Stir fry
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
@@ -182,6 +184,7 @@
 * Pulled pork sandwiches
 * Smoked pork butt BBQ (amazingribs.com)
 * Sous-vide pork butt ([git](recipes/sous-vide.md))
+* Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Stir fry
 * Sweet and spicy crock pot pork tacos (SCR)
 * Taquitos
@@ -196,7 +199,7 @@
 * Bratwurst
 * Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Corn dogs (binder)
-* Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
+* Dirty rice ([web](https://www.pauladeen.com/recipe/dirty-rice/))
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Gumbo (Cook's Country)
 * Hotdogs
@@ -257,6 +260,7 @@
 * Crispy fried fish sandwiches (binder)
 * Fish sticks
 * Fish tacos (?, Flay)
+* Fisherman's pie (binder)
 * French Caribbean creole sauce for whitefish (binder, [web](http://caribbeanpot.com/french-caribbean-creole-sauce-for-fish-and-grilled-meats/))
 * Lime and honey glazed salmon (binder)
 * Orange-soy sauce salmon (5/15)
@@ -418,6 +422,7 @@
 * Chicken tetrazzini (BC)
 * Chicken-bacon pot pie ([web](http://www.myrecipes.com/recipe/chicken-bacon-pot-pie), binder)
 * Enchilada casserole ([web](https://www.tasteofhome.com/recipes/enchilada-casserole/))
+* Fisherman's pie (binder)
 * French toast bake ([web](https://dinnerthendessert.com/easy-french-toast-bake/))
 * Green chile chicken enchildadas (binder)
 * Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
@@ -542,6 +547,7 @@
 * Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Sesame Italian bread (KA, ACC)
 * Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-your-own-mini-sourdough-starter-with-the-quarantinystarter-project))
+* Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Waffles (USL, BC)
 * Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/))
 
@@ -587,7 +593,7 @@
 * Black rice
 * Brown rice
 * Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
-* Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
+* Dirty rice ([web](https://www.pauladeen.com/recipe/dirty-rice/))
 * Gumbo (Cook's Country)
 * Hands-free risotto (Cook's, binder)
 * Jambalaya / dirty rice (Zatarain's)
@@ -600,7 +606,7 @@
 * Shrimp risotto (binder)
 * Southern "red" rice (Lee Bros)
 * Sushi rice (sushi book)
-* Sushi rolls
+* Sushi rolls (binder)
 * Sushi, cooked (book)
 * White rice
 
@@ -618,6 +624,7 @@
 * Quinoa
 * Quinoa pilaf (binder)
 * Sausage and pepper casserole with grits (Emeril)
+* Savory oatmeal (binder)
 * Shrimp and grits (binder, ACC)
 * Sour cream cornbread (CW)
 * Taquitos
@@ -818,6 +825,7 @@
 * Blueberry-blackberry pie (MagGrill)
 * Cranberry Nantucket (Liz & Bob, binder)
 * Cranberry cake ([git](recipes/cranberry-cake.md))
+* Cranberry curd tart with almond crust (Cook's Desserts)
 * Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Grilled peaches with brown sugar and white chocolate (binder)
@@ -929,6 +937,7 @@
 <a name='cakes'></a>
 ## Cakes ##
 
+* Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
 * Banana upside down cake (MagGrill, ACC)
 * Basic yellow cake (KA)
 * Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA)
@@ -958,6 +967,7 @@
 * Upside-down butterscotch apple sour cream cake (ACC)
 * Vanilla oil cake ([web](https://beyondfrosting.com/moist-vanilla-cake-recipe/))
 * White cake with Jack Daniels buttercream (PQ)
+* Yellow cake (CI Desserts)
 
 <a name='pies'></a>
 ## Pies ##
@@ -966,6 +976,7 @@
 * 1-crust stirred fruit pies e.g. frutas del bosque (KA)
 * 2-crust baked fruit pies e.g. strawberry-rhubarb (KA)
 * Apple-cheddar hand pies (binder)
+* Banoffee pie (binder)
 * Blueberry-blackberry pie (MagGrill)
 * Buttermilk vanilla bean pie (MagGrill)
 * Caramel pie, Grandma Rose’s (book)
@@ -973,6 +984,7 @@
 * Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder)
 * Chocolate truffle tart (ACC)
 * Cranberry Nantucket (Liz & Bob, binder)
+* Cranberry curd tart with almond crust (Cook's Desserts)
 * Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
 * Key lime pie with coconut (MagGrill)
@@ -989,9 +1001,11 @@
 ## Cookies ##
 
 * "Faux-reo" cookies, regular or mint (KA)
+* Brown sugar cookies (binder)
 * Chocolate-covered cherry cookies (book)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
-* Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/))
+* Lace cookies ([web](https://sallysbakingaddiction.com/lace-cookies/))
+* Macarons (binder - Noemie)
 * Macaroons (binder)
 * Molasses spice cookies (binder)
 * Mom's meringues (ACC, binder)
@@ -1023,6 +1037,7 @@
 <a name='appetizers'></a>
 ## Appetizers ##
 
+* Air-fryer chicken wings ([git](recipes/wings.md))
 * Bacon bites
 * Cheese log, Bitler
 * Cheese straws (Lee Bros)
@@ -1109,6 +1124,7 @@
 * Port wine apple sauce (ACC)
 * Remoulade (binder)
 * SC barbecue sauce (binder, amazingribs.com)
+* Sesame chicken (Serious Eats)
 * Taco seasoning mix (binder)
 * Three-herb chimichurri (binder)
 * Three-ingredient summertime salsa (Smitten Kitchen, binder)
@@ -1160,6 +1176,7 @@
 ## Uses yolks ##
 
 * Béarnaise (CW)
+* Cranberry curd tart with almond crust (Cook's Desserts)
 * Hollandaise (binder - Cook's)
 * Key lime pie with coconut (MagGrill)
 * Mayonnaise (CW)
@@ -1167,14 +1184,16 @@
 * Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
 * Same-day fried rice (binder)
 * Scrambled eggs (Gordon Ramsay)
+* Yellow cake (CI Desserts)
 
 <a name='uses-whites'></a>
 ## Uses whites ##
 
+* Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
 * Ethereal buttercream frosting (binder)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
 * Italian meringue / 7-minute frosting (binder, from KA website)
-* Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/))
+* Macarons (binder - Noemie)
 * Mom's meringues (ACC, binder)
 * Scrambled eggs (Gordon Ramsay)
 
@@ -1200,6 +1219,8 @@
 * Orange chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Poke, faux ([git](recipes/faux-poke.md))
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
+* Sesame chicken (Serious Eats)
+* Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Stir fry
 * Sushi, cooked (book)
 * Sweet and sour chicken (binder, [web](https://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/))
@@ -1211,6 +1232,7 @@
 <a name='french'></a>
 ## French ##
 
+* Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
 * Cheese soufflé (binder)
 * Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder)
 * Chicken with onions and mustard-cream sauce (just wine, Dijon, cream)
@@ -1222,7 +1244,7 @@
 * Gnochi a la Parisienne (binder)
 * King cake ([git](recipes/king-cake.md))
 * Kouign Amann (binder)
-* Macarons ([Broma](https://bromabakery.com/foolproof-macaron-recipe-step-by-step/))
+* Macarons (binder - Noemie)
 * Omelet
 * Palmiers ([web](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822))
 
@@ -1292,7 +1314,7 @@
 * Cheese straws (Lee Bros)
 * Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
-* Dirty rice ([web](https://www.foodnetwork.com/recipes/paula-deen/dirty-rice-recipe-1946567))
+* Dirty rice ([web](https://www.pauladeen.com/recipe/dirty-rice/))
 * Fried chicken (Food Lab)
 * King cake ([git](recipes/king-cake.md))
 * NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe))
