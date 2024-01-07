@@ -35,7 +35,7 @@ Let rise 2-3 hours at room temperatures.
 Either bake immediately, or hold up to 24 hours in the fridge.
 (After 48 hours in the fridge, the dough looked wrinkled.)
 
-- egg wash (1 large egg beaten with a teaspoon or two of water)
+- egg wash (1 large egg beaten with a pinch of salt)
 
 Brush risen rolls with egg wash.
 Bake 15-20 minutes at convection 350 F (or conventional 375 in a pinch).

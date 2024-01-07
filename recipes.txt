@@ -316,6 +316,7 @@ Raspberry sherbet (binder);fruitd;icecream
 Strawberry freeze (binder);fruitd;icecream
 Pomegranate panna cotta (binder);fruitd;custards
 Apple-cheddar hand pies (binder);fruitd;pies
+Cherry/peach/pineapple hand pies (binder);fruitd;pies
 Thumbprint cookies;fruitd;cookies
 Ice cream with mango and lime (binder);fruitd;icecream
 Grilled peaches with brown sugar and white chocolate (binder);fruitd
@@ -552,3 +553,4 @@ Apricot-almond meringue cake (sub. strawberries) (CI Desserts);french;whites;cak
 Fisherman's pie (binder);fish;casserole
 Savory oatmeal (binder);altgrains
 Banoffee pie (binder);pies
+Fresh fruit tart (binder);pies;fruitd

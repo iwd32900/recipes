@@ -52,20 +52,24 @@ Traditional accompaniments are cole slaw and dill pickles.
 Ian's first test
 
 * One whole chicken, cut up (5 lbs;  2 each bone-in breasts, thighs, legs, wings)
-* 1 t salt
+* 2 t salt
+* 1/4 tsp MSG
+* 1/2 tsp whole black peppercorns
 * 3 qts water
 * 1 T vinegar
 
+Dry chicken pieces and brown them over high heat (optional).
 Cook in slow cooker on high until breasts reach 165 F inside, about 2.5 hours.
-Remove breasts and let cool enough to handle, about 30 minutes.
-De-bone breasts and cut meat into bite-sized pieces.
+Remove breasts and thighs/legs and let cool enough to handle, about 30 minutes.
+De-bone and cut meat into bite-sized pieces.
+Reserve meat to add after all noodles.
 Return the bones and scraps to the slow cooker for additional flavor.
 
 ...
 
 To make the dough, combine
 
-* 19 oz all-purpose flour, such as King Arthur
+* 19 oz all-purpose flour
 * 1 stick (4 oz) cold butter, cut in thin slices
 * 1 tsp salt
 
@@ -73,4 +77,9 @@ Crumble the butter into the flour with your fingers until the butter is in pea-s
 With a fork, mix in
 
 * 2 eggs, beaten
-* 5 oz water (by weight)
+* about 5 oz water, to make 8 oz by weight
+
+Working with 1/8 of the dough at a time, roll out using a pasta roller machine.
+The thinnest setting (#6) produces a very delicate noodle, while #5 produces a more rustic noodle.
+
+It will need another 1-2 cups of water once most of the noodles have been added.
