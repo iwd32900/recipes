@@ -174,7 +174,6 @@ Pumpkin bread, Really Good (binder);flour;breakfast
 Chocolate-chip coffee cake (Bitler);flour;breakfast
 Cinnamon rolls ([git](recipes/beautiful-buns.md));flour;breakfast
 Scones, cheddar and bacon (PQ);flour;breakfast
-Scones, British (binder);flour;breakfast
 Kolaches ([git](recipes/beautiful-buns.md));flour;breakfast
 "Moomie's" Beautiful Burger Buns (KA, [git](recipes/beautiful-buns.md));flour;sandwich
 Potato burger buns (binder);flour;sandwich
@@ -461,7 +460,7 @@ Ravioli toss (So Easy);vegetarian;pasta;italian
 King cake ([git](recipes/king-cake.md));french;southern;cakes
 Pineapple stuffing ([git](recipes/pineapple-stuffing.md));flour;southern
 Mojitos ([web](https://www.allrecipes.com/recipe/147363/the-real-mojito/));drinks
-Ermine frosting / flour buttercream ([web](http://thepioneerwoman.com/cooking/devil-dogs/?printable_recipe=11406));sauced
+Ermine frosting / flour buttercream ([web](https://www.sugarologie.com/recipes/ermine-frosting#recipes));sauced
 Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake));southern;cakes
 Gelato, master recipe ([git](recipes/gelato.md));icecream
 Chocolate-dipped peanut butter cupcakes ([web](https://www.seriouseats.com/recipes/2011/11/chocolate-peanut-butter-cupcakes-buttercream-recipe.html));chocd;cakes
@@ -554,3 +553,10 @@ Fisherman's pie (binder);fish;casserole
 Savory oatmeal (binder);altgrains
 Banoffee pie (binder);pies
 Fresh fruit tart (binder);pies;fruitd
+Vegan salted chocolate chip cookie (Ovenly);chocd;cookies
+Banana pudding;fruitd;custards;southern
+Shokupan - Japanese milk bread (binder);flour;asian
+Barbequed drumsticks/bone-in thighs (SCR);poultry;slowcooker
+Creamy cajun pasta, dairy free ([web](https://www.hummusapien.com/creamy-cajun-pasta/));pasta;vegetarian
+French strawberry cake ([web](https://www.foodtasticmom.com/french-strawberry-cake/));cakes;fruitd
+Viennese whirls ([web](https://thegreatbritishbakeoff.co.uk/recipes/all/mary-berry-viennese-whirls/));cookies

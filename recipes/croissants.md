@@ -7,11 +7,11 @@
 Roll out dough to the width of a stick of butter, and twice the length.
 Cover and let rest to activate the yeast.
 
-- 10 T unsalted butter (1.25 sticks)
+- 8 T unsalted butter (1 sticks)
 
 Cut one stick lengthwise into four planks.
-Shingle the cracks with slices from the remaining 2 T.
-Wrap in parchment, roll into a solid square, and refrigerate.
+Wrap in parchment and microwave 15 seconds to soften.
+Roll into a solid square, and refrigerate.
 
 Place butter in the center of the dough.
 Pull the sides up and join in the center to enclose the butter block.

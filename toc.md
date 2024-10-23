@@ -117,6 +117,7 @@
 * Allen's chicken salad (binder)
 * Asian chicken salad (Besh MFT)
 * Barbecue chicken
+* Barbequed drumsticks/bone-in thighs (SCR)
 * Black bean soup with chorizo and chicken (binder)
 * Buffalo quinoa bites (binder)
 * Butterflied roast chicken with smoked paprika and thyme ([web](http://www.epicurious.com/recipes/food/views/roast-chicken-with-spanish-paprika-and-herb-roasted-smashed-potatoes-237033), binder)
@@ -323,6 +324,7 @@
 * Cheese soufflé (binder)
 * Chili, vegan ([git](recipes/chili.md))
 * Corn, sweet onion, and thyme quesadillas (Flay)
+* Creamy cajun pasta, dairy free ([web](https://www.hummusapien.com/creamy-cajun-pasta/))
 * Eggs over medium
 * Fried avocado tacos ([web](http://www.bonappetit.com/recipe/fried-avocado-tacos), binder)
 * Gnochi a la Parisienne (binder)
@@ -437,6 +439,7 @@
 ## Slow Cooker ##
 
 * Baked potato soup (SCR)
+* Barbequed drumsticks/bone-in thighs (SCR)
 * Carnitas (Mexican-style pulled pork) (binder)
 * Chili, vegan ([git](recipes/chili.md))
 * Drunken (boracho) beans, slow cooker (SCR)
@@ -542,10 +545,10 @@
 * Refrigerator flatbread (Flay, ACC)
 * Roti -- great for wraps, etc. (KA)
 * Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
-* Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
 * Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Sesame Italian bread (KA, ACC)
+* Shokupan - Japanese milk bread (binder)
 * Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-your-own-mini-sourdough-starter-with-the-quarantinystarter-project))
 * Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Waffles (USL, BC)
@@ -558,6 +561,7 @@
 * Chicken in sun-dried tomato cream (book)
 * Chicken tetrazzini (BC)
 * Couscous with shallots and almonds (Cook's, binder)
+* Creamy cajun pasta, dairy free ([web](https://www.hummusapien.com/creamy-cajun-pasta/))
 * Egg noodles (homemade - binder)
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried)
@@ -765,7 +769,6 @@
 * Pancakes (BC)
 * Patatas al pobre / grill cook's medley
 * Pumpkin bread, Really Good (binder)
-* Scones, British (binder)
 * Scones, cheddar and bacon (PQ)
 * Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Scrambled eggs (Gordon Ramsay)
@@ -810,6 +813,7 @@
 * Pots de crème (USL, Cooks)
 * Puppy Chow
 * Triple-chocolate mousse cake
+* Vegan salted chocolate chip cookie (Ovenly)
 
 <a name='fruit-desserts'></a>
 ## Fruit Desserts ##
@@ -820,13 +824,17 @@
 * Apple Brown Betty (binder)
 * Apple-cheddar hand pies (binder)
 * Apricot-walnut crisp (binder)
+* Banana pudding
 * Banana upside down cake (MagGrill, ACC)
 * Bananas Foster (binder)
 * Blueberry-blackberry pie (MagGrill)
+* Cherry/peach/pineapple hand pies (binder)
 * Cranberry Nantucket (Liz & Bob, binder)
 * Cranberry cake ([git](recipes/cranberry-cake.md))
 * Cranberry curd tart with almond crust (Cook's Desserts)
 * Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
+* French strawberry cake ([web](https://www.foodtasticmom.com/french-strawberry-cake/))
+* Fresh fruit tart (binder)
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
 * Grilled peaches with brown sugar and white chocolate (binder)
 * Ice cream with mango and lime (binder)
@@ -906,6 +914,7 @@
 <a name='custards-and-puddings'></a>
 ## Custards and Puddings ##
 
+* Banana pudding
 * Bittersweet chocolate pudding (BLR)
 * Buttermilk panna cotta (MagGrill)
 * Butterscotch pudding (binder)
@@ -954,6 +963,7 @@
 * Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
 * Cranberry cake ([git](recipes/cranberry-cake.md))
 * Devil's food cake with peanut butter icing (KA)
+* French strawberry cake ([web](https://www.foodtasticmom.com/french-strawberry-cake/))
 * Jeanne's molten chocolate cakes (binder)
 * Jellyroll cake (KA)
 * King cake ([git](recipes/king-cake.md))
@@ -980,6 +990,7 @@
 * Blueberry-blackberry pie (MagGrill)
 * Buttermilk vanilla bean pie (MagGrill)
 * Caramel pie, Grandma Rose’s (book)
+* Cherry/peach/pineapple hand pies (binder)
 * Chocolate pecan pie (binder, ACC)
 * Chocolate pudding pie, Jean Greene ([git](recipes/chocolate-pudding-pie.md), binder)
 * Chocolate truffle tart (ACC)
@@ -987,6 +998,7 @@
 * Cranberry curd tart with almond crust (Cook's Desserts)
 * Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
+* Fresh fruit tart (binder)
 * Key lime pie with coconut (MagGrill)
 * Mom's strawberry pie (binder, w/ white lasagna)
 * Peach cream tart (binder)
@@ -1016,6 +1028,8 @@
 * Sugar cookies (binder)
 * Thin and crispy oatmeal cookies, salted (binder, [web](https://www.cooksillustrated.com/recipes/4036-salty-thin-and-crispy-oatmeal-cookies))
 * Thumbprint cookies
+* Vegan salted chocolate chip cookie (Ovenly)
+* Viennese whirls ([web](https://thegreatbritishbakeoff.co.uk/recipes/all/mary-berry-viennese-whirls/))
 
 <a name='bars'></a>
 ## Bars ##
@@ -1152,7 +1166,7 @@
 * Dried raspberry buttercream ([web](https://sallysbakingaddiction.com/strawberry-frosting/#tasty-recipes-69523-jump-target))
 * Dulce de leche (simmer unopened can sweetened condensed milk in water bath for 90 min)
 * Dulce de leche (slow-cooker water bath on low for 8 hours)
-* Ermine frosting / flour buttercream ([web](http://thepioneerwoman.com/cooking/devil-dogs/?printable_recipe=11406))
+* Ermine frosting / flour buttercream ([web](https://www.sugarologie.com/recipes/ermine-frosting#recipes))
 * Ethereal buttercream frosting (binder)
 * Food processor pie crust (MagGrill, ACC)
 * Ganache frosting (PQ)
@@ -1220,6 +1234,7 @@
 * Poke, faux ([git](recipes/faux-poke.md))
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Sesame chicken (Serious Eats)
+* Shokupan - Japanese milk bread (binder)
 * Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Stir fry
 * Sushi, cooked (book)
@@ -1311,6 +1326,7 @@
 <a name='southern-us'></a>
 ## Southern US ##
 
+* Banana pudding
 * Cheese straws (Lee Bros)
 * Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Coconut pecan cake ([NYT](https://cooking.nytimes.com/recipes/1019330-coconut-pecan-cake))
