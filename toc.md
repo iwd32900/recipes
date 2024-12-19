@@ -108,7 +108,7 @@
 <a name='healthy'></a>
 ## Healthy ##
 
-* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)])
+* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md))
 
 <a name='chicken-turkey'></a>
 ## Chicken & Turkey ##
@@ -427,6 +427,7 @@
 * Fisherman's pie (binder)
 * French toast bake ([web](https://dinnerthendessert.com/easy-french-toast-bake/))
 * Green chile chicken enchildadas (binder)
+* Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/))
 * Penne Rustica ([web](https://topsecretrecipes.com/romanos-macaroni-grill-penne-rustica-copycat-recipe.html))
 * Potato casserole with bacon and caramelized onion (binder)
 * Potato-sausage Christmas casserole (book)
@@ -527,6 +528,7 @@
 * Doughnut muffins (binder)
 * Flour tortillas ([web](https://www.delish.com/cooking/recipe-ideas/a27133027/homemade-flour-tortillas-recipe/))
 * French toast, from croissants (ACC)
+* Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/))
 * KA 36-hour ciabatta (KA, ACC, flat for sandwiches)
 * Kaiser rolls or hoagies (Reinhart, The Bread Baker's Apprentice)
 * Kolaches ([git](recipes/beautiful-buns.md))
@@ -677,10 +679,10 @@
 * Asian chicken salad (Besh MFT)
 * Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307))
 * Bitler cucumbers and onions (BCITW)
-* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)])
+* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md))
 * Caesar salad
 * Caesar salad dressing (Orangette, binder)
-* Coleslaw with sweet mayo (ACC)
+* Coleslaw with sweet mayo (ACC, [git](recipes/coleslaw.md))
 * Coleslaw with vinaigrette (spicy, USL)
 * Fuji apple and chicken salad ([web](http://www.gimmesomeoven.com/favorite-apple-chicken-salad-2/))
 * Green apple slaw
@@ -999,6 +1001,7 @@
 * Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
 * Fresh fruit tart (binder)
+* Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/))
 * Key lime pie with coconut (MagGrill)
 * Mom's strawberry pie (binder, w/ white lasagna)
 * Peach cream tart (binder)
@@ -1017,7 +1020,7 @@
 * Chocolate-covered cherry cookies (book)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
 * Lace cookies ([web](https://sallysbakingaddiction.com/lace-cookies/))
-* Macarons (binder - Noemie)
+* Macarons (binder - Noemie, [git](recipes/macarons.md))
 * Macaroons (binder)
 * Molasses spice cookies (binder)
 * Mom's meringues (ACC, binder)
@@ -1149,7 +1152,7 @@
 <a name='salad-dressings'></a>
 ## Salad Dressings ##
 
-* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)])
+* Buttermilk ranch dressing ([git](recipes/ranch-dressing.md))
 * Caesar salad dressing (Orangette, binder)
 * Classic vinaigrette with a touch of mayo (binder)
 * Roasted garlic & buttermilk dressing (binder)
@@ -1183,6 +1186,7 @@
 * Strawberries in red wine and balsamic syrup (ACC)
 * Sugar cookie icing (binder, [web](https://www.allrecipes.com/recipe/11587/sugar-cookie-icing/))
 * Swiss meringue buttercream ([web](https://www.seriouseats.com/recipes/2017/05/swiss-meringue-buttercream-frosting-recipe.html))
+* Thick and fruity whipped cream ([web](https://www.seriouseats.com/super-thick-fruity-whipped-cream-recipe))
 * Whipped cream, gelatin-stabilized (binder)
 * Wild huckleberry (blueberry) sauce (ACC)
 
@@ -1207,7 +1211,7 @@
 * Ethereal buttercream frosting (binder)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
 * Italian meringue / 7-minute frosting (binder, from KA website)
-* Macarons (binder - Noemie)
+* Macarons (binder - Noemie, [git](recipes/macarons.md))
 * Mom's meringues (ACC, binder)
 * Scrambled eggs (Gordon Ramsay)
 
@@ -1259,7 +1263,7 @@
 * Gnochi a la Parisienne (binder)
 * King cake ([git](recipes/king-cake.md))
 * Kouign Amann (binder)
-* Macarons (binder - Noemie)
+* Macarons (binder - Noemie, [git](recipes/macarons.md))
 * Omelet
 * Palmiers ([web](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822))
 

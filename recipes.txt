@@ -272,7 +272,7 @@ Sauteed kale with garlic and capers (binder);veggies
 Bitler cucumbers and onions (BCITW);veggies;salad
 Bread & butter pickles, Coggins' recipe (binder);veggies;canning
 Coleslaw with vinaigrette (spicy, USL);salad
-Coleslaw with sweet mayo (ACC);salad
+Coleslaw with sweet mayo (ACC, [git](recipes/coleslaw.md));salad
 Wendy's "zesty salad" with crumbled Ramen (book);salad
 Green apple slaw;salad
 Port wine apple sauce (ACC);fruit
@@ -531,7 +531,7 @@ Sous-vide poached shrimp ([git](recipes/sous-vide.md));sousvide;shrimpetc
 Sous-vide whitefish ([git](recipes/sous-vide.md));sousvide;fish
 Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md));sousvide;beef
 Farmhouse chicken and corn chowder (SCR);soups;poultry;slowcooker;potatoes
-Macarons (binder - Noemie);whites;french;cookies
+Macarons (binder - Noemie, [git](recipes/macarons.md));whites;french;cookies
 Dried raspberry buttercream ([web](https://sallysbakingaddiction.com/strawberry-frosting/#tasty-recipes-69523-jump-target));sauced
 Peanut butter chocolate chip bars ([web](https://www.shugarysweets.com/peanut-butter-chocolate-chip-bars/));bars;chocd;
 Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/));flour;breakfast
@@ -539,7 +539,7 @@ Pork tenderloin with tart cherry glaze (BTMR);pork
 Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions);sandwich;poultry;kids;fast
 Jam and oat bars ([Stella Parks](https://www.seriouseats.com/jammy-fruit-bars));fruitd;bars
 Horseradish sauce ([git](recipes/horseradish-sauce.md));sauces;beef
-Buttermilk ranch dressing ([git](recipes/ranch-dressing.md)]);healthy;salad;dressings
+Buttermilk ranch dressing ([git](recipes/ranch-dressing.md));healthy;salad;dressings
 Ciabatta ([git](recipes/ciabatta.md));flour;italian
 Shortbread ([web](https://www.kingarthurbaking.com/recipes/shortbread-recipe));cookies;otherd
 Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe));poultry;sausage;rice;southern
@@ -560,3 +560,5 @@ Barbequed drumsticks/bone-in thighs (SCR);poultry;slowcooker
 Creamy cajun pasta, dairy free ([web](https://www.hummusapien.com/creamy-cajun-pasta/));pasta;vegetarian
 French strawberry cake ([web](https://www.foodtasticmom.com/french-strawberry-cake/));cakes;fruitd
 Viennese whirls ([web](https://thegreatbritishbakeoff.co.uk/recipes/all/mary-berry-viennese-whirls/));cookies
+Thick and fruity whipped cream ([web](https://www.seriouseats.com/super-thick-fruity-whipped-cream-recipe));sauced
+Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/));pies;flour;casserole
