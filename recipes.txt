@@ -156,7 +156,7 @@ Shrimp paella (binder);shrimpetc;rice
 Fake-crab cakes with chipotle aioli (CT);shrimpetc
 Crepes (book);flour
 Masa harina crepes (PV);flour
-Roti -- great for wraps, etc. (KA);flour;indian
+Wrap bread / roti / pita (KA, [git](recipes/wrap-bread.md));flour;indian
 Flour tortillas ([web](https://www.delish.com/cooking/recipe-ideas/a27133027/homemade-flour-tortillas-recipe/));flour;mexican
 Waffles (USL, BC);flour;breakfast
 French toast, from croissants (ACC);flour;breakfast
@@ -388,7 +388,7 @@ Peanut butter pie (binder);otherd;pies
 Texas pecan pie bars (PQ);otherd;bars
 Chiffon cake (KA);otherd;cakes
 Jellyroll cake (KA);otherd;cakes
-Pound cake, vanilla (KA);otherd;cakes
+Pound cake, vanilla (binder, [web](https://sallysbakingaddiction.com/cream-cheese-pound-cake/));otherd;cakes
 Pound cake, chocolate (KA);otherd;cakes
 Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA);otherd;cakes
 White cake with Jack Daniels buttercream (PQ);otherd;cakes
@@ -562,3 +562,4 @@ French strawberry cake ([web](https://www.foodtasticmom.com/french-strawberry-ca
 Viennese whirls ([web](https://thegreatbritishbakeoff.co.uk/recipes/all/mary-berry-viennese-whirls/));cookies
 Thick and fruity whipped cream ([web](https://www.seriouseats.com/super-thick-fruity-whipped-cream-recipe));sauced
 Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/));pies;flour;casserole
+Moravian sugar cake (binder, [web](https://www.southernliving.com/moravian-sugar-cake-8346831));breakfast;southern;flour

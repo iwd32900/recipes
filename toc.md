@@ -534,6 +534,7 @@
 * Kolaches ([git](recipes/beautiful-buns.md))
 * Kouign Amann (binder)
 * Masa harina crepes (PV)
+* Moravian sugar cake (binder, [web](https://www.southernliving.com/moravian-sugar-cake-8346831))
 * Muffins, blueberry jam (binder)
 * NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe))
 * No-knead Dutch oven bread (binder, [web](https://www.cooksillustrated.com/recipes/4028-almost-no-knead-bread))
@@ -545,7 +546,6 @@
 * Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe))
 * Pumpkin bread, Really Good (binder)
 * Refrigerator flatbread (Flay, ACC)
-* Roti -- great for wraps, etc. (KA)
 * Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
 * Scones, cheddar and bacon (PQ)
 * Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
@@ -555,6 +555,7 @@
 * Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Waffles (USL, BC)
 * Wonton wrappers for rangoons, egg rolls, pot stickers ([web](https://www.allrecipes.com/recipe/20881/wonton-wrappers/))
+* Wrap bread / roti / pita (KA, [git](recipes/wrap-bread.md))
 
 <a name='pasta'></a>
 ## Pasta ##
@@ -766,6 +767,7 @@
 * Home fries (binder)
 * Kolaches ([git](recipes/beautiful-buns.md))
 * Kouign Amann (binder)
+* Moravian sugar cake (binder, [web](https://www.southernliving.com/moravian-sugar-cake-8346831))
 * Muffins, blueberry jam (binder)
 * Omelet
 * Pancakes (BC)
@@ -900,7 +902,7 @@
 * Peanut butter pie (binder)
 * Pink lemonade pie (BC?)
 * Pound cake, chocolate (KA)
-* Pound cake, vanilla (KA)
+* Pound cake, vanilla (binder, [web](https://sallysbakingaddiction.com/cream-cheese-pound-cake/))
 * Pudding, vanilla (bean) (USL/BC)
 * Rice pudding (plain or chocolate orange, binder, ACC)
 * S'mores cookie bars ([web](http://lovintheoven.com/day-11-smores-cookie-bars))
@@ -973,7 +975,7 @@
 * Olive oil cake (binder)
 * Pineapple upside-down cake (KA)
 * Pound cake, chocolate (KA)
-* Pound cake, vanilla (KA)
+* Pound cake, vanilla (binder, [web](https://sallysbakingaddiction.com/cream-cheese-pound-cake/))
 * Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/))
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
 * Upside-down butterscotch apple sour cream cake (ACC)
@@ -1271,7 +1273,7 @@
 ## Indian ##
 
 * Indian Butter Chicken (Murgh Makhani) ([Cooks](https://www.cooksillustrated.com/recipes/11519-indian-butter-chicken-murgh-makhani))
-* Roti -- great for wraps, etc. (KA)
+* Wrap bread / roti / pita (KA, [git](recipes/wrap-bread.md))
 
 <a name='italian'></a>
 ## Italian ##
@@ -1337,6 +1339,7 @@
 * Dirty rice ([web](https://www.pauladeen.com/recipe/dirty-rice/))
 * Fried chicken (Food Lab)
 * King cake ([git](recipes/king-cake.md))
+* Moravian sugar cake (binder, [web](https://www.southernliving.com/moravian-sugar-cake-8346831))
 * NOLA-style French bread for po' boys ([web](https://www.kingarthurbaking.com/recipes/nola-style-french-bread-rolls-recipe))
 * Pimiento cheese (Lee Bros)
 * Pineapple stuffing ([git](recipes/pineapple-stuffing.md))
