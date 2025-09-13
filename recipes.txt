@@ -131,6 +131,7 @@ Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatb
 Biscuits with sausage gravy (USL);sausage;breakfast
 Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book);sausage;pasta;italian
 Lettuce wraps (binder);groundbeef;salad;asian
+Steak lettuce wraps with peanut sauce (binder, Pioneer Woman);beef;salad;asian
 Sweet mustard salmon (book);fish
 Pineapple salmon (book);fish
 Orange-soy sauce salmon (5/15);fish
@@ -563,3 +564,6 @@ Viennese whirls ([web](https://thegreatbritishbakeoff.co.uk/recipes/all/mary-ber
 Thick and fruity whipped cream ([web](https://www.seriouseats.com/super-thick-fruity-whipped-cream-recipe));sauced
 Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/));pies;flour;casserole
 Moravian sugar cake (binder, [web](https://www.southernliving.com/moravian-sugar-cake-8346831));breakfast;southern;flour
+Crispy pan-fried shelf-stable gnochi (binder);fast;pasta
+Eton Mess (binder);fruitd;whites
+Liege waffles (binder);otherd

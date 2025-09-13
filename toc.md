@@ -101,6 +101,7 @@
 <a name='quick-to-prepare'></a>
 ## Quick to Prepare ##
 
+* Crispy pan-fried shelf-stable gnochi (binder)
 * Evan's sandwich (sous-vide chicken breast, cheddar, BBQ sauce, crispy onions)
 * Key lime pie with coconut (MagGrill)
 * Meatball subs
@@ -235,6 +236,7 @@
 * Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md))
 * Sous-vide steak ([git](recipes/sous-vide.md))
 * Sous-vide steaks (Food Lab)
+* Steak lettuce wraps with peanut sauce (binder, Pioneer Woman)
 * Steaks (filet mignon, ...)
 
 <a name='ground-beef'></a>
@@ -565,6 +567,7 @@
 * Chicken tetrazzini (BC)
 * Couscous with shallots and almonds (Cook's, binder)
 * Creamy cajun pasta, dairy free ([web](https://www.hummusapien.com/creamy-cajun-pasta/))
+* Crispy pan-fried shelf-stable gnochi (binder)
 * Egg noodles (homemade - binder)
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried)
@@ -694,6 +697,7 @@
 * Massaged kale salad (binder)
 * Mexican street corn salad ([web](https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/))
 * Spinach salad
+* Steak lettuce wraps with peanut sauce (binder, Pioneer Woman)
 * Vegan avocado and citrus "ceviche" ([web](https://cookieandkate.com/2018/vegan-citrus-ceviche-recipe/))
 * Wendy's "zesty salad" with crumbled Ramen (book)
 
@@ -837,6 +841,7 @@
 * Cranberry cake ([git](recipes/cranberry-cake.md))
 * Cranberry curd tart with almond crust (Cook's Desserts)
 * Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/))
+* Eton Mess (binder)
 * French strawberry cake ([web](https://www.foodtasticmom.com/french-strawberry-cake/))
 * Fresh fruit tart (binder)
 * Fritters, pineapple or banana, with cayenne sugar (MagGrill)
@@ -890,6 +895,7 @@
 * Ice cream (Jeni)
 * Jellyroll cake (KA)
 * Key lime pie with coconut (MagGrill)
+* Liege waffles (binder)
 * Lime-vanilla creme brulee (Mesa)
 * Macaroons (binder)
 * Marshmallows (binder, ACC)
@@ -1211,6 +1217,7 @@
 
 * Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
 * Ethereal buttercream frosting (binder)
+* Eton Mess (binder)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
 * Italian meringue / 7-minute frosting (binder, from KA website)
 * Macarons (binder - Noemie, [git](recipes/macarons.md))
@@ -1241,6 +1248,7 @@
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Sesame chicken (Serious Eats)
 * Shokupan - Japanese milk bread (binder)
+* Steak lettuce wraps with peanut sauce (binder, Pioneer Woman)
 * Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
 * Stir fry
 * Sushi, cooked (book)
