@@ -398,7 +398,6 @@ Wild huckleberry (blueberry) sauce (ACC);sauced
 Strawberries in red wine and balsamic syrup (ACC);sauced
 Cream cheese mousse (binder);sauced
 Whipped cream, gelatin-stabilized (binder);sauced
-Food processor pie crust (MagGrill, ACC);sauced
 Chocolate buttercream (USL);sauced
 Ganache frosting (PQ);sauced
 Rolled "buttercream" fondant (binder);sauced
@@ -499,7 +498,6 @@ Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat
 Fried chicken (Food Lab);poultry;fried;southern
 Taquitos;kids;poultry;pork;altgrains;mexican
 Palmiers ([web](https://www.thekitchn.com/how-to-make-classic-french-palmiers-138822));french;cookies
-Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry));sauced;flour
 Meatball subs;kids;fast;sandwich
 Pork ribs (Meathead's Last Meal Ribs);pork;grill;kids
 Cranberry pie with pecan crumble ([web](https://smittenkitchen.com/2014/11/cranberry-pie-with-thick-pecan-crumble/));fruitd;pies
@@ -567,3 +565,9 @@ Moravian sugar cake (binder, [web](https://www.southernliving.com/moravian-sugar
 Crispy pan-fried shelf-stable gnochi (binder);fast;pasta
 Eton Mess (binder);fruitd;whites
 Liege waffles (binder);otherd
+Brownies ([web](https://sallysbakingaddiction.com/seriously-fudgy-homemade-brownies/));chocd;bars
+Basque cheesecake ([web](https://smittenkitchen.com/2024/06/easy-basque-cheesecake/));otherd;custards
+Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.seriouseats.com/easy-pie-dough-recipe));pies;sauced;flour
+Rough puff pastry ([git](recipes/pastry-crusts.md));sauced;flour
+Lasagna soup ([git](recipes/lasagna-soup.md));italian;pasta;soups;sausage
+Egg roll bowls (Trader Joe's One-Stop Meals);asian;pork;eggs

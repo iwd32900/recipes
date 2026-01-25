@@ -33,6 +33,8 @@ Flip the dough periodically and add plenty of flour to prevent sticking.
 Fit into pie plate and flute edges if making bottom crust.
 Wrap in plastic and refrigerate at least 2 hours to allow gluten to fully relax, so that crust doesn't shrink in oven.
 
+**Blind baking**:  20 minutes with pie weights, followed by 15 minutes without, at 375 F.
+
 # Rough puff pastry
 
 Makes 10 oz of pastry; double if needed.

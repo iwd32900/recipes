@@ -174,6 +174,7 @@
 
 * Carnitas (Mexican-style pulled pork) (binder)
 * Chipotle pork tacos with pineapple salsa (binder)
+* Egg roll bowls (Trader Joe's One-Stop Meals)
 * Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/))
 * Peach-mustard pork (book)
 * Pork and mustard greens soup (binder)
@@ -207,6 +208,7 @@
 * Hotdogs
 * Italian sausages
 * Kielbasa, lentils, and spinach (binder)
+* Lasagna soup ([git](recipes/lasagna-soup.md))
 * Potato-sausage Christmas casserole (book)
 * Sausage and pepper casserole with grits (Emeril)
 * Sausage lasagna (binder)
@@ -309,6 +311,7 @@
 * French onion soup (FoodLab)
 * Ground beef chili, Cook's Illustrated (binder)
 * Gumbo (Cook's Country)
+* Lasagna soup ([git](recipes/lasagna-soup.md))
 * Pork and mustard greens soup (binder)
 * Potato-leek soup (binder)
 * Thai curry chicken soup (binder)
@@ -362,6 +365,7 @@
 * Deviled eggs, Bitler (book)
 * Deviled eggs, with bacon ([web](http://allrecipes.com/recipe/214059/garlic-basil-and-bacon-deviled-eggs/))
 * Deviled eggs, with basil aioli and capers (binder)
+* Egg roll bowls (Trader Joe's One-Stop Meals)
 * Eggs Benedict
 * Eggs over medium
 * Hard-boiled eggs
@@ -542,13 +546,14 @@
 * No-knead Dutch oven bread (binder, [web](https://www.cooksillustrated.com/recipes/4028-almost-no-knead-bread))
 * No-knead sourdough bread ([web](https://www.splendidtable.org/recipes/almost-no-knead-sourdough-bread))
 * Pancakes (BC)
+* Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.seriouseats.com/easy-pie-dough-recipe))
 * Pineapple stuffing ([git](recipes/pineapple-stuffing.md))
 * Popovers / Yorkshire puddings (KA)
 * Potato burger buns (binder)
 * Potato-flake white bread 101, dinner rolls or monkey bread (KA, [web](http://www.kingarthurflour.com/recipes/herbed-monkey-bread-recipe))
 * Pumpkin bread, Really Good (binder)
 * Refrigerator flatbread (Flay, ACC)
-* Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
+* Rough puff pastry ([git](recipes/pastry-crusts.md))
 * Scones, cheddar and bacon (PQ)
 * Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Sesame Italian bread (KA, ACC)
@@ -575,6 +580,7 @@
 * Gnocchi, potato (binder)
 * Gnochi a la Parisienne (binder)
 * Israeli couscous with apples, cranberries, and herbs (binder, [web](http://www.foodnetwork.com/recipes/giada-de-laurentiis/israeli-couscous-with-apples-cranberries-and-herbs-recipe))
+* Lasagna soup ([git](recipes/lasagna-soup.md))
 * Lo mein (binder, [web](https://www.recipetineats.com/lo-mein-noodles/#wprm-recipe-container-40538))
 * Macaroni and cheese, Mom's (CWC)
 * Macaroni and cheese, Panera (binder)
@@ -792,6 +798,7 @@
 
 * "Faux-reo" cookies, regular or mint (KA)
 * Bittersweet chocolate pudding (BLR)
+* Brownies ([web](https://sallysbakingaddiction.com/seriously-fudgy-homemade-brownies/))
 * Buche de Noel / Yule log (ACC)
 * Cherry chocolate cake, Grandma Rose’s (book)
 * Chocolate (canola) oil cake with chocolate chips (binder based on [web](https://smittenkitchen.com/2017/10/chocolate-olive-oil-cake-more-book-tour/))
@@ -872,6 +879,7 @@
 
 * Apple fritters ([git](recipes/apple-fritters.md), binder)
 * Basic yellow cake (KA)
+* Basque cheesecake ([web](https://smittenkitchen.com/2024/06/easy-basque-cheesecake/))
 * Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA)
 * Buttermilk panna cotta (MagGrill)
 * Buttermilk vanilla bean pie (MagGrill)
@@ -925,6 +933,7 @@
 ## Custards and Puddings ##
 
 * Banana pudding
+* Basque cheesecake ([web](https://smittenkitchen.com/2024/06/easy-basque-cheesecake/))
 * Bittersweet chocolate pudding (BLR)
 * Buttermilk panna cotta (MagGrill)
 * Butterscotch pudding (binder)
@@ -1016,6 +1025,7 @@
 * Peach pie with cardamom (binder)
 * Peanut butter pie (binder)
 * Peanut butter-honey tart with ganache glaze - Snickers tart (binder)
+* Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.seriouseats.com/easy-pie-dough-recipe))
 * Pink lemonade pie (BC?)
 * Rustic raspberry (or banana) tart/galette (binder)
 * Tarte Tatin (ACC)
@@ -1045,6 +1055,7 @@
 <a name='bars'></a>
 ## Bars ##
 
+* Brownies ([web](https://sallysbakingaddiction.com/seriously-fudgy-homemade-brownies/))
 * Easy chocolate peanut butter chip bars (binder)
 * Gooey butter cake ([from scratch](https://www.theyummylife.com/St_Louis_Gooey_Butter_Cake) or [Paula Dean](https://www.keyingredient.com/recipes/1003065048/paula-deens-ooey-gooey-butter-cake-and-variations/))
 * Jam and oat bars ([Stella Parks](https://www.seriouseats.com/jammy-fruit-bars))
@@ -1179,7 +1190,6 @@
 * Dulce de leche (slow-cooker water bath on low for 8 hours)
 * Ermine frosting / flour buttercream ([web](https://www.sugarologie.com/recipes/ermine-frosting#recipes))
 * Ethereal buttercream frosting (binder)
-* Food processor pie crust (MagGrill, ACC)
 * Ganache frosting (PQ)
 * Homemade "GOOP" pan release (binder, [web](http://iambaker.net/homemade-pan-release-baking-spray/))
 * Hot fudge sauce ([web](https://smittenkitchen.com/2017/06/best-hot-fudge-sauce/))
@@ -1187,8 +1197,9 @@
 * Jack Daniels buttercream (PQ)
 * Mascarpone-stabilized whipped cream frosting ([web](http://stressbaking.com/2015/07/stabilized-mascarpone-whipped-cream.html/))
 * Pastry cream (APPC/ACC - easier, KA - flavored)
+* Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.seriouseats.com/easy-pie-dough-recipe))
 * Rolled "buttercream" fondant (binder)
-* Rough-puff pastry ([Ramsay](https://www.bbcgoodfood.com/recipes/rough-puff-pastry))
+* Rough puff pastry ([git](recipes/pastry-crusts.md))
 * Salted caramel sauce ([web](https://smittenkitchen.com/2008/10/paris-a-deep-dark-salted-butter-caramel-sauce/))
 * Spiced strawberry schmear (softened butter, strawberry jam, cinnamon, cardamom, black pepper)
 * Strawberries in red wine and balsamic syrup (ACC)
@@ -1235,6 +1246,7 @@
 * Asian chicken salad (Besh MFT)
 * Asian slaw (binder, [web](http://www.foodnetwork.com/recipes/alton-brown/asian-slaw-recipe-1913307))
 * Bibimbap ([web](https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/))
+* Egg roll bowls (Trader Joe's One-Stop Meals)
 * Egg rolls (binder, [web](http://steamykitchen.com/13029-my-mothers-famous-chinese-egg-rolls-2.html))
 * General Tso's chicken ([ACC](http://chemistscookbook.blogspot.com/2015/08/chinese-chicken.html), binder)
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
@@ -1293,6 +1305,7 @@
 * Ciabatta ([git](recipes/ciabatta.md))
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Hands-free risotto (Cook's, binder)
+* Lasagna soup ([git](recipes/lasagna-soup.md))
 * Meatballs, with spaghetti (purchased)
 * Oven-dried tomatoes ([git](recipes/oven-dried-tomatoes.md))
 * Parmesean crusted chicken (binder)
