@@ -305,7 +305,7 @@ Memphis dust rub (binder, amazingribs.com);sauces
 Hot sauce (ACC, binder);sauces
 Chili seasoning mix (binder);sauces
 Taco seasoning mix (binder);sauces
-Strawberry cake, Grandma Rose's (book, [ACC](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html), [web](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/));fruitd;cakes
+Strawberry cake, Grandma Rose's ([git](recipes/strawberry-cake.md));fruitd;cakes
 Tarte Tatin (ACC);fruitd;pies
 Banana upside down cake (MagGrill, ACC);fruitd;cakes
 Upside-down butterscotch apple sour cream cake (ACC);fruitd;cakes

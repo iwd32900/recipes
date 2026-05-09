@@ -26,7 +26,7 @@ Whisk in:
 
 - 1 t vanilla extract
 
-Whisk together:
+In the bowl of a stand mixer, whisk together:
 
 - 4 reserved egg whites
 - 1/4 t cream of tartar
