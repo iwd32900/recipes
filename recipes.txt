@@ -573,3 +573,9 @@ Lasagna soup ([git](recipes/lasagna-soup.md));italian;pasta;soups;sausage
 Egg roll bowls (Trader Joe's One-Stop Meals);asian;pork;eggs
 Lemon curd or key lime curd ([git](recipes/citrus-curd.md));sousvide;custards;sauced;yolks
 Sour cherry crumb pie (Sally's Baking 101);pies;fruitd
+Focacia ([git](recipes/focaccia.md), binder);flour;italian
+Whipped cream cake (binder);cakes
+Creamy orzo with Italian sausage (binder);pasta;sausage;italian
+Shengjian bao (soup bao) (binder);flour;asian
+Gochujang glazed ribs (binder);pork;grill
+Fresh corn pasta sauce (binder);pasta

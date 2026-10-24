@@ -175,6 +175,7 @@
 * Carnitas (Mexican-style pulled pork) (binder)
 * Chipotle pork tacos with pineapple salsa (binder)
 * Egg roll bowls (Trader Joe's One-Stop Meals)
+* Gochujang glazed ribs (binder)
 * Ham croquetas ([web](https://asassyspoon.com/ham-croquettes/))
 * Peach-mustard pork (book)
 * Pork and mustard greens soup (binder)
@@ -202,6 +203,7 @@
 * Bratwurst
 * Chicken and sausage jambalaya ([web](https://www.southernliving.com/recipes/chicken-and-sausage-jambalaya-recipe))
 * Corn dogs (binder)
+* Creamy orzo with Italian sausage (binder)
 * Dirty rice ([web](https://www.pauladeen.com/recipe/dirty-rice/))
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Gumbo (Cook's Country)
@@ -496,6 +498,7 @@
 
 * Barbecue chicken
 * Bratwurst
+* Gochujang glazed ribs (binder)
 * Hamburgers
 * Hanger steak with cucumber salad, Jujube (Bon Appetit, binder)
 * Hotdogs
@@ -534,6 +537,7 @@
 * Crusty rolls (fresh or frozen, $)
 * Doughnut muffins (binder)
 * Flour tortillas ([web](https://www.delish.com/cooking/recipe-ideas/a27133027/homemade-flour-tortillas-recipe/))
+* Focacia ([git](recipes/focaccia.md), binder)
 * French toast, from croissants (ACC)
 * Hot water pastry crust ([Paul Hollywood](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-raised-game-pie/))
 * KA 36-hour ciabatta (KA, ACC, flat for sandwiches)
@@ -558,6 +562,7 @@
 * Scones, cheddar and bacon (PQ)
 * Scones, master recipe ([web](https://sallysbakingaddiction.com/scones-recipe/))
 * Sesame Italian bread (KA, ACC)
+* Shengjian bao (soup bao) (binder)
 * Shokupan - Japanese milk bread (binder)
 * Sourdough starter ([web](https://www.cooksillustrated.com/articles/2268-make-your-own-mini-sourdough-starter-with-the-quarantinystarter-project))
 * Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
@@ -573,10 +578,12 @@
 * Chicken tetrazzini (BC)
 * Couscous with shallots and almonds (Cook's, binder)
 * Creamy cajun pasta, dairy free ([web](https://www.hummusapien.com/creamy-cajun-pasta/))
+* Creamy orzo with Italian sausage (binder)
 * Crispy pan-fried shelf-stable gnochi (binder)
 * Egg noodles (homemade - binder)
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
 * Fettuccine, angel hair, etc. (homemade - Puck, refrigerated or dried)
+* Fresh corn pasta sauce (binder)
 * Fresh pasta ([web](https://www.bonappetit.com/recipe/fresh-pasta-dough))
 * Gnocchi, potato (binder)
 * Gnochi a la Parisienne (binder)
@@ -998,6 +1005,7 @@
 * Tres leches cake ([Pioneer Woman](http://thepioneerwoman.com/cooking/tres-leches-cake/), [Smitten Kitchen](https://smittenkitchen.com/2015/12/tres-leches-cake-a-taco-party/) - best, binder)
 * Upside-down butterscotch apple sour cream cake (ACC)
 * Vanilla oil cake ([web](https://beyondfrosting.com/moist-vanilla-cake-recipe/))
+* Whipped cream cake (binder)
 * White cake with Jack Daniels buttercream (PQ)
 * Yellow cake (CI Desserts)
 
@@ -1265,6 +1273,7 @@
 * Poke, faux ([git](recipes/faux-poke.md))
 * Pork meatball bahn mi (binder, [web](http://www.bonappetit.com/recipe/pork-meatball-banh-mi))
 * Sesame chicken (Serious Eats)
+* Shengjian bao (soup bao) (binder)
 * Shokupan - Japanese milk bread (binder)
 * Steak lettuce wraps with peanut sauce (binder, Pioneer Woman)
 * Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/))
@@ -1309,7 +1318,9 @@
 * Chicken parmigiana
 * Chicken piccata (USL)
 * Ciabatta ([git](recipes/ciabatta.md))
+* Creamy orzo with Italian sausage (binder)
 * Fettuccine with creamy tomato & sausage sauce ([web](https://www.epicurious.com/recipes/food/views/fettuccine-with-creamy-tomato-and-sausage-sauce-104493), book)
+* Focacia ([git](recipes/focaccia.md), binder)
 * Hands-free risotto (Cook's, binder)
 * Lasagna soup ([git](recipes/lasagna-soup.md))
 * Meatballs, with spaghetti (purchased)

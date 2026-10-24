@@ -4,6 +4,11 @@ Include aromatics in the bag if desired, but not fat (which will steal the aroma
 
 [Reference on time/temp for food safety](https://douglasbaldwin.com/sous-vide.html)
 
+## Pickles
+
+140 F for 2.5 hours, to get better crunch. Shelf stable for 6 months.
+(Cooks Illustrated 2026, from website ChefSteps)
+
 ## Chicken
 
 155 F for ...
