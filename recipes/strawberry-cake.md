@@ -1,56 +1,71 @@
 # Strawberry cake
 
-Katy's Grandma Rose made her famous [strawberry cake](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html)
-from boxed cake mix and strawberry Jello,
-much like [this recipe from Paula Dean](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/).
-
-However, box mixes have shrunk and Ben needs a dairy-free cake,
-so I've switched to [this cake from Sally's Baking Addiction](https://sallysbakingaddiction.com/strawberry-cake/)
-plus [her strawberry buttercream](https://sallysbakingaddiction.com/strawberry-frosting/).
-
 Grease two 9" cake pans and line bottoms with parchment paper.
-
-Hull one pound of strawberries, blend them up, and simmer to reduce to 1/2 cup.
-(I'd like to try skipping this step and eliminating the Ripple to keep the volume at one cup.)
 
 In a medium bowl, whisk together:
 
-- 295 g cake flour
-- 3 t baking powder (original was 2 t + 1/2 t baking powder)
-- 1 t salt
+- 500 g all purpose flour (try cake flour?)
+- 2 t baking powder (additional leavening from eggs)
+- 2 t salt
+- zest of one lemon (lemon reserved for juice)
 
-In a stand mixer, beat together:
+In a stand mixer, whisk until foamy:
 
-- 12 T plant butter, at room temp
-- 350 g sugar
+- 6 whole eggs
 
-After 3 minutes, add egg whites and continue beating:
+Whisk in suagr and whip until fluffy and pale, about 3 minutes:
 
-- 5 large egg whites, room temp
+- 500 g sugar
 
-After 2 more minutes, beat in:
+Slowly whisk in:
 
-- 80 g coconut cream, from the top of a can of coconut milk (remainder reserved)
-- 2 t vanilla
-- red or pink food coloring
+- 2 T vanilla
+- pink food coloring, if desired
+- 300 g neutral oil
 
-Fold in **flour mixture**, then fold in just until combined:
+With a spatula, fold in half the **flour mixture**, then
 
-- strawberry puree
-- Ripple plant milk, to make a total volume of 1 cup with the puree
+- 12 oz unsweetened Ripple milk
 
-Bake 25 minutes at 350 F until a toothpick comes out clean.
+then the remainder of the **flour mixture**.
+
+Bake 45-50 minutes at 350 F until an internal temp of 200 F.
+
+## Filling
+
+- 16 oz strawberries, hulled (about 12 oz)
+- juice of 1 lemon
+- 4 oz sugar
+- 2 T cornstarch
+
+Mash together in a saucepan over medium heat until thickened.  Refrigerate.
 
 ## Frosting
 
 In a stand mixer, beat together until fluffy:
 
-- 16 T (two sticks) plant butter, room temp
-- 420 g confectioner's sugar
+- 20 T (2.5 sticks) plant butter, room temp
+- 525 g confectioner's sugar
 - 25 g freeze-dried strawberries, ground to powder
 
 Beat in:
 
-- 60 g coconut cream, from the reserved can (add more as needed)
+- 75 g plant cream, or coconut cream from the top of a can of coconut milk
 - 1 t vanilla
 - salt to taste (if needed)
+
+## Assembly
+
+Slice each cake into two halves horizontally, for a total of 4 cake layers and 3 filling layers.
+Between cake layers, pipe an outer ring of frosting and fill with strawberry puree.
+
+## Sources
+
+Katy's Grandma Rose made her famous [strawberry cake](http://chemistscookbook.blogspot.com/2008/01/strawberry-cake.html)
+from boxed cake mix and strawberry Jello,
+much like [this recipe from Paula Dean](https://www.pauladeen.com/recipe/simply-delicious-strawberry-cake/).
+
+However, box mixes have shrunk and Ben needs a dairy-free cake.
+[This cake from Sally's Baking Addiction](https://sallysbakingaddiction.com/strawberry-cake/) is too dry,
+but I adopted [her strawberry buttercream](https://sallysbakingaddiction.com/strawberry-frosting/).
+The cake I use here is an adaptation of an olive oil cake from Cooks Illustrated.

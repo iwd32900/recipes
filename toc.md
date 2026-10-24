@@ -458,6 +458,7 @@
 <a name='sous-vide'></a>
 ## Sous Vide ##
 
+* Lemon curd or key lime curd ([git](recipes/citrus-curd.md))
 * Sous-vide 24-hour beef chuck ([git](recipes/sous-vide.md))
 * Sous-vide poached chicken ([git](recipes/sous-vide.md))
 * Sous-vide poached shrimp ([git](recipes/sous-vide.md))
@@ -865,6 +866,7 @@
 * Raspberry sherbet (binder)
 * Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
 * Rustic raspberry (or banana) tart/galette (binder)
+* Sour cherry crumb pie (Sally's Baking 101)
 * Strawberry cake, Grandma Rose's ([git](recipes/strawberry-cake.md))
 * Strawberry freeze (binder)
 * Strawberry shortcake (MagGrill)
@@ -943,6 +945,7 @@
 * Foolproof NY Cheesecake ([web](https://www.cooksillustrated.com/recipes/8208-foolproof-new-york-cheesecake), binder)
 * Ginger creme brulee (MagGrill)
 * Key lime pie with coconut (MagGrill)
+* Lemon curd or key lime curd ([git](recipes/citrus-curd.md))
 * Lime-vanilla creme brulee (Mesa)
 * Pate a choux / Cream puffs / Eclairs (KA)
 * Pomegranate panna cotta (binder)
@@ -965,7 +968,7 @@
 <a name='cakes'></a>
 ## Cakes ##
 
-* Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
+* Apricot-almond meringue cake/stacked pavlova (sub. strawberries) (CI Desserts)
 * Banana upside down cake (MagGrill, ACC)
 * Basic yellow cake (KA)
 * Boston cream pie ([Cooks](https://www.cooksillustrated.com/recipes/6395-wicked-good-boston-cream-pie), KA)
@@ -1028,6 +1031,7 @@
 * Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.seriouseats.com/easy-pie-dough-recipe))
 * Pink lemonade pie (BC?)
 * Rustic raspberry (or banana) tart/galette (binder)
+* Sour cherry crumb pie (Sally's Baking 101)
 * Tarte Tatin (ACC)
 
 <a name='cookies'></a>
@@ -1195,6 +1199,7 @@
 * Hot fudge sauce ([web](https://smittenkitchen.com/2017/06/best-hot-fudge-sauce/))
 * Italian meringue / 7-minute frosting (binder, from KA website)
 * Jack Daniels buttercream (PQ)
+* Lemon curd or key lime curd ([git](recipes/citrus-curd.md))
 * Mascarpone-stabilized whipped cream frosting ([web](http://stressbaking.com/2015/07/stabilized-mascarpone-whipped-cream.html/))
 * Pastry cream (APPC/ACC - easier, KA - flavored)
 * Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.seriouseats.com/easy-pie-dough-recipe))
@@ -1216,6 +1221,7 @@
 * Cranberry curd tart with almond crust (Cook's Desserts)
 * Hollandaise (binder - Cook's)
 * Key lime pie with coconut (MagGrill)
+* Lemon curd or key lime curd ([git](recipes/citrus-curd.md))
 * Mayonnaise (CW)
 * Pudding, vanilla (bean) (USL/BC)
 * Raspberry shortbread, Austrian ([web](https://smittenkitchen.com/2007/12/austrian-raspberry-shortbread/))
@@ -1226,7 +1232,7 @@
 <a name='uses-whites'></a>
 ## Uses whites ##
 
-* Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
+* Apricot-almond meringue cake/stacked pavlova (sub. strawberries) (CI Desserts)
 * Ethereal buttercream frosting (binder)
 * Eton Mess (binder)
 * Ian's triple chocolate crunchy sandwich cookies (binder)
@@ -1273,7 +1279,7 @@
 <a name='french'></a>
 ## French ##
 
-* Apricot-almond meringue cake (sub. strawberries) (CI Desserts)
+* Apricot-almond meringue cake/stacked pavlova (sub. strawberries) (CI Desserts)
 * Cheese soufflé (binder)
 * Chicken Cordon Bleu casserole ([web](http://tastykitchen.com/recipes/main-courses/chicken-cordon-bleu-casserole-4/), binder)
 * Chicken with onions and mustard-cream sauce (just wine, Dijon, cream)

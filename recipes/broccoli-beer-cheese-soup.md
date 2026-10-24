@@ -18,6 +18,8 @@ Season with:
 - hot sauce, such as Frank's Red Hot
 - salt
 
+Add in vegetables and blend until smooth.
+
 Garnish with:
 - chopped bacon
 - popped popcorn

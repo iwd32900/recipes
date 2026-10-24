@@ -547,7 +547,7 @@ Yellow cake (CI Desserts);yolks;cakes
 Steamed pork buns (baozi) ([web](https://thewoksoflife.com/steamed-pork-buns-baozi/));pork;flour;asian
 Cranberry curd tart with almond crust (Cook's Desserts);yolks;pies;fruitd
 Lace cookies ([web](https://sallysbakingaddiction.com/lace-cookies/));cookies
-Apricot-almond meringue cake (sub. strawberries) (CI Desserts);french;whites;cakes
+Apricot-almond meringue cake/stacked pavlova (sub. strawberries) (CI Desserts);french;whites;cakes
 Fisherman's pie (binder);fish;casserole
 Savory oatmeal (binder);altgrains
 Banoffee pie (binder);pies
@@ -571,3 +571,5 @@ Pie crust, easy all-butter ([git](recipes/pastry-crusts.md), [web](https://www.s
 Rough puff pastry ([git](recipes/pastry-crusts.md));sauced;flour
 Lasagna soup ([git](recipes/lasagna-soup.md));italian;pasta;soups;sausage
 Egg roll bowls (Trader Joe's One-Stop Meals);asian;pork;eggs
+Lemon curd or key lime curd ([git](recipes/citrus-curd.md));sousvide;custards;sauced;yolks
+Sour cherry crumb pie (Sally's Baking 101);pies;fruitd
